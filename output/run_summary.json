@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-08-17T09:00:00-07:00",
+  "data_quality": {
+    "platform_rows_raw": 778,
+    "platform_duplicate_rows_dropped": 6,
+    "pos_rows_raw": 1528,
+    "pos_delivery_checks": 744,
+    "pos_delivery_checks_with_ref": 551,
+    "pos_refs_normalized": 69,
+    "pos_amounts_with_dollar_sign": 164
+  },
+  "matching": {
+    "exact_ref": 551,
+    "time_amount": 185,
+    "candidate_pairs": 189
+  },
+  "evaluation": {
+    "match_precision": 1.0,
+    "match_recall": 0.997289972899729,
+    "true_pairs": 738,
+    "predicted_pairs": 736,
+    "by_method": {
+      "exact_ref": {
+        "matched": 551,
+        "correct": 551
+      },
+      "time_amount": {
+        "matched": 185,
+        "correct": 185
+      }
+    },
+    "exceptions": {
+      "CANCELLED_NOT_VOIDED": {
+        "expected": 10,
+        "flagged": 10,
+        "caught": 10,
+        "false_alarms": 0
+      },
+      "LATE_DELIVERY": {
+        "expected": 61,
+        "flagged": 61,
+        "caught": 61,
+        "false_alarms": 0
+      },
+      "MISSING_IN_POS": {
+        "expected": 25,
+        "flagged": 27,
+        "caught": 25,
+        "false_alarms": 2
+      },
+      "POS_ONLY_DELIVERY": {
+        "expected": 6,
+        "flagged": 8,
+        "caught": 6,
+        "false_alarms": 2
+      },
+      "PRICE_MISMATCH": {
+        "expected": 145,
+        "flagged": 143,
+        "caught": 143,
+        "false_alarms": 0
+      }
+    }
+  }
+}

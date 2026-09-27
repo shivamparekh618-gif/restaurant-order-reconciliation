@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Delivery Reconciliation</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f6f4; --card: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --ink-3: #8a8983;
+  --rule: #e4e3de; --bar: #2a78d6; --bar-hi: #1c5aa6;
+  --today: #b42318; --today-bg: #fdecea; --week: #8a5a00; --week-bg: #fff4d6;
+  --monitor: #52514e; --monitor-bg: #eeeeea; --note-bg: #eef4fc;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #111110; --card: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --ink-3: #8f8e86;
+    --rule: #2c2c2a; --bar: #3987e5; --bar-hi: #7fb2f0;
+    --today: #ff8a80; --today-bg: #3a1714; --week: #f2c14e; --week-bg: #33280c;
+    --monitor: #c3c2b7; --monitor-bg: #262624; --note-bg: #16233a;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+       font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 1120px; margin: 0 auto; padding: 28px 16px 48px; }
+header { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; flex-wrap: wrap; }
+h1 { font-size: 22px; margin: 0 0 4px; }
+h2 { font-size: 15px; margin: 32px 0 10px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-2); }
+.sub { color: var(--ink-2); margin: 0; }
+.badge { font-size: 12px; padding: 4px 10px; border-radius: 999px; background: var(--note-bg); color: var(--ink-2); }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 20px; }
+.card { background: var(--card); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px; }
+.kpi .v { font-size: 28px; font-weight: 650; font-variant-numeric: tabular-nums; }
+.kpi .l { color: var(--ink-2); font-size: 13px; }
+.decisions { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+.decision h3 { margin: 0 0 6px; font-size: 15px; }
+.decision .n { color: var(--ink-3); font-weight: 600; margin-right: 6px; }
+.decision p { margin: 6px 0; color: var(--ink-2); }
+.decision .do { color: var(--ink); font-weight: 600; }
+.charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; }
+.charts h3 { font-size: 14px; margin: 0 0 2px; }
+.charts .cap { color: var(--ink-2); font-size: 12px; margin: 0 0 8px; }
+svg text { fill: var(--ink-2); font-size: 11px; }
+svg .bar { fill: var(--bar); }
+svg .bar:hover { fill: var(--bar-hi); }
+svg .axis { stroke: var(--rule); }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--rule); border-radius: 10px; overflow: hidden; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font-size: 12px; color: var(--ink-2); font-weight: 600; background: var(--card); }
+td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+.tier { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+.tier.today { color: var(--today); background: var(--today-bg); }
+.tier.week { color: var(--week); background: var(--week-bg); }
+.tier.monitor { color: var(--monitor); background: var(--monitor-bg); }
+.mono { white-space: nowrap; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; }
+.muted { color: var(--ink-2); }
+.split { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; }
+dl { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; margin: 0; }
+dd { margin: 0; text-align: right; font-variant-numeric: tabular-nums; }
+footer { margin-top: 32px; color: var(--ink-3); font-size: 12px; }
+</style></head>
+<body><main>
+<header><div><h1>Delivery order reconciliation</h1>
+<p class="sub">Delivery platform vs POS &middot; Aug 03 – Aug 16, 2026 &middot; as of Mon Aug 17, 09:00 AM</p></div>
+<span class="badge">Portfolio prototype &middot; synthetic data</span></header>
+<div class="kpis">
+<div class="card kpi"><div class="v">772</div><div class="l">platform orders (744 delivered)</div></div>
+<div class="card kpi"><div class="v">95.3%</div><div class="l">matched to a POS check</div></div>
+<div class="card kpi"><div class="v">$1,681</div><div class="l">estimated at risk across 249 exceptions</div></div>
+<div class="card kpi"><div class="v">13</div><div class="l">exceptions to handle today ($391)</div></div>
+</div>
+<h2>Decisions for this week</h2>
+<div class="decisions">
+<div class="card decision"><h3><span class="n">1</span>Update the platform price of Chicken Tikka Bowl</h3>
+<p>141 of 143 price mismatches contain this item, and the POS
+charges <b>$1.00 more per unit</b> on every one of them, starting Sat Aug 08.
+It looks like a POS price change that never reached the platform menu.</p>
+<p>$159 under-collected so far &middot; about <b>$118/week</b>
+(~$6,150/year) if nothing changes.</p>
+<p class="do">Next step: confirm the intended price, then update the platform menu.</p></div>
+<div class="card decision"><h3><span class="n">2</span>Watch order entry on Fri dinner and Sat dinner</h3>
+<p>56% of platform orders missing from the POS happened in these shifts,
+which carry only 20% of orders. The miss rate there is
+<b>10%</b> vs 2.0% the rest of the week.</p>
+<p>That pattern points at the order tablet or the person entering orders during the rush,
+not at random mistakes.</p>
+<p class="do">Next step: ask the closing lead how platform orders reach the kitchen during the rush.</p></div>
+<div class="card decision"><h3><span class="n">3</span>Late deliveries cluster on Fri dinner and Sat dinner</h3>
+<p><b>21%</b> of orders in these shifts arrived 15+ minutes past the promised
+time, vs 5.0% otherwise.</p>
+<p>The data can't tell kitchen delay from courier delay: the platform export has no pickup time.</p>
+<p class="do">Next step: pull pickup timestamps for these shifts before deciding on staffing or prep times.</p></div></div>
+<h2>Where it happens</h2>
+<div class="charts">
+<div class="card"><h3>Orders missing from the POS, by hour</h3><p class="cap">Share of delivered platform orders with no POS check. Hover a bar for counts.</p><svg viewBox="0 0 460 170" width="100%" role="img" aria-label="Orders missing from the POS, by hour"><line class="axis" x1="34" x2="452" y1="148.0" y2="148.0"/><text x="28" y="152.0" text-anchor="end">0</text><line class="axis" x1="34" x2="452" y1="82.0" y2="82.0"/><text x="28" y="86.0" text-anchor="end">3.5%</text><line class="axis" x1="34" x2="452" y1="16.0" y2="16.0"/><text x="28" y="20.0" text-anchor="end">6.9%</text><g><title>11a: 1 of 54 orders (1.9%)</title><rect class="bar" x="36.0" y="112.8" width="34.0" height="35.2" rx="4"/><rect class="bar" x="36.0" y="144.0" width="34.0" height="4.0"/></g><text x="53.0" y="164" text-anchor="middle">11a</text><g><title>12p: 2 of 119 orders (1.7%)</title><rect class="bar" x="74.0" y="116.1" width="34.0" height="31.9" rx="4"/><rect class="bar" x="74.0" y="144.0" width="34.0" height="4.0"/></g><text x="91.0" y="164" text-anchor="middle">12p</text><g><title>1p: 2 of 84 orders (2.4%)</title><rect class="bar" x="112.0" y="102.7" width="34.0" height="45.3" rx="4"/><rect class="bar" x="112.0" y="144.0" width="34.0" height="4.0"/></g><text x="129.0" y="164" text-anchor="middle">1p</text><g><title>2p: 1 of 25 orders (4.0%)</title><rect class="bar" x="150.0" y="72.0" width="34.0" height="76.0" rx="4"/><rect class="bar" x="150.0" y="144.0" width="34.0" height="4.0"/></g><text x="167.0" y="164" text-anchor="middle">2p</text><g><title>3p: 1 of 27 orders (3.7%)</title><rect class="bar" x="188.0" y="77.6" width="34.0" height="70.4" rx="4"/><rect class="bar" x="188.0" y="144.0" width="34.0" height="4.0"/></g><text x="205.0" y="164" text-anchor="middle">3p</text><g><title>4p: 0 of 23 orders (0.0%)</title><rect class="bar" x="226.0" y="148.0" width="34.0" height="0.0" rx="4"/><rect class="bar" x="226.0" y="148.0" width="34.0" height="0.0"/></g><text x="243.0" y="164" text-anchor="middle">4p</text><g><title>5p: 2 of 52 orders (3.8%)</title><rect class="bar" x="264.0" y="74.9" width="34.0" height="73.1" rx="4"/><rect class="bar" x="264.0" y="144.0" width="34.0" height="4.0"/></g><text x="281.0" y="164" text-anchor="middle">5p</text><g><title>6p: 5 of 134 orders (3.7%)</title><rect class="bar" x="302.0" y="77.1" width="34.0" height="70.9" rx="4"/><rect class="bar" x="302.0" y="144.0" width="34.0" height="4.0"/></g><text x="319.0" y="164" text-anchor="middle">6p</text><g><title>7p: 8 of 129 orders (6.2%)</title><rect class="bar" x="340.0" y="30.1" width="34.0" height="117.9" rx="4"/><rect class="bar" x="340.0" y="144.0" width="34.0" height="4.0"/></g><text x="357.0" y="164" text-anchor="middle">7p</text><g><title>8p: 5 of 72 orders (6.9%)</title><rect class="bar" x="378.0" y="16.0" width="34.0" height="132.0" rx="4"/><rect class="bar" x="378.0" y="144.0" width="34.0" height="4.0"/></g><text x="395.0" y="164" text-anchor="middle">8p</text><g><title>9p: 0 of 25 orders (0.0%)</title><rect class="bar" x="416.0" y="148.0" width="34.0" height="0.0" rx="4"/><rect class="bar" x="416.0" y="148.0" width="34.0" height="0.0"/></g><text x="433.0" y="164" text-anchor="middle">9p</text></svg></div>
+<div class="card"><h3>Late deliveries, by hour</h3><p class="cap">Share of delivered orders 15+ min past the promised time.</p><svg viewBox="0 0 460 170" width="100%" role="img" aria-label="Late deliveries, by hour"><line class="axis" x1="34" x2="452" y1="148.0" y2="148.0"/><text x="28" y="152.0" text-anchor="end">0</text><line class="axis" x1="34" x2="452" y1="82.0" y2="82.0"/><text x="28" y="86.0" text-anchor="end">9.0%</text><line class="axis" x1="34" x2="452" y1="16.0" y2="16.0"/><text x="28" y="20.0" text-anchor="end">18%</text><g><title>11a: 2 of 54 orders (3.7%)</title><rect class="bar" x="36.0" y="120.9" width="34.0" height="27.1" rx="4"/><rect class="bar" x="36.0" y="144.0" width="34.0" height="4.0"/></g><text x="53.0" y="164" text-anchor="middle">11a</text><g><title>12p: 4 of 119 orders (3.4%)</title><rect class="bar" x="74.0" y="123.4" width="34.0" height="24.6" rx="4"/><rect class="bar" x="74.0" y="144.0" width="34.0" height="4.0"/></g><text x="91.0" y="164" text-anchor="middle">12p</text><g><title>1p: 4 of 84 orders (4.8%)</title><rect class="bar" x="112.0" y="113.2" width="34.0" height="34.8" rx="4"/><rect class="bar" x="112.0" y="144.0" width="34.0" height="4.0"/></g><text x="129.0" y="164" text-anchor="middle">1p</text><g><title>2p: 1 of 25 orders (4.0%)</title><rect class="bar" x="150.0" y="118.8" width="34.0" height="29.2" rx="4"/><rect class="bar" x="150.0" y="144.0" width="34.0" height="4.0"/></g><text x="167.0" y="164" text-anchor="middle">2p</text><g><title>3p: 0 of 27 orders (0.0%)</title><rect class="bar" x="188.0" y="148.0" width="34.0" height="0.0" rx="4"/><rect class="bar" x="188.0" y="148.0" width="34.0" height="0.0"/></g><text x="205.0" y="164" text-anchor="middle">3p</text><g><title>4p: 1 of 23 orders (4.3%)</title><rect class="bar" x="226.0" y="116.2" width="34.0" height="31.8" rx="4"/><rect class="bar" x="226.0" y="144.0" width="34.0" height="4.0"/></g><text x="243.0" y="164" text-anchor="middle">4p</text><g><title>5p: 4 of 52 orders (7.7%)</title><rect class="bar" x="264.0" y="91.8" width="34.0" height="56.2" rx="4"/><rect class="bar" x="264.0" y="144.0" width="34.0" height="4.0"/></g><text x="281.0" y="164" text-anchor="middle">5p</text><g><title>6p: 16 of 134 orders (12%)</title><rect class="bar" x="302.0" y="60.7" width="34.0" height="87.3" rx="4"/><rect class="bar" x="302.0" y="144.0" width="34.0" height="4.0"/></g><text x="319.0" y="164" text-anchor="middle">6p</text><g><title>7p: 14 of 129 orders (11%)</title><rect class="bar" x="340.0" y="68.7" width="34.0" height="79.3" rx="4"/><rect class="bar" x="340.0" y="144.0" width="34.0" height="4.0"/></g><text x="357.0" y="164" text-anchor="middle">7p</text><g><title>8p: 13 of 72 orders (18%)</title><rect class="bar" x="378.0" y="16.0" width="34.0" height="132.0" rx="4"/><rect class="bar" x="378.0" y="144.0" width="34.0" height="4.0"/></g><text x="395.0" y="164" text-anchor="middle">8p</text><g><title>9p: 2 of 25 orders (8.0%)</title><rect class="bar" x="416.0" y="89.5" width="34.0" height="58.5" rx="4"/><rect class="bar" x="416.0" y="144.0" width="34.0" height="4.0"/></g><text x="433.0" y="164" text-anchor="middle">9p</text></svg></div>
+</div>
+<h2>Work queue &middot; top 15 of 249</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>#</th><th>Tier</th><th>Exception</th><th>Order / check</th><th>When</th>
+<th style="text-align:right">At risk</th><th style="text-align:right">Score</th><th>Next step</th></tr></thead>
+<tbody><tr>
+<td class="num">1</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-368967</td>
+<td>Fri Aug 14 06:18 PM</td>
+<td class="num">$38.33</td>
+<td class="num">57.5</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">2</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-733E55</td>
+<td>Sun Aug 16 06:22 PM</td>
+<td class="num">$28.47</td>
+<td class="num">42.7</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">3</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-F0E9B2</td>
+<td>Sat Aug 15 02:24 PM</td>
+<td class="num">$27.38</td>
+<td class="num">41.1</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">4</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-9BF1AD</td>
+<td>Tue Aug 11 07:32 PM</td>
+<td class="num">$41.06</td>
+<td class="num">41.1</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">5</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-7DEF78</td>
+<td>Fri Aug 14 06:37 PM</td>
+<td class="num">$25.19</td>
+<td class="num">37.8</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">6</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-ECA260</td>
+<td>Sat Aug 15 08:41 PM</td>
+<td class="num">$25.19</td>
+<td class="num">37.8</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">7</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-6E1A94</td>
+<td>Sat Aug 15 07:07 PM</td>
+<td class="num">$24.09</td>
+<td class="num">36.1</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">8</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-4CF28A</td>
+<td>Sun Aug 16 05:37 PM</td>
+<td class="num">$23.00</td>
+<td class="num">34.5</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">9</td>
+<td><span class="tier today">Act today</span></td>
+<td>Cancelled, not voided<div class="muted">Cancelled on platform, POS check CHK-106446 not voided</div></td>
+<td class="mono">DP-4DC046</td>
+<td>Fri Aug 14 11:00 AM</td>
+<td class="num">$24.09</td>
+<td class="num">28.9</td>
+<td>Void the POS check; check whether food was made and wasted</td></tr><tr>
+<td class="num">10</td>
+<td><span class="tier today">Act today</span></td>
+<td>Cancelled, not voided<div class="muted">Cancelled on platform, POS check CHK-106798 not voided</div></td>
+<td class="mono">DP-F7C0E9</td>
+<td>Sat Aug 15 05:05 PM</td>
+<td class="num">$22.45</td>
+<td class="num">26.9</td>
+<td>Void the POS check; check whether food was made and wasted</td></tr><tr>
+<td class="num">11</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-9E8C0A</td>
+<td>Fri Aug 14 12:50 PM</td>
+<td class="num">$16.43</td>
+<td class="num">24.6</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">12</td>
+<td><span class="tier today">Act today</span></td>
+<td>Cancelled, not voided<div class="muted">Cancelled on platform, POS check CHK-104048 not voided</div></td>
+<td class="mono">DP-5D05AD</td>
+<td>Mon Aug 03 12:53 PM</td>
+<td class="num">$54.20</td>
+<td class="num">21.7</td>
+<td>Void the POS check; check whether food was made and wasted</td></tr><tr>
+<td class="num">13</td>
+<td><span class="tier today">Act today</span></td>
+<td>Missing in POS<div class="muted">Delivered on platform, no POS check found</div></td>
+<td class="mono">DP-5D0791</td>
+<td>Fri Aug 07 07:37 PM</td>
+<td class="num">$41.61</td>
+<td class="num">20.8</td>
+<td>Confirm with kitchen whether it was made; ring it in so sales and inventory are right</td></tr><tr>
+<td class="num">14</td>
+<td><span class="tier week">This week</span></td>
+<td>Cancelled, not voided<div class="muted">Cancelled on platform, POS check CHK-104233 not voided</div></td>
+<td class="mono">DP-2715D5</td>
+<td>Tue Aug 04 12:23 PM</td>
+<td class="num">$48.18</td>
+<td class="num">19.3</td>
+<td>Void the POS check; check whether food was made and wasted</td></tr><tr>
+<td class="num">15</td>
+<td><span class="tier week">This week</span></td>
+<td>Cancelled, not voided<div class="muted">Cancelled on platform, POS check CHK-105286 not voided</div></td>
+<td class="mono">DP-18810F</td>
+<td>Sat Aug 08 08:16 PM</td>
+<td class="num">$47.08</td>
+<td class="num">18.8</td>
+<td>Void the POS check; check whether food was made and wasted</td></tr></tbody></table></div>
+<p class="muted">Score = dollars at risk &times; type weight &times; recency (1.5&times; if under 3 days old,
+0.5&times; if older than the assumed 7-day dispute window).
+Full list: <span class="mono">output/exception_queue.csv</span>.</p>
+<h2>Exceptions by type</h2>
+<div class="table-wrap"><table><thead><tr><th>Exception type</th><th style="text-align:right">Count</th>
+<th style="text-align:right">Act today</th><th style="text-align:right">$ at risk</th>
+<th style="text-align:right">Weight</th></tr></thead><tbody><tr><td>Missing in POS</td><td class='num'>27</td><td class='num'>10</td><td class='num'>$684</td><td class='num'>1.0</td></tr><tr><td>Late delivery</td><td class='num'>61</td><td class='num'>0</td><td class='num'>$383</td><td class='num'>0.5</td></tr><tr><td>Cancelled, not voided</td><td class='num'>10</td><td class='num'>3</td><td class='num'>$289</td><td class='num'>0.8</td></tr><tr><td>Price mismatch</td><td class='num'>143</td><td class='num'>0</td><td class='num'>$185</td><td class='num'>1.0</td></tr><tr><td>POS-only delivery</td><td class='num'>8</td><td class='num'>0</td><td class='num'>$140</td><td class='num'>0.6</td></tr></tbody></table></div>
+<h2>Data quality &amp; matching</h2>
+<div class="split"><div class="card"><dl>
+<dt>Platform rows in export</dt><dd>778</dd>
+<dt>Duplicate platform rows dropped</dt><dd>6</dd>
+<dt>POS checks in export (all channels)</dt><dd>1528</dd>
+<dt>Delivery-channel POS checks</dt><dd>744</dd>
+<dt>…with a platform reference typed in</dt><dd>551</dd>
+<dt>…reference needed cleaning (case, prefix)</dt><dd>69</dd>
+<dt>Matched by reference</dt><dd>551</dd>
+<dt>Matched by time + amount (fallback)</dt><dd>185</dd>
+</dl></div><div class="card"><p style="margin-top:0"><b>Checked against the synthetic answer key</b></p>
+<dl><dt>Match precision</dt><dd>100.0%</dd>
+<dt>Match recall</dt><dd>99.7%</dd><dt>Cancelled, not voided: caught / planted</dt><dd>10 / 10</dd><dt>Late delivery: caught / planted</dt><dd>61 / 61</dd><dt>Missing in POS: caught / planted</dt><dd>25 / 25 (+2 false)</dd><dt>POS-only delivery: caught / planted</dt><dd>6 / 6 (+2 false)</dd><dt>Price mismatch: caught / planted</dt><dd>143 / 145</dd></dl><p class="muted" style="margin-bottom:0">Only possible because the data is generated.
+Real data has no answer key, so every fallback match is listed in <span class="mono">output/matched_orders.csv</span>
+for spot checks.</p></div></div>
+<footer>Generated by <span class="mono">python run.py</span>. All orders, prices and IDs are synthetic.</footer>
+</main></body></html>

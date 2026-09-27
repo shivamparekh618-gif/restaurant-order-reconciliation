@@ -1,0 +1,250 @@
+rank,tier,priority_score,exception_type,platform_order_id,check_id,when_local,age_days,dollars_at_risk,type_weight,recency_factor,detail,next_step
+1,Act today,57.49,MISSING_IN_POS,DP-368967,,Fri Aug 14 06:18 PM,2.6,38.33,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+2,Act today,42.7,MISSING_IN_POS,DP-733E55,,Sun Aug 16 06:22 PM,0.6,28.47,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+3,Act today,41.07,MISSING_IN_POS,DP-F0E9B2,,Sat Aug 15 02:24 PM,1.8,27.38,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+4,Act today,41.06,MISSING_IN_POS,DP-9BF1AD,,Tue Aug 11 07:32 PM,5.6,41.06,1.0,1.0,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+5,Act today,37.79,MISSING_IN_POS,DP-7DEF78,,Fri Aug 14 06:37 PM,2.6,25.19,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+6,Act today,37.79,MISSING_IN_POS,DP-ECA260,,Sat Aug 15 08:41 PM,1.5,25.19,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+7,Act today,36.13,MISSING_IN_POS,DP-6E1A94,,Sat Aug 15 07:07 PM,1.6,24.09,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+8,Act today,34.5,MISSING_IN_POS,DP-4CF28A,,Sun Aug 16 05:37 PM,0.6,23.0,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+9,Act today,28.91,CANCELLED_NOT_VOIDED,DP-4DC046,CHK-106446,Fri Aug 14 11:00 AM,2.9,24.09,0.8,1.5,"Cancelled on platform, POS check CHK-106446 not voided",Void the POS check; check whether food was made and wasted
+10,Act today,26.94,CANCELLED_NOT_VOIDED,DP-F7C0E9,CHK-106798,Sat Aug 15 05:05 PM,1.7,22.45,0.8,1.5,"Cancelled on platform, POS check CHK-106798 not voided",Void the POS check; check whether food was made and wasted
+11,Act today,24.64,MISSING_IN_POS,DP-9E8C0A,,Fri Aug 14 12:50 PM,2.8,16.43,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+12,Act today,21.68,CANCELLED_NOT_VOIDED,DP-5D05AD,CHK-104048,Mon Aug 03 12:53 PM,13.8,54.2,0.8,0.5,"Cancelled on platform, POS check CHK-104048 not voided",Void the POS check; check whether food was made and wasted
+13,Act today,20.8,MISSING_IN_POS,DP-5D0791,,Fri Aug 07 07:37 PM,9.6,41.61,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+14,This week,19.27,CANCELLED_NOT_VOIDED,DP-2715D5,CHK-104233,Tue Aug 04 12:23 PM,12.9,48.18,0.8,0.5,"Cancelled on platform, POS check CHK-104233 not voided",Void the POS check; check whether food was made and wasted
+15,This week,18.83,CANCELLED_NOT_VOIDED,DP-18810F,CHK-105286,Sat Aug 08 08:16 PM,8.5,47.08,0.8,0.5,"Cancelled on platform, POS check CHK-105286 not voided",Void the POS check; check whether food was made and wasted
+16,This week,18.61,MISSING_IN_POS,DP-53C1D8,,Wed Aug 05 12:08 PM,11.9,37.23,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+17,This week,18.61,MISSING_IN_POS,DP-25129F,,Fri Aug 07 08:36 PM,9.5,37.23,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+18,This week,17.96,CANCELLED_NOT_VOIDED,DP-AB65AD,CHK-106420,Thu Aug 13 08:10 PM,3.5,22.45,0.8,1.0,"Cancelled on platform, POS check CHK-106420 not voided",Void the POS check; check whether food was made and wasted
+19,This week,17.25,MISSING_IN_POS,DP-8C7BF5,,Sat Aug 08 07:08 PM,8.6,34.49,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+20,This week,16.97,MISSING_IN_POS,DP-26584D,,Sat Aug 08 08:01 PM,8.5,33.94,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+21,This week,16.75,POS_ONLY_DELIVERY,,CHK-105830,Tue Aug 11 12:20 PM,5.9,27.92,0.6,1.0,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+22,This week,16.15,MISSING_IN_POS,DP-B54F51,,Tue Aug 04 01:59 PM,12.8,32.3,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+23,This week,16.0,PRICE_MISMATCH,DP-C5CE37,CHK-106169,Wed Aug 12 06:40 PM,4.6,16.0,1.0,1.0,Platform $26.00 vs POS $10.00,Compare platform vs POS menu prices for the items on this order
+24,This week,15.77,POS_ONLY_DELIVERY,,CHK-107028,Sun Aug 16 05:39 PM,0.6,17.52,0.6,1.5,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+25,This week,15.0,PRICE_MISMATCH,DP-8A3458,CHK-106500,Fri Aug 14 01:14 PM,2.8,10.0,1.0,1.5,Platform $41.00 vs POS $31.00,Compare platform vs POS menu prices for the items on this order
+26,This week,14.51,MISSING_IN_POS,DP-5834CA,,Sat Aug 08 07:59 PM,8.5,29.02,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+27,This week,14.23,MISSING_IN_POS,DP-BE98D7,,Fri Aug 07 08:27 PM,9.5,28.47,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+28,This week,13.58,CANCELLED_NOT_VOIDED,DP-59279C,CHK-105180,Sat Aug 08 04:34 PM,8.7,33.94,0.8,0.5,"Cancelled on platform, POS check CHK-105180 not voided",Void the POS check; check whether food was made and wasted
+29,This week,13.14,MISSING_IN_POS,DP-B398C7,,Thu Aug 13 03:06 PM,3.7,13.14,1.0,1.0,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+30,This week,12.6,MISSING_IN_POS,DP-7B0689,,Sat Aug 08 07:53 PM,8.5,25.19,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+31,This week,10.95,MISSING_IN_POS,DP-7D5552,,Mon Aug 03 07:45 PM,13.6,21.9,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+32,This week,9.86,MISSING_IN_POS,DP-38CE76,,Thu Aug 06 01:06 PM,10.8,19.71,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+33,This week,9.86,MISSING_IN_POS,DP-797D1C,,Sat Aug 15 08:40 PM,1.5,6.57,1.0,1.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+34,This week,9.69,POS_ONLY_DELIVERY,,CHK-104911,Fri Aug 07 03:54 PM,9.7,32.3,0.6,0.5,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+35,This week,9.58,MISSING_IN_POS,DP-A8E2A1,,Sat Aug 08 07:06 PM,8.6,19.16,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+36,This week,8.76,MISSING_IN_POS,DP-DE3529,,Fri Aug 07 06:47 PM,9.6,17.52,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+37,This week,8.76,CANCELLED_NOT_VOIDED,DP-5951DC,CHK-106133,Wed Aug 12 04:49 PM,4.7,10.95,0.8,1.0,"Cancelled on platform, POS check CHK-106133 not voided",Void the POS check; check whether food was made and wasted
+38,This week,8.21,LATE_DELIVERY,DP-5DAA0A,CHK-106594,Fri Aug 14 06:10 PM,2.6,10.95,0.5,1.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+39,This week,7.88,CANCELLED_NOT_VOIDED,DP-E2E4CC,CHK-106680,Fri Aug 14 08:39 PM,2.5,6.57,0.8,1.5,"Cancelled on platform, POS check CHK-106680 not voided",Void the POS check; check whether food was made and wasted
+40,This week,7.88,POS_ONLY_DELIVERY,,CHK-104445,Wed Aug 05 12:09 PM,11.9,26.28,0.6,0.5,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+41,This week,7.66,CANCELLED_NOT_VOIDED,DP-CED3A0,CHK-104872,Fri Aug 07 12:50 PM,9.8,19.16,0.8,0.5,"Cancelled on platform, POS check CHK-104872 not voided",Void the POS check; check whether food was made and wasted
+42,This week,7.39,MISSING_IN_POS,DP-ADBF90,,Sat Aug 08 06:32 PM,8.6,14.78,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+43,This week,7.06,LATE_DELIVERY,DP-D76444,CHK-106601,Fri Aug 14 06:17 PM,2.6,9.42,0.5,1.5,38 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+44,This week,6.98,LATE_DELIVERY,DP-D61984,CHK-106503,Fri Aug 14 01:16 PM,2.8,9.31,0.5,1.5,36 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+45,This week,6.57,MISSING_IN_POS,DP-24EA33,,Sun Aug 09 05:30 PM,7.6,13.14,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+46,This week,6.4,LATE_DELIVERY,DP-03C781,CHK-106644,Fri Aug 14 07:35 PM,2.6,8.54,0.5,1.5,38 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+47,This week,6.32,LATE_DELIVERY,DP-275A3E,CHK-107116,Sun Aug 16 08:41 PM,0.5,8.43,0.5,1.5,40 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+48,This week,6.29,LATE_DELIVERY,DP-03FCFF,CHK-105906,Tue Aug 11 05:42 PM,5.6,12.59,0.5,1.0,42 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+49,This week,5.91,POS_ONLY_DELIVERY,,CHK-104647,Thu Aug 06 12:08 PM,10.9,19.71,0.6,0.5,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+50,This week,5.47,LATE_DELIVERY,DP-123B05,CHK-105993,Tue Aug 11 07:47 PM,5.6,10.95,0.5,1.0,28 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+51,This week,5.42,LATE_DELIVERY,DP-9BE481,CHK-106858,Sat Aug 15 06:44 PM,1.6,7.23,0.5,1.5,37 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+52,This week,5.18,LATE_DELIVERY,DP-F2DFB6,CHK-106840,Sat Aug 15 06:28 PM,1.6,6.9,0.5,1.5,20 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+53,This week,5.09,LATE_DELIVERY,DP-5C9AC8,CHK-106965,Sun Aug 16 01:22 PM,0.8,6.79,0.5,1.5,39 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+54,Monitor,4.66,MISSING_IN_POS,DP-4D681C,,Sun Aug 09 11:20 AM,7.9,9.31,1.0,0.5,"Delivered on platform, no POS check found",Confirm with kitchen whether it was made; ring it in so sales and inventory are right
+55,Monitor,4.54,LATE_DELIVERY,DP-4DC1D0,CHK-105752,Mon Aug 10 07:35 PM,6.6,9.09,0.5,1.0,31 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+56,Monitor,4.51,LATE_DELIVERY,DP-FF8FB8,CHK-106911,Sat Aug 15 08:46 PM,1.5,6.02,0.5,1.5,40 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+57,Monitor,4.11,LATE_DELIVERY,DP-F0E9B2,,Sat Aug 15 02:24 PM,1.8,5.48,0.5,1.5,22 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+58,Monitor,3.94,LATE_DELIVERY,DP-633B54,CHK-106693,Fri Aug 14 08:55 PM,2.5,5.26,0.5,1.5,25 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+59,Monitor,3.94,POS_ONLY_DELIVERY,,CHK-106114,Wed Aug 12 03:09 PM,4.7,6.57,0.6,1.0,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+60,Monitor,3.53,LATE_DELIVERY,DP-DE0F43,CHK-106863,Sat Aug 15 06:51 PM,1.6,4.71,0.5,1.5,21 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+61,Monitor,3.28,POS_ONLY_DELIVERY,,CHK-105634,Mon Aug 10 12:53 PM,6.8,5.47,0.6,1.0,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+62,Monitor,3.2,LATE_DELIVERY,DP-0CF236,CHK-105004,Fri Aug 07 07:33 PM,9.6,12.81,0.5,0.5,23 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+63,Monitor,3.0,PRICE_MISMATCH,DP-D61984,CHK-106503,Fri Aug 14 01:16 PM,2.8,2.0,1.0,1.5,Platform $42.50 vs POS $44.50,Compare platform vs POS menu prices for the items on this order
+64,Monitor,3.0,PRICE_MISMATCH,DP-0AF780,CHK-106507,Fri Aug 14 01:39 PM,2.8,2.0,1.0,1.5,Platform $42.50 vs POS $44.50,Compare platform vs POS menu prices for the items on this order
+65,Monitor,3.0,PRICE_MISMATCH,DP-CAD94A,CHK-106596,Fri Aug 14 06:10 PM,2.6,2.0,1.0,1.5,Platform $30.50 vs POS $32.50,Compare platform vs POS menu prices for the items on this order
+66,Monitor,3.0,PRICE_MISMATCH,DP-D76444,CHK-106601,Fri Aug 14 06:17 PM,2.6,2.0,1.0,1.5,Platform $43.00 vs POS $45.00,Compare platform vs POS menu prices for the items on this order
+67,Monitor,3.0,PRICE_MISMATCH,DP-14DD3C,CHK-106650,Fri Aug 14 07:38 PM,2.6,2.0,1.0,1.5,Platform $54.50 vs POS $56.50,Compare platform vs POS menu prices for the items on this order
+68,Monitor,3.0,PRICE_MISMATCH,DP-CD581E,CHK-106687,Fri Aug 14 08:45 PM,2.5,2.0,1.0,1.5,Platform $43.00 vs POS $45.00,Compare platform vs POS menu prices for the items on this order
+69,Monitor,3.0,PRICE_MISMATCH,DP-335E56,CHK-106953,Sun Aug 16 12:44 PM,0.8,2.0,1.0,1.5,Platform $43.50 vs POS $45.50,Compare platform vs POS menu prices for the items on this order
+70,Monitor,3.0,PRICE_MISMATCH,DP-DEE296,CHK-107069,Sun Aug 16 06:52 PM,0.6,2.0,1.0,1.5,Platform $30.50 vs POS $32.50,Compare platform vs POS menu prices for the items on this order
+71,Monitor,3.0,PRICE_MISMATCH,DP-1BFC72,CHK-107131,Sun Aug 16 09:27 PM,0.5,2.0,1.0,1.5,Platform $43.00 vs POS $45.00,Compare platform vs POS menu prices for the items on this order
+72,Monitor,2.9,LATE_DELIVERY,DP-CA5E02,CHK-104948,Fri Aug 07 06:13 PM,9.6,11.61,0.5,0.5,34 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+73,Monitor,2.79,LATE_DELIVERY,DP-1ED305,CHK-106293,Thu Aug 13 12:26 PM,3.9,5.58,0.5,1.0,22 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+74,Monitor,2.79,LATE_DELIVERY,DP-D1F3F3,CHK-106658,Fri Aug 14 07:42 PM,2.6,3.72,0.5,1.5,39 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+75,Monitor,2.65,LATE_DELIVERY,DP-6B8FE6,CHK-105271,Sat Aug 08 07:47 PM,8.6,10.62,0.5,0.5,17 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+76,Monitor,2.63,LATE_DELIVERY,DP-ACE2A0,CHK-105941,Tue Aug 11 06:42 PM,5.6,5.26,0.5,1.0,37 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+77,Monitor,2.62,LATE_DELIVERY,DP-1DD5C2,CHK-106670,Fri Aug 14 08:02 PM,2.5,3.5,0.5,1.5,37 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+78,Monitor,2.6,LATE_DELIVERY,DP-398FE7,CHK-105229,Sat Aug 08 06:54 PM,8.6,10.4,0.5,0.5,33 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+79,Monitor,2.57,LATE_DELIVERY,DP-B69DE4,CHK-105238,Sat Aug 08 07:05 PM,8.6,10.29,0.5,0.5,21 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+80,Monitor,2.47,LATE_DELIVERY,DP-840FDE,CHK-106915,Sat Aug 15 08:52 PM,1.5,3.29,0.5,1.5,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+81,Monitor,2.46,LATE_DELIVERY,DP-242487,CHK-104851,Fri Aug 07 12:10 PM,9.9,9.86,0.5,0.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+82,Monitor,2.41,LATE_DELIVERY,DP-B5E2FA,CHK-106171,Wed Aug 12 06:40 PM,4.6,4.82,0.5,1.0,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+83,Monitor,2.22,LATE_DELIVERY,DP-AF8AA6,CHK-105480,Sun Aug 09 06:47 PM,7.6,8.87,0.5,0.5,33 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+84,Monitor,2.16,LATE_DELIVERY,DP-8E227F,CHK-104652,Thu Aug 06 12:21 PM,10.9,8.65,0.5,0.5,31 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+85,Monitor,2.05,LATE_DELIVERY,DP-3F4297,CHK-105546,Sun Aug 09 08:09 PM,7.5,8.21,0.5,0.5,26 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+86,Monitor,2.0,PRICE_MISMATCH,DP-FC89E9,CHK-106026,Wed Aug 12 11:08 AM,4.9,2.0,1.0,1.0,Platform $27.00 vs POS $29.00,Compare platform vs POS menu prices for the items on this order
+87,Monitor,2.0,PRICE_MISMATCH,DP-6CBD18,CHK-106028,Wed Aug 12 11:12 AM,4.9,2.0,1.0,1.0,Platform $42.00 vs POS $44.00,Compare platform vs POS menu prices for the items on this order
+88,Monitor,2.0,PRICE_MISMATCH,DP-D07F43,CHK-106276,Thu Aug 13 12:11 PM,3.9,2.0,1.0,1.0,Platform $30.50 vs POS $32.50,Compare platform vs POS menu prices for the items on this order
+89,Monitor,1.97,LATE_DELIVERY,DP-CAABFB,CHK-106497,Fri Aug 14 01:07 PM,2.8,2.63,0.5,1.5,18 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+90,Monitor,1.97,LATE_DELIVERY,DP-C5CF51,CHK-107072,Sun Aug 16 07:02 PM,0.6,2.63,0.5,1.5,37 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+91,Monitor,1.94,LATE_DELIVERY,DP-D77F1B,CHK-104960,Fri Aug 07 06:33 PM,9.6,7.77,0.5,0.5,24 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+92,Monitor,1.94,LATE_DELIVERY,DP-F94666,CHK-104995,Fri Aug 07 07:26 PM,9.6,7.77,0.5,0.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+93,Monitor,1.94,LATE_DELIVERY,DP-F4EABC,CHK-105306,Sat Aug 08 08:46 PM,8.5,7.77,0.5,0.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+94,Monitor,1.86,LATE_DELIVERY,DP-257DB7,CHK-105569,Sun Aug 09 09:09 PM,7.5,7.45,0.5,0.5,38 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+95,Monitor,1.81,LATE_DELIVERY,DP-F21B2D,CHK-105183,Sat Aug 08 04:57 PM,8.7,7.23,0.5,0.5,33 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+96,Monitor,1.67,LATE_DELIVERY,DP-284682,CHK-104474,Wed Aug 05 12:58 PM,11.8,6.68,0.5,0.5,25 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+97,Monitor,1.61,LATE_DELIVERY,DP-CBCF92,CHK-104961,Fri Aug 07 06:33 PM,9.6,6.46,0.5,0.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+98,Monitor,1.53,LATE_DELIVERY,DP-5CB03D,CHK-105041,Fri Aug 07 09:29 PM,9.5,6.13,0.5,0.5,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+99,Monitor,1.5,PRICE_MISMATCH,DP-5FF972,CHK-105525,Sun Aug 09 07:39 PM,7.6,3.0,1.0,0.5,Platform $40.50 vs POS $43.50,Compare platform vs POS menu prices for the items on this order
+100,Monitor,1.5,PRICE_MISMATCH,DP-FB5DED,CHK-106478,Fri Aug 14 12:22 PM,2.9,1.0,1.0,1.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+101,Monitor,1.5,PRICE_MISMATCH,DP-23A9A7,CHK-106485,Fri Aug 14 12:37 PM,2.8,1.0,1.0,1.5,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+102,Monitor,1.5,PRICE_MISMATCH,DP-EF2446,CHK-106491,Fri Aug 14 12:48 PM,2.8,1.0,1.0,1.5,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+103,Monitor,1.5,PRICE_MISMATCH,DP-E46C31,CHK-106494,Fri Aug 14 12:55 PM,2.8,1.0,1.0,1.5,Platform $45.00 vs POS $46.00,Compare platform vs POS menu prices for the items on this order
+104,Monitor,1.5,PRICE_MISMATCH,DP-DFAED7,CHK-106534,Fri Aug 14 03:13 PM,2.7,1.0,1.0,1.5,Platform $42.00 vs POS $43.00,Compare platform vs POS menu prices for the items on this order
+105,Monitor,1.5,PRICE_MISMATCH,DP-BD98DF,CHK-106541,Fri Aug 14 03:32 PM,2.7,1.0,1.0,1.5,Platform $35.00 vs POS $36.00,Compare platform vs POS menu prices for the items on this order
+106,Monitor,1.5,PRICE_MISMATCH,DP-B92F83,CHK-106556,Fri Aug 14 04:18 PM,2.7,1.0,1.0,1.5,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+107,Monitor,1.5,PRICE_MISMATCH,DP-144478,CHK-106570,Fri Aug 14 05:12 PM,2.7,1.0,1.0,1.5,Platform $41.00 vs POS $42.00,Compare platform vs POS menu prices for the items on this order
+108,Monitor,1.5,PRICE_MISMATCH,DP-8212DF,CHK-106647,Fri Aug 14 07:37 PM,2.6,1.0,1.0,1.5,Platform $39.50 vs POS $40.50,Compare platform vs POS menu prices for the items on this order
+109,Monitor,1.5,PRICE_MISMATCH,DP-D1F3F3,CHK-106658,Fri Aug 14 07:42 PM,2.6,1.0,1.0,1.5,Platform $17.00 vs POS $18.00,Compare platform vs POS menu prices for the items on this order
+110,Monitor,1.5,PRICE_MISMATCH,DP-E8BDC9,CHK-106678,Fri Aug 14 08:27 PM,2.5,1.0,1.0,1.5,Platform $25.00 vs POS $26.00,Compare platform vs POS menu prices for the items on this order
+111,Monitor,1.5,PRICE_MISMATCH,DP-8E37B3,CHK-106696,Fri Aug 14 09:18 PM,2.5,1.0,1.0,1.5,Platform $31.00 vs POS $32.00,Compare platform vs POS menu prices for the items on this order
+112,Monitor,1.5,PRICE_MISMATCH,DP-7221B6,CHK-106711,Sat Aug 15 11:08 AM,1.9,1.0,1.0,1.5,Platform $28.50 vs POS $29.50,Compare platform vs POS menu prices for the items on this order
+113,Monitor,1.5,PRICE_MISMATCH,DP-60334A,CHK-106731,Sat Aug 15 12:12 PM,1.9,1.0,1.0,1.5,Platform $33.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+114,Monitor,1.5,PRICE_MISMATCH,DP-4DE735,CHK-106767,Sat Aug 15 01:39 PM,1.8,1.0,1.0,1.5,Platform $56.50 vs POS $57.50,Compare platform vs POS menu prices for the items on this order
+115,Monitor,1.5,PRICE_MISMATCH,DP-C7F169,CHK-106785,Sat Aug 15 03:43 PM,1.7,1.0,1.0,1.5,Platform $31.50 vs POS $32.50,Compare platform vs POS menu prices for the items on this order
+116,Monitor,1.5,PRICE_MISMATCH,DP-B9247D,CHK-106786,Sat Aug 15 04:04 PM,1.7,1.0,1.0,1.5,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+117,Monitor,1.5,PRICE_MISMATCH,DP-F338DA,CHK-106832,Sat Aug 15 06:03 PM,1.6,1.0,1.0,1.5,Platform $55.00 vs POS $56.00,Compare platform vs POS menu prices for the items on this order
+118,Monitor,1.5,PRICE_MISMATCH,DP-1D757D,CHK-106865,Sat Aug 15 06:53 PM,1.6,1.0,1.0,1.5,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+119,Monitor,1.5,PRICE_MISMATCH,DP-206ACA,CHK-106876,Sat Aug 15 07:25 PM,1.6,1.0,1.0,1.5,Platform $37.50 vs POS $38.50,Compare platform vs POS menu prices for the items on this order
+120,Monitor,1.5,PRICE_MISMATCH,DP-6FB3CD,CHK-106880,Sat Aug 15 07:34 PM,1.6,1.0,1.0,1.5,Platform $33.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+121,Monitor,1.5,PRICE_MISMATCH,DP-5696BD,CHK-106902,Sat Aug 15 08:02 PM,1.5,1.0,1.0,1.5,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+122,Monitor,1.5,PRICE_MISMATCH,DP-5D2F5A,CHK-106904,Sat Aug 15 08:12 PM,1.5,1.0,1.0,1.5,Platform $51.50 vs POS $52.50,Compare platform vs POS menu prices for the items on this order
+123,Monitor,1.5,PRICE_MISMATCH,DP-DF7BBD,CHK-106932,Sun Aug 16 12:16 PM,0.9,1.0,1.0,1.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+124,Monitor,1.5,PRICE_MISMATCH,DP-01E7BD,CHK-106939,Sun Aug 16 12:21 PM,0.9,1.0,1.0,1.5,Platform $41.00 vs POS $42.00,Compare platform vs POS menu prices for the items on this order
+125,Monitor,1.5,PRICE_MISMATCH,DP-F0794A,CHK-106977,Sun Aug 16 01:42 PM,0.8,1.0,1.0,1.5,Platform $50.50 vs POS $51.50,Compare platform vs POS menu prices for the items on this order
+126,Monitor,1.5,PRICE_MISMATCH,DP-27C4A5,CHK-106981,Sun Aug 16 01:55 PM,0.8,1.0,1.0,1.5,Platform $25.50 vs POS $26.50,Compare platform vs POS menu prices for the items on this order
+127,Monitor,1.5,PRICE_MISMATCH,DP-124762,CHK-106984,Sun Aug 16 01:59 PM,0.8,1.0,1.0,1.5,Platform $24.50 vs POS $25.50,Compare platform vs POS menu prices for the items on this order
+128,Monitor,1.5,PRICE_MISMATCH,DP-EAF8A3,CHK-106993,Sun Aug 16 02:31 PM,0.8,1.0,1.0,1.5,Platform $33.50 vs POS $34.50,Compare platform vs POS menu prices for the items on this order
+129,Monitor,1.5,PRICE_MISMATCH,DP-5D264D,CHK-107001,Sun Aug 16 04:21 PM,0.7,1.0,1.0,1.5,Platform $23.50 vs POS $24.50,Compare platform vs POS menu prices for the items on this order
+130,Monitor,1.5,PRICE_MISMATCH,DP-A9FA73,CHK-107007,Sun Aug 16 05:07 PM,0.7,1.0,1.0,1.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+131,Monitor,1.5,PRICE_MISMATCH,DP-0FDEC0,CHK-107011,Sun Aug 16 05:09 PM,0.7,1.0,1.0,1.5,Platform $37.00 vs POS $38.00,Compare platform vs POS menu prices for the items on this order
+132,Monitor,1.5,PRICE_MISMATCH,DP-4B4774,CHK-107031,Sun Aug 16 06:00 PM,0.6,1.0,1.0,1.5,Platform $45.00 vs POS $46.00,Compare platform vs POS menu prices for the items on this order
+133,Monitor,1.5,PRICE_MISMATCH,DP-C97151,CHK-107037,Sun Aug 16 06:16 PM,0.6,1.0,1.0,1.5,Platform $35.00 vs POS $36.00,Compare platform vs POS menu prices for the items on this order
+134,Monitor,1.5,PRICE_MISMATCH,DP-95CC44,CHK-107039,Sun Aug 16 06:21 PM,0.6,1.0,1.0,1.5,Platform $25.50 vs POS $26.50,Compare platform vs POS menu prices for the items on this order
+135,Monitor,1.5,PRICE_MISMATCH,DP-994EF7,CHK-107050,Sun Aug 16 06:26 PM,0.6,1.0,1.0,1.5,Platform $35.50 vs POS $36.50,Compare platform vs POS menu prices for the items on this order
+136,Monitor,1.5,PRICE_MISMATCH,DP-70F78A,CHK-107058,Sun Aug 16 06:29 PM,0.6,1.0,1.0,1.5,Platform $25.00 vs POS $26.00,Compare platform vs POS menu prices for the items on this order
+137,Monitor,1.5,PRICE_MISMATCH,DP-AF32D9,CHK-107083,Sun Aug 16 07:15 PM,0.6,1.0,1.0,1.5,Platform $19.50 vs POS $20.50,Compare platform vs POS menu prices for the items on this order
+138,Monitor,1.5,PRICE_MISMATCH,DP-314CC3,CHK-107108,Sun Aug 16 08:09 PM,0.5,1.0,1.0,1.5,Platform $48.00 vs POS $49.00,Compare platform vs POS menu prices for the items on this order
+139,Monitor,1.5,PRICE_MISMATCH,DP-49FD69,CHK-107111,Sun Aug 16 08:22 PM,0.5,1.0,1.0,1.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+140,Monitor,1.5,PRICE_MISMATCH,DP-275A3E,CHK-107116,Sun Aug 16 08:41 PM,0.5,1.0,1.0,1.5,Platform $38.50 vs POS $39.50,Compare platform vs POS menu prices for the items on this order
+141,Monitor,1.48,LATE_DELIVERY,DP-391697,CHK-105497,Sun Aug 09 07:09 PM,7.6,5.91,0.5,0.5,37 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+142,Monitor,1.48,LATE_DELIVERY,DP-A38E86,CHK-105498,Sun Aug 09 07:10 PM,7.6,5.91,0.5,0.5,18 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+143,Monitor,1.45,LATE_DELIVERY,DP-860AA5,CHK-105287,Sat Aug 08 08:23 PM,8.5,5.8,0.5,0.5,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+144,Monitor,1.42,LATE_DELIVERY,DP-BE98D7,,Fri Aug 07 08:27 PM,9.5,5.69,0.5,0.5,19 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+145,Monitor,1.4,LATE_DELIVERY,DP-7ED747,CHK-105221,Sat Aug 08 06:41 PM,8.6,5.58,0.5,0.5,30 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+146,Monitor,1.4,LATE_DELIVERY,DP-C1F503,CHK-106630,Fri Aug 14 07:18 PM,2.6,1.86,0.5,1.5,21 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+147,Monitor,1.4,LATE_DELIVERY,DP-5EC555,CHK-106716,Sat Aug 15 11:27 AM,1.9,1.86,0.5,1.5,39 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+148,Monitor,1.37,LATE_DELIVERY,DP-EBD66C,CHK-105284,Sat Aug 08 08:10 PM,8.5,5.48,0.5,0.5,26 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+149,Monitor,1.29,LATE_DELIVERY,DP-7D2306,CHK-104379,Tue Aug 04 07:08 PM,12.6,5.15,0.5,0.5,27 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+150,Monitor,1.21,LATE_DELIVERY,DP-0E0D90,CHK-106364,Thu Aug 13 05:57 PM,3.6,2.41,0.5,1.0,18 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+151,Monitor,1.15,LATE_DELIVERY,DP-32FE69,CHK-104792,Thu Aug 06 08:19 PM,10.5,4.6,0.5,0.5,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+152,Monitor,1.15,LATE_DELIVERY,DP-9501F8,CHK-104834,Fri Aug 07 11:45 AM,9.9,4.6,0.5,0.5,40 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+153,Monitor,1.15,LATE_DELIVERY,DP-098B3A,CHK-105298,Sat Aug 08 08:34 PM,8.5,4.6,0.5,0.5,19 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+154,Monitor,1.15,POS_ONLY_DELIVERY,,CHK-105161,Sat Aug 08 03:25 PM,8.7,3.83,0.6,0.5,Delivery-channel POS check with no platform order,"Ask who rang it: phone order, test ticket, or wrong channel"
+155,Monitor,1.07,LATE_DELIVERY,DP-37E536,CHK-104522,Wed Aug 05 05:53 PM,11.6,4.27,0.5,0.5,19 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+156,Monitor,1.04,LATE_DELIVERY,DP-1F8D46,CHK-105936,Tue Aug 11 06:27 PM,5.6,2.08,0.5,1.0,23 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+157,Monitor,1.0,PRICE_MISMATCH,DP-0E94C1,CHK-105067,Sat Aug 08 11:35 AM,8.9,2.0,1.0,0.5,Platform $49.00 vs POS $51.00,Compare platform vs POS menu prices for the items on this order
+158,Monitor,1.0,PRICE_MISMATCH,DP-959F92,CHK-105122,Sat Aug 08 01:01 PM,8.8,2.0,1.0,0.5,Platform $32.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+159,Monitor,1.0,PRICE_MISMATCH,DP-019C6B,CHK-105402,Sun Aug 09 01:25 PM,7.8,2.0,1.0,0.5,Platform $48.50 vs POS $50.50,Compare platform vs POS menu prices for the items on this order
+160,Monitor,1.0,PRICE_MISMATCH,DP-257DB7,CHK-105569,Sun Aug 09 09:09 PM,7.5,2.0,1.0,0.5,Platform $34.00 vs POS $36.00,Compare platform vs POS menu prices for the items on this order
+161,Monitor,1.0,PRICE_MISMATCH,DP-38B838,CHK-105617,Mon Aug 10 12:33 PM,6.9,1.0,1.0,1.0,Platform $43.00 vs POS $44.00,Compare platform vs POS menu prices for the items on this order
+162,Monitor,1.0,PRICE_MISMATCH,DP-34173F,CHK-105654,Mon Aug 10 01:50 PM,6.8,1.0,1.0,1.0,Platform $25.50 vs POS $26.50,Compare platform vs POS menu prices for the items on this order
+163,Monitor,1.0,PRICE_MISMATCH,DP-542181,CHK-105690,Mon Aug 10 05:53 PM,6.6,1.0,1.0,1.0,Platform $53.00 vs POS $54.00,Compare platform vs POS menu prices for the items on this order
+164,Monitor,1.0,PRICE_MISMATCH,DP-D63982,CHK-105698,Mon Aug 10 06:21 PM,6.6,1.0,1.0,1.0,Platform $17.00 vs POS $18.00,Compare platform vs POS menu prices for the items on this order
+165,Monitor,1.0,PRICE_MISMATCH,DP-4E1A19,CHK-105706,Mon Aug 10 06:29 PM,6.6,1.0,1.0,1.0,Platform $35.00 vs POS $36.00,Compare platform vs POS menu prices for the items on this order
+166,Monitor,1.0,PRICE_MISMATCH,DP-4E2A63,CHK-105736,Mon Aug 10 07:01 PM,6.6,1.0,1.0,1.0,Platform $47.00 vs POS $48.00,Compare platform vs POS menu prices for the items on this order
+167,Monitor,1.0,PRICE_MISMATCH,DP-891379,CHK-105744,Mon Aug 10 07:23 PM,6.6,1.0,1.0,1.0,Platform $36.00 vs POS $37.00,Compare platform vs POS menu prices for the items on this order
+168,Monitor,1.0,PRICE_MISMATCH,DP-01B299,CHK-105747,Mon Aug 10 07:26 PM,6.6,1.0,1.0,1.0,Platform $28.50 vs POS $29.50,Compare platform vs POS menu prices for the items on this order
+169,Monitor,1.0,PRICE_MISMATCH,DP-5F700D,CHK-105762,Mon Aug 10 07:57 PM,6.5,1.0,1.0,1.0,Platform $33.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+170,Monitor,1.0,PRICE_MISMATCH,DP-C18292,CHK-105765,Mon Aug 10 08:02 PM,6.5,1.0,1.0,1.0,Platform $28.00 vs POS $29.00,Compare platform vs POS menu prices for the items on this order
+171,Monitor,1.0,PRICE_MISMATCH,DP-815A14,CHK-105777,Mon Aug 10 08:35 PM,6.5,1.0,1.0,1.0,Platform $43.00 vs POS $44.00,Compare platform vs POS menu prices for the items on this order
+172,Monitor,1.0,PRICE_MISMATCH,DP-735AD0,CHK-105784,Mon Aug 10 08:49 PM,6.5,1.0,1.0,1.0,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+173,Monitor,1.0,PRICE_MISMATCH,DP-42524A,CHK-105800,Mon Aug 10 09:59 PM,6.5,1.0,1.0,1.0,Platform $28.50 vs POS $29.50,Compare platform vs POS menu prices for the items on this order
+174,Monitor,1.0,PRICE_MISMATCH,DP-8327BE,CHK-105807,Tue Aug 11 11:07 AM,5.9,1.0,1.0,1.0,Platform $50.50 vs POS $51.50,Compare platform vs POS menu prices for the items on this order
+175,Monitor,1.0,PRICE_MISMATCH,DP-D9CC78,CHK-105810,Tue Aug 11 11:30 AM,5.9,1.0,1.0,1.0,Platform $42.00 vs POS $43.00,Compare platform vs POS menu prices for the items on this order
+176,Monitor,1.0,PRICE_MISMATCH,DP-89F483,CHK-105843,Tue Aug 11 12:31 PM,5.9,1.0,1.0,1.0,Platform $23.00 vs POS $24.00,Compare platform vs POS menu prices for the items on this order
+177,Monitor,1.0,PRICE_MISMATCH,DP-1B32F2,CHK-105870,Tue Aug 11 01:29 PM,5.8,1.0,1.0,1.0,Platform $25.00 vs POS $26.00,Compare platform vs POS menu prices for the items on this order
+178,Monitor,1.0,PRICE_MISMATCH,DP-09ADBF,CHK-105877,Tue Aug 11 01:43 PM,5.8,1.0,1.0,1.0,Platform $24.50 vs POS $25.50,Compare platform vs POS menu prices for the items on this order
+179,Monitor,1.0,PRICE_MISMATCH,DP-FF9C4A,CHK-105889,Tue Aug 11 03:10 PM,5.7,1.0,1.0,1.0,Platform $33.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+180,Monitor,1.0,PRICE_MISMATCH,DP-2C718A,CHK-105921,Tue Aug 11 06:11 PM,5.6,1.0,1.0,1.0,Platform $28.50 vs POS $29.50,Compare platform vs POS menu prices for the items on this order
+181,Monitor,1.0,PRICE_MISMATCH,DP-4F38E4,CHK-105928,Tue Aug 11 06:18 PM,5.6,1.0,1.0,1.0,Platform $25.00 vs POS $26.00,Compare platform vs POS menu prices for the items on this order
+182,Monitor,1.0,PRICE_MISMATCH,DP-343F0C,CHK-105930,Tue Aug 11 06:24 PM,5.6,1.0,1.0,1.0,Platform $49.00 vs POS $50.00,Compare platform vs POS menu prices for the items on this order
+183,Monitor,1.0,PRICE_MISMATCH,DP-ACE2A0,CHK-105941,Tue Aug 11 06:42 PM,5.6,1.0,1.0,1.0,Platform $24.00 vs POS $25.00,Compare platform vs POS menu prices for the items on this order
+184,Monitor,1.0,PRICE_MISMATCH,DP-EA3C8F,CHK-105942,Tue Aug 11 06:51 PM,5.6,1.0,1.0,1.0,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+185,Monitor,1.0,PRICE_MISMATCH,DP-07D3FF,CHK-105950,Tue Aug 11 07:01 PM,5.6,1.0,1.0,1.0,Platform $35.50 vs POS $36.50,Compare platform vs POS menu prices for the items on this order
+186,Monitor,1.0,PRICE_MISMATCH,DP-12C7AD,CHK-105983,Tue Aug 11 07:35 PM,5.6,1.0,1.0,1.0,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+187,Monitor,1.0,PRICE_MISMATCH,DP-24F692,CHK-105995,Tue Aug 11 07:58 PM,5.5,1.0,1.0,1.0,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+188,Monitor,1.0,PRICE_MISMATCH,DP-BE87A4,CHK-105997,Tue Aug 11 08:20 PM,5.5,1.0,1.0,1.0,Platform $17.00 vs POS $18.00,Compare platform vs POS menu prices for the items on this order
+189,Monitor,1.0,PRICE_MISMATCH,DP-7C9C41,CHK-106003,Tue Aug 11 08:34 PM,5.5,1.0,1.0,1.0,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+190,Monitor,1.0,PRICE_MISMATCH,DP-01AA31,CHK-106010,Tue Aug 11 09:00 PM,5.5,1.0,1.0,1.0,Platform $23.50 vs POS $24.50,Compare platform vs POS menu prices for the items on this order
+191,Monitor,1.0,PRICE_MISMATCH,DP-837530,CHK-106051,Wed Aug 12 12:24 PM,4.9,1.0,1.0,1.0,Platform $58.50 vs POS $59.50,Compare platform vs POS menu prices for the items on this order
+192,Monitor,1.0,PRICE_MISMATCH,DP-02E554,CHK-106090,Wed Aug 12 01:43 PM,4.8,1.0,1.0,1.0,Platform $19.50 vs POS $20.50,Compare platform vs POS menu prices for the items on this order
+193,Monitor,1.0,PRICE_MISMATCH,DP-66999E,CHK-106118,Wed Aug 12 03:49 PM,4.7,1.0,1.0,1.0,Platform $34.50 vs POS $35.50,Compare platform vs POS menu prices for the items on this order
+194,Monitor,1.0,PRICE_MISMATCH,DP-B5E2FA,CHK-106171,Wed Aug 12 06:40 PM,4.6,1.0,1.0,1.0,Platform $22.00 vs POS $23.00,Compare platform vs POS menu prices for the items on this order
+195,Monitor,1.0,PRICE_MISMATCH,DP-89FE25,CHK-106253,Thu Aug 13 11:15 AM,3.9,1.0,1.0,1.0,Platform $31.00 vs POS $32.00,Compare platform vs POS menu prices for the items on this order
+196,Monitor,1.0,PRICE_MISMATCH,DP-33F624,CHK-106261,Thu Aug 13 11:19 AM,3.9,1.0,1.0,1.0,Platform $17.00 vs POS $18.00,Compare platform vs POS menu prices for the items on this order
+197,Monitor,1.0,PRICE_MISMATCH,DP-373F3E,CHK-106285,Thu Aug 13 12:16 PM,3.9,1.0,1.0,1.0,Platform $33.00 vs POS $34.00,Compare platform vs POS menu prices for the items on this order
+198,Monitor,1.0,PRICE_MISMATCH,DP-1ED305,CHK-106293,Thu Aug 13 12:26 PM,3.9,1.0,1.0,1.0,Platform $25.50 vs POS $26.50,Compare platform vs POS menu prices for the items on this order
+199,Monitor,1.0,PRICE_MISMATCH,DP-3C1CCB,CHK-106295,Thu Aug 13 12:31 PM,3.9,1.0,1.0,1.0,Platform $32.00 vs POS $33.00,Compare platform vs POS menu prices for the items on this order
+200,Monitor,1.0,PRICE_MISMATCH,DP-94C20F,CHK-106303,Thu Aug 13 12:46 PM,3.8,1.0,1.0,1.0,Platform $52.50 vs POS $53.50,Compare platform vs POS menu prices for the items on this order
+201,Monitor,1.0,PRICE_MISMATCH,DP-93D20A,CHK-106306,Thu Aug 13 12:47 PM,3.8,1.0,1.0,1.0,Platform $47.50 vs POS $48.50,Compare platform vs POS menu prices for the items on this order
+202,Monitor,1.0,PRICE_MISMATCH,DP-BC8F7F,CHK-106317,Thu Aug 13 01:16 PM,3.8,1.0,1.0,1.0,Platform $41.00 vs POS $42.00,Compare platform vs POS menu prices for the items on this order
+203,Monitor,1.0,PRICE_MISMATCH,DP-C751AB,CHK-106333,Thu Aug 13 01:51 PM,3.8,1.0,1.0,1.0,Platform $29.50 vs POS $30.50,Compare platform vs POS menu prices for the items on this order
+204,Monitor,1.0,PRICE_MISMATCH,DP-3C7B19,CHK-106361,Thu Aug 13 05:45 PM,3.6,1.0,1.0,1.0,Platform $36.00 vs POS $37.00,Compare platform vs POS menu prices for the items on this order
+205,Monitor,1.0,PRICE_MISMATCH,DP-734882,CHK-106376,Thu Aug 13 06:27 PM,3.6,1.0,1.0,1.0,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+206,Monitor,1.0,PRICE_MISMATCH,DP-29500D,CHK-106425,Thu Aug 13 08:41 PM,3.5,1.0,1.0,1.0,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+207,Monitor,1.0,PRICE_MISMATCH,DP-1AC8C3,CHK-106438,Thu Aug 13 09:20 PM,3.5,1.0,1.0,1.0,Platform $37.50 vs POS $38.50,Compare platform vs POS menu prices for the items on this order
+208,Monitor,0.98,LATE_DELIVERY,DP-797D1C,,Sat Aug 15 08:40 PM,1.5,1.31,0.5,1.5,41 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+209,Monitor,0.96,LATE_DELIVERY,DP-A8697A,CHK-105213,Sat Aug 08 06:40 PM,8.6,3.83,0.5,0.5,24 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+210,Monitor,0.93,LATE_DELIVERY,DP-17EA48,CHK-104943,Fri Aug 07 06:09 PM,9.6,3.72,0.5,0.5,40 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+211,Monitor,0.82,LATE_DELIVERY,DP-EEA2A6,CHK-104892,Fri Aug 07 01:42 PM,9.8,3.29,0.5,0.5,21 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+212,Monitor,0.55,LATE_DELIVERY,DP-F0D5B8,CHK-105446,Sun Aug 09 05:04 PM,7.7,2.19,0.5,0.5,27 min past promised time,Check ticket time vs pickup; dispute if the courier was late
+213,Monitor,0.5,PRICE_MISMATCH,DP-BDEDDE,CHK-105136,Sat Aug 08 01:31 PM,8.8,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+214,Monitor,0.5,PRICE_MISMATCH,DP-C4C0EE,CHK-105138,Sat Aug 08 01:32 PM,8.8,1.0,1.0,0.5,Platform $55.50 vs POS $56.50,Compare platform vs POS menu prices for the items on this order
+215,Monitor,0.5,PRICE_MISMATCH,DP-474990,CHK-105149,Sat Aug 08 01:57 PM,8.8,1.0,1.0,0.5,Platform $57.00 vs POS $58.00,Compare platform vs POS menu prices for the items on this order
+216,Monitor,0.5,PRICE_MISMATCH,DP-578E3D,CHK-105151,Sat Aug 08 02:03 PM,8.8,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+217,Monitor,0.5,PRICE_MISMATCH,DP-584ABC,CHK-105162,Sat Aug 08 03:20 PM,8.7,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+218,Monitor,0.5,PRICE_MISMATCH,DP-765D62,CHK-105168,Sat Aug 08 03:40 PM,8.7,1.0,1.0,0.5,Platform $41.00 vs POS $42.00,Compare platform vs POS menu prices for the items on this order
+219,Monitor,0.5,PRICE_MISMATCH,DP-417EE3,CHK-105196,Sat Aug 08 05:56 PM,8.6,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+220,Monitor,0.5,PRICE_MISMATCH,DP-191B0A,CHK-105201,Sat Aug 08 06:05 PM,8.6,1.0,1.0,0.5,Platform $44.50 vs POS $45.50,Compare platform vs POS menu prices for the items on this order
+221,Monitor,0.5,PRICE_MISMATCH,DP-D85CE7,CHK-105198,Sat Aug 08 06:08 PM,8.6,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+222,Monitor,0.5,PRICE_MISMATCH,DP-171880,CHK-105208,Sat Aug 08 06:25 PM,8.6,1.0,1.0,0.5,Platform $31.00 vs POS $32.00,Compare platform vs POS menu prices for the items on this order
+223,Monitor,0.5,PRICE_MISMATCH,DP-70103C,CHK-105251,Sat Aug 08 07:14 PM,8.6,1.0,1.0,0.5,Platform $35.50 vs POS $36.50,Compare platform vs POS menu prices for the items on this order
+224,Monitor,0.5,PRICE_MISMATCH,DP-6B8FE6,CHK-105271,Sat Aug 08 07:47 PM,8.6,1.0,1.0,0.5,Platform $48.50 vs POS $49.50,Compare platform vs POS menu prices for the items on this order
+225,Monitor,0.5,PRICE_MISMATCH,DP-445F0A,CHK-105283,Sat Aug 08 08:01 PM,8.5,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+226,Monitor,0.5,PRICE_MISMATCH,DP-EBD66C,CHK-105284,Sat Aug 08 08:10 PM,8.5,1.0,1.0,0.5,Platform $25.00 vs POS $26.00,Compare platform vs POS menu prices for the items on this order
+227,Monitor,0.5,PRICE_MISMATCH,DP-860AA5,CHK-105287,Sat Aug 08 08:23 PM,8.5,1.0,1.0,0.5,Platform $26.50 vs POS $27.50,Compare platform vs POS menu prices for the items on this order
+228,Monitor,0.5,PRICE_MISMATCH,DP-F4EABC,CHK-105306,Sat Aug 08 08:46 PM,8.5,1.0,1.0,0.5,Platform $35.50 vs POS $36.50,Compare platform vs POS menu prices for the items on this order
+229,Monitor,0.5,PRICE_MISMATCH,DP-E3A82B,CHK-105328,Sun Aug 09 11:17 AM,7.9,1.0,1.0,0.5,Platform $25.50 vs POS $26.50,Compare platform vs POS menu prices for the items on this order
+230,Monitor,0.5,PRICE_MISMATCH,DP-346E48,CHK-105343,Sun Aug 09 12:00 PM,7.9,1.0,1.0,0.5,Platform $39.50 vs POS $40.50,Compare platform vs POS menu prices for the items on this order
+231,Monitor,0.5,PRICE_MISMATCH,DP-C13333,CHK-105363,Sun Aug 09 12:20 PM,7.9,1.0,1.0,0.5,Platform $38.00 vs POS $39.00,Compare platform vs POS menu prices for the items on this order
+232,Monitor,0.5,PRICE_MISMATCH,DP-FA37B7,CHK-105381,Sun Aug 09 12:42 PM,7.8,1.0,1.0,0.5,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+233,Monitor,0.5,PRICE_MISMATCH,DP-22D567,CHK-105386,Sun Aug 09 12:51 PM,7.8,1.0,1.0,0.5,Platform $58.50 vs POS $59.50,Compare platform vs POS menu prices for the items on this order
+234,Monitor,0.5,PRICE_MISMATCH,DP-907A5C,CHK-105405,Sun Aug 09 01:30 PM,7.8,1.0,1.0,0.5,Platform $35.00 vs POS $36.00,Compare platform vs POS menu prices for the items on this order
+235,Monitor,0.5,PRICE_MISMATCH,DP-DC86F8,CHK-105406,Sun Aug 09 01:34 PM,7.8,1.0,1.0,0.5,Platform $22.00 vs POS $23.00,Compare platform vs POS menu prices for the items on this order
+236,Monitor,0.5,PRICE_MISMATCH,DP-4E166A,CHK-105411,Sun Aug 09 01:46 PM,7.8,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+237,Monitor,0.5,PRICE_MISMATCH,DP-E0E279,CHK-105418,Sun Aug 09 01:57 PM,7.8,1.0,1.0,0.5,Platform $31.50 vs POS $32.50,Compare platform vs POS menu prices for the items on this order
+238,Monitor,0.5,PRICE_MISMATCH,DP-B7495C,CHK-105427,Sun Aug 09 02:11 PM,7.8,1.0,1.0,0.5,Platform $45.00 vs POS $46.00,Compare platform vs POS menu prices for the items on this order
+239,Monitor,0.5,PRICE_MISMATCH,DP-C4F3E9,CHK-105431,Sun Aug 09 02:54 PM,7.8,1.0,1.0,0.5,Platform $40.00 vs POS $41.00,Compare platform vs POS menu prices for the items on this order
+240,Monitor,0.5,PRICE_MISMATCH,DP-F8734E,CHK-105442,Sun Aug 09 04:12 PM,7.7,1.0,1.0,0.5,Platform $13.50 vs POS $14.50,Compare platform vs POS menu prices for the items on this order
+241,Monitor,0.5,PRICE_MISMATCH,DP-E2A140,CHK-105449,Sun Aug 09 05:16 PM,7.7,1.0,1.0,0.5,Platform $27.00 vs POS $28.00,Compare platform vs POS menu prices for the items on this order
+242,Monitor,0.5,PRICE_MISMATCH,DP-982E2A,CHK-105452,Sun Aug 09 05:18 PM,7.7,1.0,1.0,0.5,Platform $57.50 vs POS $58.50,Compare platform vs POS menu prices for the items on this order
+243,Monitor,0.5,PRICE_MISMATCH,DP-82EC68,CHK-105495,Sun Aug 09 07:02 PM,7.6,1.0,1.0,0.5,Platform $24.50 vs POS $25.50,Compare platform vs POS menu prices for the items on this order
+244,Monitor,0.5,PRICE_MISMATCH,DP-391697,CHK-105497,Sun Aug 09 07:09 PM,7.6,1.0,1.0,0.5,Platform $27.00 vs POS $28.00,Compare platform vs POS menu prices for the items on this order
+245,Monitor,0.5,PRICE_MISMATCH,DP-5A19A1,CHK-105501,Sun Aug 09 07:14 PM,7.6,1.0,1.0,0.5,Platform $46.50 vs POS $47.50,Compare platform vs POS menu prices for the items on this order
+246,Monitor,0.5,PRICE_MISMATCH,DP-F68086,CHK-105534,Sun Aug 09 07:54 PM,7.5,1.0,1.0,0.5,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+247,Monitor,0.5,PRICE_MISMATCH,DP-9ACB69,CHK-105547,Sun Aug 09 08:10 PM,7.5,1.0,1.0,0.5,Platform $18.50 vs POS $19.50,Compare platform vs POS menu prices for the items on this order
+248,Monitor,0.5,PRICE_MISMATCH,DP-D579F2,CHK-105572,Sun Aug 09 09:11 PM,7.5,1.0,1.0,0.5,Platform $17.00 vs POS $18.00,Compare platform vs POS menu prices for the items on this order
+249,Monitor,0.38,LATE_DELIVERY,DP-86B5D4,CHK-105015,Fri Aug 07 07:46 PM,9.6,1.53,0.5,0.5,20 min past promised time,Check ticket time vs pickup; dispute if the courier was late
