@@ -1,0 +1,1529 @@
+check_id,opened_at,terminal,order_channel,external_ref,items,subtotal,tax,total,voided
+CHK-104001,2026-08-03 11:05:01,T2,Takeout,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-104002,2026-08-03 11:13:19,T2,Takeout,,Chana Masala Bowl; Dal Makhani; Dal Makhani; Samosa (2); Butter Chicken Plate,54.00,5.13,59.13,N
+CHK-104004,08/03/2026 11:15 AM,T1,delivery ,dp-b74f21,Chana Masala Bowl; Chana Masala Bowl; Garlic Naan; Butter Chicken Plate,43.50,4.13,47.63,N
+CHK-104006,08/03/2026 11:23 AM,T1,Delivery,DP-5E0853,Dal Makhani; Paneer Wrap; Chana Masala Bowl; Samosa (2),39.50,3.75,43.25,N
+CHK-104009,08/03/2026 11:39 AM,T1,delivery ,1722F2,Chana Masala Bowl; Chana Masala Bowl; Mango Lassi; Chana Masala Bowl; Dal Makhani,51.00,4.84,55.84,N
+CHK-104012,08/03/2026 11:43 AM,T1,Delivery,DP-2A0770,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104013,08/03/2026 11:45 AM,T1,Delivery,,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-104016,08/03/2026 12:06 PM,T1,Dine In,,Samosa (2); Butter Chicken Plate; Dal Makhani; Paneer Wrap,43.50,4.13,47.63,N
+CHK-104019,08/03/2026 12:07 PM,T1,DELIVERY,,Paneer Wrap; Chana Masala Bowl; Garlic Naan; Mango Lassi; Mango Lassi,37.00,3.52,40.52,N
+CHK-104021,08/03/2026 12:11 PM,T1,Takeout,,Butter Chicken Plate; Samosa (2); Samosa (2),28.00,2.66,30.66,N
+CHK-104022,08/03/2026 12:16 PM,T1,delivery ,,Chicken Tikka Bowl; Samosa (2); Chicken Tikka Bowl,33.00,3.14,36.14,N
+CHK-104025,2026-08-03 12:18:41,T2,delivery ,,Samosa (2); Paneer Wrap; Dal Makhani,27.50,2.61,$30.11,N
+CHK-104027,2026-08-03 12:19:46,T2,Dine In,,Butter Chicken Plate; Chicken Tikka Bowl,29.50,2.80,32.30,N
+CHK-104028,08/03/2026 12:21 PM,T1,Delivery,dp-84b27b,Mango Lassi; Dal Makhani,15.00,1.43,16.43,N
+CHK-104030,08/03/2026 12:23 PM,T1,Takeout,,Chicken Tikka Bowl; Garlic Naan; Mango Lassi; Chicken Tikka Bowl; Garlic Naan,39.00,3.71,$42.71,N
+CHK-104031,08/03/2026 12:28 PM,T1,Dine In,,Samosa (2); Garlic Naan,$9.50,0.90,10.40,N
+CHK-104032,08/03/2026 12:33 PM,T1,Takeout,,Butter Chicken Plate; Dal Makhani; Dal Makhani; Mango Lassi,41.00,3.90,44.90,N
+CHK-104035,08/03/2026 12:38 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104036,08/03/2026 12:44 PM,T1,delivery ,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104038,2026-08-03 12:45:41,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104041,08/03/2026 12:51 PM,T1,delivery ,DP-41B4D4,Samosa (2),6.00,0.57,6.57,N
+CHK-104043,08/03/2026 12:54 PM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-104046,08/03/2026 12:55 PM,T1,delivery ,DP-28BCA0,Dal Makhani,10.00,0.95,10.95,N
+CHK-104048,08/03/2026 12:57 PM,T1,Delivery,,Paneer Wrap; Dal Makhani; Chana Masala Bowl; Butter Chicken Plate,49.50,4.70,54.20,N
+CHK-104051,08/03/2026 01:03 PM,T1,DELIVERY,DP-D06BD2,Samosa (2); Samosa (2); Butter Chicken Plate; Dal Makhani; Dal Makhani,48.00,4.56,52.56,N
+CHK-104054,08/03/2026 01:07 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104056,2026-08-03 13:09:43,T2,Takeout,,Butter Chicken Plate; Butter Chicken Plate; Butter Chicken Plate; Butter Chicken Plate; Garlic Naan,67.50,6.41,73.91,N
+CHK-104059,08/03/2026 01:21 PM,T1,Delivery,,Chana Masala Bowl; Butter Chicken Plate; Dal Makhani,38.00,$3.61,41.61,N
+CHK-104060,08/03/2026 01:40 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104061,08/03/2026 01:40 PM,T1,Dine In,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-104063,08/03/2026 01:41 PM,T1,Takeout,,Butter Chicken Plate; Butter Chicken Plate; Dal Makhani; Butter Chicken Plate,58.00,5.51,63.51,N
+CHK-104066,2026-08-03 13:48:19,T2,Dine In,,Samosa (2); Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl; Garlic Naan,$47.00,4.46,51.46,N
+CHK-104068,2026-08-03 14:43:47,T2,Delivery,dp-2ed6cf,Chana Masala Bowl; Chicken Tikka Bowl,25.50,2.42,27.92,N
+CHK-104071,2026-08-03 14:49:31,T2,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104073,08/03/2026 02:55 PM,T1,DELIVERY,DP-AEDE5F,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-104075,08/03/2026 04:14 PM,T1,DELIVERY,,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104077,2026-08-03 16:17:13,T2,Takeout,,Butter Chicken Plate; Samosa (2); Garlic Naan,25.50,2.42,27.92,N
+CHK-104079,08/03/2026 04:23 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-104081,08/03/2026 04:26 PM,T1,Takeout,,Paneer Wrap; Mango Lassi; Dal Makhani,26.50,2.52,29.02,N
+CHK-104084,08/03/2026 05:02 PM,T1,Dine In,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-104087,2026-08-03 17:50:32,T2,DELIVERY,,Samosa (2),6.00,0.57,$6.57,N
+CHK-104088,2026-08-03 18:01:03,T2,Dine In,,Garlic Naan; Garlic Naan; Butter Chicken Plate; Mango Lassi; Mango Lassi,33.00,3.14,36.14,N
+CHK-104089,08/03/2026 06:01 PM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate,46.50,4.42,$50.92,N
+CHK-104092,2026-08-03 18:03:50,T2,Takeout,,Samosa (2); Butter Chicken Plate; Samosa (2),28.00,2.66,30.66,N
+CHK-104093,08/03/2026 06:04 PM,T1,Dine In,,Mango Lassi; Chicken Tikka Bowl; Paneer Wrap; Chana Masala Bowl,42.00,3.99,45.99,N
+CHK-104095,08/03/2026 06:06 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Chicken Tikka Bowl,31.50,2.99,34.49,N
+CHK-104098,08/03/2026 06:09 PM,T1,DELIVERY,DP-E518CA,Samosa (2); Samosa (2),12.00,$1.14,13.14,N
+CHK-104101,08/03/2026 06:21 PM,T1,Takeout,,Butter Chicken Plate,16.00,$1.52,17.52,N
+CHK-104102,08/03/2026 06:25 PM,T1,Delivery,DP-076047,Butter Chicken Plate,16.00,1.52,$17.52,N
+CHK-104103,08/03/2026 06:31 PM,T1,DELIVERY,,Dal Makhani; Butter Chicken Plate; Chicken Tikka Bowl,39.50,3.75,43.25,N
+CHK-104106,2026-08-03 18:33:08,T2,Delivery,DP-8FED8A,Butter Chicken Plate; Dal Makhani; Mango Lassi; Paneer Wrap,42.50,4.04,46.54,N
+CHK-104108,08/03/2026 06:33 PM,T1,Dine In,,Samosa (2),6.00,0.57,6.57,N
+CHK-104110,08/03/2026 06:36 PM,T1,delivery ,DP-80627D,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-104112,08/03/2026 06:40 PM,T1,Delivery,,Samosa (2); Butter Chicken Plate; Chana Masala Bowl,34.00,3.23,37.23,N
+CHK-104114,08/03/2026 06:40 PM,T1,Delivery,DP-481194,Mango Lassi; Butter Chicken Plate; Chicken Tikka Bowl,34.50,3.28,37.78,N
+CHK-104115,08/03/2026 06:45 PM,T1,Takeout,,Dal Makhani; Mango Lassi,$15.00,1.43,16.43,N
+CHK-104117,08/03/2026 06:48 PM,T1,Delivery,DP-9273D7,Garlic Naan; Mango Lassi; Mango Lassi,13.50,1.28,$14.78,N
+CHK-104119,08/03/2026 06:48 PM,T1,delivery ,DP-250DEF,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-104121,08/03/2026 06:50 PM,T1,Dine In,,Butter Chicken Plate; Paneer Wrap,27.50,$2.61,30.11,N
+CHK-104124,08/03/2026 07:07 PM,T1,Dine In,,Chana Masala Bowl; Chicken Tikka Bowl; Samosa (2); Paneer Wrap,43.00,$4.08,47.08,N
+CHK-104125,08/03/2026 07:10 PM,T1,delivery ,DP-1599E3,Dal Makhani; Garlic Naan,13.50,$1.28,14.78,N
+CHK-104126,08/03/2026 07:13 PM,T1,Dine In,,Paneer Wrap; Samosa (2),17.50,1.66,19.16,N
+CHK-104128,08/03/2026 07:15 PM,T1,delivery ,DP-0815FE,Chana Masala Bowl; Garlic Naan; Mango Lassi; Butter Chicken Plate,$36.50,$3.47,39.97,N
+CHK-104129,2026-08-03 19:16:22,T2,delivery ,DP-C0ED16,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-104132,08/03/2026 07:20 PM,T1,Delivery,DP-D273E3,Chana Masala Bowl; Mango Lassi; Dal Makhani,27.00,2.56,29.56,N
+CHK-104135,08/03/2026 07:26 PM,T1,Dine In,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104137,08/03/2026 07:30 PM,T1,Dine In,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104140,08/03/2026 07:30 PM,T1,Dine In,,Butter Chicken Plate; Mango Lassi; Paneer Wrap,32.50,3.09,35.59,N
+CHK-104143,08/03/2026 07:30 PM,T1,Delivery,,Mango Lassi; Samosa (2),11.00,1.04,12.04,N
+CHK-104145,08/03/2026 07:33 PM,T1,Dine In,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-104146,08/03/2026 07:35 PM,T1,Takeout,,Butter Chicken Plate; Butter Chicken Plate; Dal Makhani,42.00,3.99,45.99,N
+CHK-104147,2026-08-03 19:36:13,T2,DELIVERY,dp-cc4f14,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-104149,08/03/2026 07:40 PM,T1,Dine In,,Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl; Dal Makhani,44.50,4.23,48.73,N
+CHK-104152,08/03/2026 07:41 PM,T1,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-104153,08/03/2026 07:44 PM,T1,Delivery,DP-CAF127,Dal Makhani; Paneer Wrap; Butter Chicken Plate,37.50,$3.56,41.06,N
+CHK-104154,08/03/2026 07:46 PM,T1,Takeout,,Mango Lassi; Paneer Wrap,16.50,1.57,18.07,N
+CHK-104155,08/03/2026 07:51 PM,T1,Takeout,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104156,08/03/2026 07:56 PM,T1,delivery ,DP-952EB9,Garlic Naan; Dal Makhani; Mango Lassi,18.50,1.76,20.26,N
+CHK-104157,08/03/2026 07:57 PM,T1,Dine In,,Paneer Wrap; Samosa (2),17.50,1.66,19.16,N
+CHK-104159,2026-08-03 20:02:42,T2,Dine In,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-104162,08/03/2026 08:12 PM,T1,Takeout,,Mango Lassi; Mango Lassi; Dal Makhani,20.00,1.90,21.90,N
+CHK-104165,08/03/2026 08:16 PM,T1,DELIVERY,DP-1F97B7,Dal Makhani; Chana Masala Bowl; Butter Chicken Plate,38.00,3.61,41.61,N
+CHK-104168,08/03/2026 08:21 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2); Dal Makhani,28.00,2.66,$30.66,N
+CHK-104170,2026-08-03 20:33:47,T2,DELIVERY,,Mango Lassi; Butter Chicken Plate; Chana Masala Bowl; Paneer Wrap,$44.50,4.23,48.73,N
+CHK-104171,2026-08-03 20:35:11,T2,Delivery,DP-8CB37F,Samosa (2),6.00,0.57,$6.57,N
+CHK-104172,08/03/2026 08:47 PM,T1,Takeout,,Garlic Naan; Samosa (2); Chana Masala Bowl; Mango Lassi,26.50,2.52,29.02,N
+CHK-104175,08/03/2026 08:52 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl; Garlic Naan,34.00,$3.23,37.23,N
+CHK-104176,08/03/2026 09:05 PM,T1,Dine In,,Chicken Tikka Bowl; Paneer Wrap; Mango Lassi,30.00,2.85,32.85,N
+CHK-104178,08/03/2026 09:41 PM,T1,Dine In,,Samosa (2); Chana Masala Bowl,18.00,1.71,19.71,N
+CHK-104180,2026-08-03 21:54:52,T2,Takeout,,Paneer Wrap; Chicken Tikka Bowl,25.00,2.38,27.38,N
+CHK-104182,08/03/2026 09:58 PM,T1,DELIVERY,,Butter Chicken Plate; Mango Lassi; Garlic Naan; Dal Makhani,34.50,3.28,37.78,N
+CHK-104185,08/04/2026 11:07 AM,T1,Dine In,,Butter Chicken Plate; Dal Makhani,26.00,2.47,$28.47,N
+CHK-104188,08/04/2026 11:07 AM,T1,delivery ,DP-C47136,Samosa (2),6.00,0.57,6.57,N
+CHK-104189,08/04/2026 11:08 AM,T1,delivery ,,Samosa (2); Samosa (2); Butter Chicken Plate; Garlic Naan,$31.50,2.99,34.49,N
+CHK-104190,08/04/2026 11:14 AM,T1,Takeout,,Garlic Naan; Paneer Wrap; Butter Chicken Plate,$31.00,2.94,33.94,N
+CHK-104193,08/04/2026 11:25 AM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate,27.50,$2.61,30.11,N
+CHK-104196,08/04/2026 11:32 AM,T1,DELIVERY,DP-FCA5EA,Dal Makhani; Mango Lassi,15.00,1.43,16.43,N
+CHK-104199,08/04/2026 11:37 AM,T1,Takeout,,Butter Chicken Plate; Samosa (2); Butter Chicken Plate; Samosa (2),44.00,4.18,48.18,N
+CHK-104202,2026-08-04 11:44:39,T2,Dine In,,Garlic Naan; Butter Chicken Plate; Garlic Naan,23.00,2.19,25.19,N
+CHK-104205,08/04/2026 11:53 AM,T1,Takeout,,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-104208,08/04/2026 11:54 AM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104211,08/04/2026 11:55 AM,T1,Dine In,,Paneer Wrap; Samosa (2),17.50,1.66,19.16,N
+CHK-104214,08/04/2026 12:07 PM,T1,Dine In,,Mango Lassi; Chana Masala Bowl; Butter Chicken Plate,33.00,3.14,36.14,N
+CHK-104215,08/04/2026 12:08 PM,T1,delivery ,DP-893CCB,Chana Masala Bowl; Dal Makhani; Chicken Tikka Bowl; Dal Makhani; Butter Chicken Plate,61.50,5.84,67.34,N
+CHK-104216,08/04/2026 12:08 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl; Garlic Naan; Chana Masala Bowl,45.00,4.28,49.28,N
+CHK-104219,08/04/2026 12:13 PM,T1,Dine In,,Dal Makhani; Dal Makhani,$20.00,1.90,21.90,N
+CHK-104221,08/04/2026 12:13 PM,T1,Dine In,,Dal Makhani,$10.00,0.95,10.95,N
+CHK-104223,08/04/2026 12:14 PM,T1,Delivery,,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-104225,08/04/2026 12:22 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104226,08/04/2026 12:23 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Dal Makhani,27.00,$2.56,29.56,N
+CHK-104229,08/04/2026 12:24 PM,T1,Takeout,,Butter Chicken Plate; Samosa (2); Mango Lassi,27.00,2.56,29.56,N
+CHK-104230,2026-08-04 12:25:23,T2,Dine In,,Butter Chicken Plate; Dal Makhani; Butter Chicken Plate,42.00,3.99,45.99,N
+CHK-104233,08/04/2026 12:27 PM,T1,delivery ,,Chicken Tikka Bowl; Garlic Naan; Mango Lassi; Chana Masala Bowl; Dal Makhani,44.00,4.18,48.18,N
+CHK-104234,08/04/2026 12:27 PM,T1,delivery ,dp-708c7e,Samosa (2); Dal Makhani; Chicken Tikka Bowl,29.50,2.80,32.30,N
+CHK-104237,08/04/2026 12:27 PM,T1,Dine In,,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-104240,08/04/2026 12:28 PM,T1,Dine In,,Garlic Naan; Mango Lassi; Samosa (2); Chicken Tikka Bowl,$28.00,2.66,30.66,N
+CHK-104243,08/04/2026 12:30 PM,T1,Delivery,,Chicken Tikka Bowl; Samosa (2); Dal Makhani,29.50,$2.80,32.30,N
+CHK-104246,08/04/2026 12:33 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Butter Chicken Plate,31.50,2.99,34.49,N
+CHK-104248,08/04/2026 12:43 PM,T1,Takeout,,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-104251,2026-08-04 13:03:54,T2,delivery ,DP-4F4EBD,Mango Lassi; Paneer Wrap; Paneer Wrap,28.00,2.66,30.66,N
+CHK-104254,08/04/2026 01:06 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104255,08/04/2026 01:10 PM,T1,Delivery,,Mango Lassi; Butter Chicken Plate; Mango Lassi,26.00,2.47,$28.47,N
+CHK-104257,08/04/2026 01:11 PM,T1,Dine In,,Chicken Tikka Bowl; Mango Lassi; Dal Makhani,28.50,2.71,31.21,N
+CHK-104258,08/04/2026 01:19 PM,T1,delivery ,DP-212F19,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-104261,08/04/2026 01:23 PM,T1,Delivery,DP-C47009,Garlic Naan; Garlic Naan,7.00,$0.67,7.67,N
+CHK-104263,08/04/2026 01:25 PM,T1,Delivery,DP-171CE7,Chicken Tikka Bowl; Chana Masala Bowl,25.50,2.42,27.92,N
+CHK-104266,08/04/2026 01:25 PM,T1,Takeout,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-104268,08/04/2026 01:26 PM,T1,delivery ,5DF1BC,Samosa (2); Garlic Naan; Garlic Naan,13.00,1.24,14.24,N
+CHK-104269,08/04/2026 01:28 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-104270,2026-08-04 13:29:16,T2,Dine In,,Dal Makhani; Chicken Tikka Bowl,$23.50,2.23,25.73,N
+CHK-104271,08/04/2026 01:39 PM,T1,DELIVERY,DP-86A2EB,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104274,2026-08-04 13:51:30,T2,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-104277,08/04/2026 01:56 PM,T1,DELIVERY,,Dal Makhani; Garlic Naan; Mango Lassi,18.50,1.76,20.26,N
+CHK-104279,08/04/2026 02:01 PM,T1,DELIVERY,,Samosa (2),6.00,0.57,6.57,N
+CHK-104282,08/04/2026 02:08 PM,T1,Delivery,DP-B1FF00,Garlic Naan; Chicken Tikka Bowl,17.00,$1.61,18.61,N
+CHK-104285,2026-08-04 14:10:53,T2,Dine In,,Butter Chicken Plate; Dal Makhani; Chicken Tikka Bowl; Garlic Naan,43.00,4.08,47.08,N
+CHK-104288,2026-08-04 14:27:05,T2,Dine In,,Mango Lassi; Paneer Wrap,16.50,1.57,$18.07,N
+CHK-104291,08/04/2026 02:29 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl,29.50,2.80,32.30,N
+CHK-104293,08/04/2026 03:02 PM,T1,Delivery,DP-8B8C2B,Mango Lassi; Paneer Wrap; Paneer Wrap; Dal Makhani; Butter Chicken Plate,54.00,5.13,59.13,N
+CHK-104294,08/04/2026 04:01 PM,T1,Dine In,,Chicken Tikka Bowl; Mango Lassi; Chana Masala Bowl,30.50,2.90,33.40,N
+CHK-104297,2026-08-04 16:05:16,T2,Delivery,DP-3176F8,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104299,08/04/2026 04:22 PM,T1,DELIVERY,,Chana Masala Bowl; Butter Chicken Plate,$28.00,2.66,30.66,N
+CHK-104302,08/04/2026 04:35 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104305,08/04/2026 04:39 PM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi,30.50,2.90,$33.40,N
+CHK-104308,08/04/2026 05:07 PM,T1,Dine In,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104311,08/04/2026 05:08 PM,T1,Delivery,DP BCD5C2,Dal Makhani; Paneer Wrap; Butter Chicken Plate,$37.50,3.56,41.06,N
+CHK-104314,08/04/2026 05:19 PM,T1,Takeout,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104316,08/04/2026 05:24 PM,T1,delivery ,DP-425DED,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104319,08/04/2026 05:36 PM,T1,Dine In,,Paneer Wrap,$11.50,$1.09,12.59,N
+CHK-104322,08/04/2026 05:36 PM,T1,DELIVERY,DP-C54898,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-104323,08/04/2026 05:42 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104326,2026-08-04 17:44:43,T2,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104328,08/04/2026 05:56 PM,T1,Delivery,DP-CACAEA,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-104329,08/04/2026 06:01 PM,T1,Takeout,,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-104332,08/04/2026 06:06 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-104334,08/04/2026 06:08 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl,29.00,2.75,31.75,N
+CHK-104336,2026-08-04 18:08:21,T2,Dine In,,Mango Lassi; Samosa (2); Paneer Wrap; Chana Masala Bowl; Garlic Naan,38.00,3.61,41.61,N
+CHK-104339,08/04/2026 06:09 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi,$44.00,4.18,48.18,N
+CHK-104340,2026-08-04 18:10:16,T2,delivery ,DP-650E6E,Butter Chicken Plate; Garlic Naan; Mango Lassi,24.50,2.33,26.83,N
+CHK-104341,08/04/2026 06:15 PM,T1,delivery ,DP-D1B237,Samosa (2); Chana Masala Bowl; Chicken Tikka Bowl,31.50,2.99,34.49,N
+CHK-104344,08/04/2026 06:18 PM,T1,Delivery,DP-BCE4B0,Dal Makhani; Garlic Naan,13.50,1.28,$14.78,N
+CHK-104347,08/04/2026 06:20 PM,T1,Delivery,DP-EA2913,Samosa (2),6.00,0.57,6.57,N
+CHK-104348,08/04/2026 06:22 PM,T1,Takeout,,Garlic Naan; Mango Lassi,$8.50,0.81,9.31,N
+CHK-104351,08/04/2026 06:24 PM,T1,Delivery,DP-C06EDC,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104352,08/04/2026 06:31 PM,T1,DELIVERY,DP-ACC3BB,Chana Masala Bowl; Dal Makhani; Butter Chicken Plate; Chana Masala Bowl,50.00,4.75,54.75,N
+CHK-104354,08/04/2026 06:34 PM,T1,DELIVERY,DP-5F945A,Chicken Tikka Bowl; Samosa (2); Chicken Tikka Bowl; Mango Lassi,38.00,$3.61,$41.61,N
+CHK-104355,08/04/2026 06:35 PM,T1,Takeout,,Garlic Naan; Mango Lassi; Paneer Wrap; Mango Lassi,25.00,2.38,27.38,N
+CHK-104357,08/04/2026 06:38 PM,T1,Delivery,DP-918795,Mango Lassi; Butter Chicken Plate; Butter Chicken Plate,37.00,3.52,40.52,N
+CHK-104360,08/04/2026 06:41 PM,T1,delivery ,,Butter Chicken Plate; Paneer Wrap; Paneer Wrap; Samosa (2),45.00,4.28,49.28,N
+CHK-104362,08/04/2026 06:45 PM,T1,Delivery,DP-99834D,Dal Makhani; Chana Masala Bowl; Chana Masala Bowl; Paneer Wrap,45.50,4.32,$49.82,N
+CHK-104365,08/04/2026 06:47 PM,T1,DELIVERY,DP-8BEFA0,Butter Chicken Plate; Mango Lassi; Samosa (2); Butter Chicken Plate,43.00,4.08,47.08,N
+CHK-104368,08/04/2026 06:49 PM,T1,Dine In,,Mango Lassi; Dal Makhani,15.00,1.43,16.43,N
+CHK-104371,08/04/2026 06:51 PM,T1,Dine In,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104374,08/04/2026 07:02 PM,T1,Takeout,,Samosa (2); Paneer Wrap; Chicken Tikka Bowl; Mango Lassi,$36.00,3.42,39.42,N
+CHK-104377,08/04/2026 07:04 PM,T1,DELIVERY,DP-113E03,Chana Masala Bowl; Mango Lassi; Mango Lassi; Chicken Tikka Bowl; Garlic Naan,39.00,3.71,$42.71,N
+CHK-104379,08/04/2026 07:13 PM,T1,DELIVERY,,Chana Masala Bowl; Paneer Wrap,$23.50,2.23,25.73,N
+CHK-104381,08/04/2026 07:17 PM,T1,Takeout,,Samosa (2); Mango Lassi; Dal Makhani; Paneer Wrap,32.50,$3.09,35.59,N
+CHK-104383,08/04/2026 07:22 PM,T1,DELIVERY,DP AB94C4,Chana Masala Bowl; Butter Chicken Plate; Chicken Tikka Bowl,41.50,$3.94,45.44,N
+CHK-104385,08/04/2026 07:23 PM,T1,Takeout,,Butter Chicken Plate; Garlic Naan,19.50,1.85,21.35,N
+CHK-104388,08/04/2026 07:27 PM,T1,Takeout,,Mango Lassi; Samosa (2); Chana Masala Bowl,23.00,2.19,25.19,N
+CHK-104391,08/04/2026 07:30 PM,T1,delivery ,dp-cbda47,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-104394,08/04/2026 07:32 PM,T1,Delivery,DP-7FC37F,Butter Chicken Plate; Chicken Tikka Bowl; Samosa (2),$35.50,$3.37,38.87,N
+CHK-104396,08/04/2026 07:33 PM,T1,Dine In,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104398,08/04/2026 07:35 PM,T1,Takeout,,Dal Makhani; Dal Makhani; Butter Chicken Plate,36.00,3.42,39.42,N
+CHK-104400,08/04/2026 07:35 PM,T1,DELIVERY,DP-1C9DDC,Chana Masala Bowl,12.00,1.14,$13.14,N
+CHK-104401,08/04/2026 07:36 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-104402,2026-08-04 19:43:39,T2,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-104404,08/04/2026 07:50 PM,T1,Dine In,,Samosa (2); Mango Lassi; Mango Lassi; Samosa (2); Samosa (2),$28.00,2.66,$30.66,N
+CHK-104406,2026-08-04 19:51:21,T2,Takeout,,Mango Lassi,5.00,0.47,$5.47,N
+CHK-104409,08/04/2026 07:53 PM,T1,Dine In,,Samosa (2); Garlic Naan; Dal Makhani; Chana Masala Bowl; Chicken Tikka Bowl,45.00,4.28,49.28,N
+CHK-104410,08/04/2026 07:56 PM,T1,Dine In,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104413,08/04/2026 07:57 PM,T1,Takeout,,Chana Masala Bowl; Paneer Wrap,23.50,2.23,25.73,N
+CHK-104415,2026-08-04 19:59:31,T2,Delivery,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104416,08/04/2026 08:02 PM,T1,delivery ,,Butter Chicken Plate; Mango Lassi; Mango Lassi,$26.00,2.47,$28.47,N
+CHK-104418,2026-08-04 20:34:02,T2,delivery ,DP-BC451D,Paneer Wrap; Garlic Naan,15.00,1.43,$16.43,N
+CHK-104421,2026-08-04 20:54:01,T2,DELIVERY,DP 99A2E0,Dal Makhani; Dal Makhani,$20.00,1.90,21.90,N
+CHK-104423,08/04/2026 09:14 PM,T1,Takeout,,Garlic Naan; Samosa (2); Chana Masala Bowl; Chana Masala Bowl,33.50,3.18,36.68,N
+CHK-104425,08/04/2026 09:16 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104428,08/04/2026 09:18 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-104429,08/04/2026 09:27 PM,T1,Takeout,,Chana Masala Bowl; Dal Makhani; Samosa (2); Butter Chicken Plate; Butter Chicken Plate,60.00,5.70,65.70,N
+CHK-104431,08/04/2026 09:44 PM,T1,delivery ,DP-0A0C93,Paneer Wrap; Garlic Naan,15.00,1.43,16.43,N
+CHK-104433,2026-08-05 11:05:44,T2,Takeout,,Chana Masala Bowl; Mango Lassi; Samosa (2),23.00,2.19,25.19,N
+CHK-104435,08/05/2026 11:09 AM,T1,Takeout,,Dal Makhani; Samosa (2),16.00,1.52,17.52,N
+CHK-104438,08/05/2026 11:24 AM,T1,Takeout,,Chicken Tikka Bowl; Paneer Wrap; Dal Makhani,35.00,3.33,38.33,N
+CHK-104439,08/05/2026 11:25 AM,T1,DELIVERY,dp-9a6669,Chana Masala Bowl; Chana Masala Bowl; Samosa (2),30.00,2.85,$32.85,N
+CHK-104442,08/05/2026 11:34 AM,T1,delivery ,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104444,08/05/2026 11:51 AM,T1,Delivery,DP-791CCD,Samosa (2); Chicken Tikka Bowl; Chicken Tikka Bowl; Dal Makhani; Paneer Wrap,54.50,5.18,59.68,N
+CHK-104445,08/05/2026 12:09 PM,T1,delivery ,,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104448,08/05/2026 12:23 PM,T1,delivery ,,Chana Masala Bowl; Garlic Naan; Garlic Naan,19.00,1.80,$20.80,N
+CHK-104450,08/05/2026 12:28 PM,T1,Dine In,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104451,2026-08-05 12:33:24,T2,delivery ,DP-E771AC,Butter Chicken Plate; Garlic Naan; Dal Makhani; Dal Makhani,39.50,3.75,43.25,N
+CHK-104453,08/05/2026 12:34 PM,T1,Dine In,,Chana Masala Bowl; Dal Makhani; Chana Masala Bowl; Garlic Naan,37.50,3.56,41.06,N
+CHK-104456,08/05/2026 12:39 PM,T1,delivery ,DP-A0C302,Chicken Tikka Bowl; Butter Chicken Plate; Samosa (2),$35.50,3.37,38.87,N
+CHK-104459,08/05/2026 12:40 PM,T1,delivery ,949B04,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104462,2026-08-05 12:42:52,T2,Delivery,,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-104463,08/05/2026 12:43 PM,T1,Dine In,,Mango Lassi; Butter Chicken Plate; Paneer Wrap; Garlic Naan; Dal Makhani,46.00,$4.37,50.37,N
+CHK-104466,2026-08-05 12:46:08,T2,delivery ,DP-86351E,Butter Chicken Plate; Dal Makhani; Butter Chicken Plate,$42.00,3.99,45.99,N
+CHK-104469,08/05/2026 12:47 PM,T1,DELIVERY,DP-94BAD5,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104471,08/05/2026 01:00 PM,T1,DELIVERY,DP-94E2CB,Paneer Wrap; Chana Masala Bowl,23.50,$2.23,25.73,N
+CHK-104474,08/05/2026 01:03 PM,T1,Delivery,,Chicken Tikka Bowl; Chicken Tikka Bowl; Garlic Naan,30.50,2.90,33.40,N
+CHK-104477,08/05/2026 01:06 PM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl,37.50,3.56,$41.06,N
+CHK-104480,08/05/2026 01:13 PM,T1,Dine In,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104483,08/05/2026 01:31 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2); Samosa (2),25.50,2.42,27.92,N
+CHK-104486,08/05/2026 01:39 PM,T1,DELIVERY,DP 8B716B,Mango Lassi; Chicken Tikka Bowl,18.50,1.76,20.26,N
+CHK-104487,2026-08-05 13:46:49,T2,Takeout,,Dal Makhani; Chana Masala Bowl; Butter Chicken Plate; Chana Masala Bowl; Paneer Wrap,$61.50,5.84,67.34,N
+CHK-104489,08/05/2026 01:58 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104492,08/05/2026 02:01 PM,T1,Delivery,DP-C7CBBF,Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi,30.50,2.90,33.40,N
+CHK-104495,08/05/2026 02:41 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2); Mango Lassi,$23.00,2.19,25.19,N
+CHK-104498,08/05/2026 02:44 PM,T1,delivery ,DP-FF65D0,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104500,08/05/2026 02:48 PM,T1,delivery ,DP-26EFF5,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-104502,08/05/2026 03:05 PM,T1,Dine In,,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104505,08/05/2026 03:31 PM,T1,Dine In,,Dal Makhani; Chicken Tikka Bowl; Samosa (2),$29.50,2.80,32.30,N
+CHK-104507,08/05/2026 04:27 PM,T1,Delivery,DP-6D435F,Chicken Tikka Bowl; Butter Chicken Plate; Butter Chicken Plate; Mango Lassi,50.50,4.80,55.30,N
+CHK-104509,08/05/2026 05:34 PM,T1,Delivery,CB3D48,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-104512,08/05/2026 05:38 PM,T1,Takeout,,Samosa (2); Samosa (2); Samosa (2); Garlic Naan; Garlic Naan,25.00,2.38,27.38,N
+CHK-104513,08/05/2026 05:43 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl,27.00,2.56,29.56,N
+CHK-104516,08/05/2026 05:45 PM,T1,Takeout,,Mango Lassi; Butter Chicken Plate; Chana Masala Bowl; Paneer Wrap,44.50,4.23,$48.73,N
+CHK-104518,08/05/2026 05:46 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104520,2026-08-05 17:51:11,T2,Takeout,,Paneer Wrap; Dal Makhani; Paneer Wrap; Chicken Tikka Bowl,46.50,4.42,50.92,N
+CHK-104522,2026-08-05 17:55:54,T2,DELIVERY,DP-37E536,Samosa (2); Chicken Tikka Bowl,19.50,$1.85,$21.35,N
+CHK-104525,08/05/2026 05:56 PM,T1,DELIVERY,DP-DB34D8,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-104528,08/05/2026 05:56 PM,T1,delivery ,DP-C915FE,Dal Makhani,$10.00,0.95,10.95,N
+CHK-104529,08/05/2026 06:00 PM,T1,Dine In,,Dal Makhani; Samosa (2),16.00,1.52,17.52,N
+CHK-104531,08/05/2026 06:04 PM,T1,DELIVERY,DP-BCC602,Dal Makhani; Samosa (2); Samosa (2); Dal Makhani,32.00,3.04,35.04,N
+CHK-104533,08/05/2026 06:08 PM,T1,DELIVERY,8ECF7A,Mango Lassi; Mango Lassi; Chicken Tikka Bowl; Mango Lassi; Butter Chicken Plate,44.50,$4.23,48.73,N
+CHK-104536,08/05/2026 06:18 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104538,2026-08-05 18:20:46,T2,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104539,08/05/2026 06:27 PM,T1,Delivery,DP-2CA25F,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-104541,08/05/2026 06:31 PM,T1,Dine In,,Mango Lassi; Mango Lassi,10.00,$0.95,10.95,N
+CHK-104544,08/05/2026 06:32 PM,T1,delivery ,DP-1BC5E3,Mango Lassi; Samosa (2); Chicken Tikka Bowl,24.50,2.33,26.83,N
+CHK-104545,08/05/2026 06:32 PM,T1,Delivery,DP-32F01F,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-104547,08/05/2026 06:34 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-104550,08/05/2026 06:35 PM,T1,Dine In,,Samosa (2); Mango Lassi; Garlic Naan,14.50,1.38,15.88,N
+CHK-104551,08/05/2026 06:40 PM,T1,Takeout,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-104552,08/05/2026 06:52 PM,T1,Delivery,,Paneer Wrap; Butter Chicken Plate; Dal Makhani,37.50,3.56,41.06,N
+CHK-104554,08/05/2026 06:52 PM,T1,DELIVERY,DP-AF981C,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104557,2026-08-05 18:52:52,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl,$24.00,2.28,26.28,N
+CHK-104560,08/05/2026 06:56 PM,T1,Takeout,,Chicken Tikka Bowl; Dal Makhani; Paneer Wrap; Chana Masala Bowl,47.00,$4.46,51.46,N
+CHK-104561,08/05/2026 07:00 PM,T1,Dine In,,Garlic Naan; Paneer Wrap,15.00,$1.43,16.43,N
+CHK-104564,08/05/2026 07:01 PM,T1,Delivery,DP-59BAFE,Garlic Naan; Dal Makhani; Mango Lassi; Chana Masala Bowl,$30.50,2.90,33.40,N
+CHK-104566,08/05/2026 07:01 PM,T1,Dine In,,Dal Makhani; Chana Masala Bowl; Butter Chicken Plate; Chicken Tikka Bowl,51.50,4.89,56.39,N
+CHK-104568,08/05/2026 07:05 PM,T1,Takeout,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-104570,08/05/2026 07:07 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104571,2026-08-05 19:08:50,T2,DELIVERY,DP-8C8EBE,Chana Masala Bowl; Chicken Tikka Bowl,25.50,$2.42,27.92,N
+CHK-104574,08/05/2026 07:09 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-104577,08/05/2026 07:11 PM,T1,Takeout,,Samosa (2); Chicken Tikka Bowl; Butter Chicken Plate,35.50,3.37,$38.87,N
+CHK-104578,08/05/2026 07:13 PM,T1,DELIVERY,DP-23842C,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-104580,08/05/2026 07:15 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104583,08/05/2026 07:16 PM,T1,Delivery,DP-E45ED9,Mango Lassi; Paneer Wrap; Butter Chicken Plate; Mango Lassi,37.50,3.56,41.06,N
+CHK-104584,08/05/2026 07:26 PM,T1,Delivery,DP-D970B6,Garlic Naan; Garlic Naan,7.00,0.67,7.67,N
+CHK-104587,08/05/2026 07:29 PM,T1,Dine In,,Samosa (2); Garlic Naan; Samosa (2),15.50,1.47,$16.97,N
+CHK-104590,2026-08-05 19:33:14,T2,Delivery,DP-898D62,Dal Makhani,10.00,0.95,10.95,N
+CHK-104591,08/05/2026 07:34 PM,T1,DELIVERY,,Mango Lassi; Samosa (2),$11.00,1.04,12.04,N
+CHK-104593,08/05/2026 07:40 PM,T1,Takeout,,Mango Lassi; Dal Makhani; Garlic Naan; Samosa (2); Dal Makhani,34.50,3.28,37.78,N
+CHK-104596,08/05/2026 07:41 PM,T1,Takeout,,Mango Lassi; Samosa (2),11.00,$1.04,12.04,N
+CHK-104599,08/05/2026 07:46 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl,44.50,4.23,48.73,N
+CHK-104600,08/05/2026 07:54 PM,T1,Dine In,,Chicken Tikka Bowl,13.50,1.28,$14.78,N
+CHK-104602,08/05/2026 08:14 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-104605,08/05/2026 08:16 PM,T1,Dine In,,Mango Lassi; Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl; Dal Makhani,45.50,4.32,49.82,N
+CHK-104606,2026-08-05 20:30:11,T2,delivery ,DP-C037CE,Chicken Tikka Bowl; Paneer Wrap,$25.00,2.38,27.38,N
+CHK-104607,08/05/2026 08:31 PM,T1,Dine In,,Mango Lassi; Paneer Wrap,16.50,1.57,18.07,N
+CHK-104608,08/05/2026 08:36 PM,T1,Dine In,,Chicken Tikka Bowl; Butter Chicken Plate,29.50,2.80,32.30,N
+CHK-104609,08/05/2026 08:38 PM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-104612,2026-08-05 20:44:33,T2,Dine In,,Mango Lassi; Mango Lassi; Butter Chicken Plate; Butter Chicken Plate,42.00,3.99,$45.99,N
+CHK-104615,08/05/2026 08:57 PM,T1,Dine In,,Butter Chicken Plate; Dal Makhani; Samosa (2); Chana Masala Bowl,$44.00,4.18,48.18,N
+CHK-104618,2026-08-05 20:57:40,T2,Takeout,,Dal Makhani; Chana Masala Bowl; Paneer Wrap; Butter Chicken Plate; Chana Masala Bowl,61.50,5.84,67.34,N
+CHK-104620,08/05/2026 09:25 PM,T1,delivery ,DP-96B163,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-104622,08/05/2026 09:26 PM,T1,Takeout,,Paneer Wrap; Chicken Tikka Bowl,25.00,$2.38,27.38,N
+CHK-104623,08/05/2026 09:50 PM,T1,Takeout,,Mango Lassi; Paneer Wrap; Chicken Tikka Bowl,30.00,2.85,$32.85,N
+CHK-104624,08/06/2026 11:00 AM,T1,Takeout,,Garlic Naan; Garlic Naan; Mango Lassi,$12.00,1.14,13.14,N
+CHK-104625,08/06/2026 11:07 AM,T1,delivery ,DP-EF7748,Garlic Naan; Chana Masala Bowl; Samosa (2); Samosa (2),27.50,2.61,30.11,Y
+CHK-104627,08/06/2026 11:21 AM,T1,Delivery,DP-A29ECD,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-104630,08/06/2026 11:34 AM,T1,Dine In,,Butter Chicken Plate; Samosa (2); Garlic Naan,25.50,2.42,27.92,N
+CHK-104633,08/06/2026 11:36 AM,T1,Delivery,DP-F3EA3E,Garlic Naan,$3.50,0.33,3.83,N
+CHK-104636,08/06/2026 11:53 AM,T1,delivery ,DP-044E9C,Mango Lassi; Paneer Wrap; Paneer Wrap,$28.00,2.66,30.66,N
+CHK-104638,08/06/2026 12:03 PM,T1,Dine In,,Dal Makhani; Samosa (2),16.00,1.52,$17.52,N
+CHK-104639,08/06/2026 12:04 PM,T1,DELIVERY,DP-91B10B,Dal Makhani,10.00,0.95,10.95,N
+CHK-104642,08/06/2026 12:05 PM,T1,Dine In,,Mango Lassi; Mango Lassi; Dal Makhani; Chicken Tikka Bowl,33.50,3.18,36.68,N
+CHK-104644,08/06/2026 12:06 PM,T1,delivery ,DP-CBD494,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104647,08/06/2026 12:08 PM,T1,Delivery,,Garlic Naan; Garlic Naan; Mango Lassi; Samosa (2),18.00,1.71,19.71,N
+CHK-104648,08/06/2026 12:08 PM,T1,Dine In,,Paneer Wrap; Garlic Naan; Dal Makhani; Chicken Tikka Bowl,38.50,3.66,42.16,N
+CHK-104651,2026-08-06 12:13:39,T2,DELIVERY,DP-ECB75D,Mango Lassi; Paneer Wrap; Dal Makhani,26.50,$2.52,29.02,N
+CHK-104652,08/06/2026 12:23 PM,T1,DELIVERY,DP-8E227F,Butter Chicken Plate; Dal Makhani; Chicken Tikka Bowl,39.50,$3.75,43.25,N
+CHK-104653,08/06/2026 12:26 PM,T1,Dine In,,Garlic Naan,$3.50,$0.33,3.83,N
+CHK-104654,2026-08-06 12:31:59,T2,Takeout,,Mango Lassi; Chana Masala Bowl,17.00,1.61,$18.61,N
+CHK-104655,08/06/2026 12:34 PM,T1,delivery ,DP-81F519,Chicken Tikka Bowl; Dal Makhani; Mango Lassi; Butter Chicken Plate,44.50,4.23,48.73,N
+CHK-104658,08/06/2026 12:35 PM,T1,Takeout,,Chana Masala Bowl; Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-104660,08/06/2026 12:40 PM,T1,Delivery,,Chana Masala Bowl; Mango Lassi; Garlic Naan; Garlic Naan; Paneer Wrap,$35.50,3.37,38.87,N
+CHK-104662,08/06/2026 12:43 PM,T1,DELIVERY,DP-7CCF84,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104663,2026-08-06 12:57:09,T2,Takeout,,Mango Lassi; Mango Lassi; Mango Lassi,15.00,1.43,16.43,N
+CHK-104664,2026-08-06 13:05:29,T2,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-104666,08/06/2026 01:19 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104667,2026-08-06 13:37:43,T2,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl; Mango Lassi,34.50,3.28,37.78,N
+CHK-104669,2026-08-06 13:40:47,T2,delivery ,DP-3EB798,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104672,2026-08-06 13:44:23,T2,Takeout,,Butter Chicken Plate; Paneer Wrap; Mango Lassi; Garlic Naan,36.00,3.42,39.42,N
+CHK-104675,08/06/2026 01:46 PM,T1,Delivery,DP-53589E,Butter Chicken Plate; Mango Lassi; Dal Makhani,31.00,2.94,$33.94,N
+CHK-104678,2026-08-06 13:47:05,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Paneer Wrap,35.50,3.37,38.87,N
+CHK-104680,2026-08-06 13:57:51,T2,delivery ,DP-85E2F6,Chana Masala Bowl; Mango Lassi; Butter Chicken Plate,33.00,3.14,36.14,N
+CHK-104681,08/06/2026 02:13 PM,T1,Dine In,,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-104683,08/06/2026 02:29 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-104686,08/06/2026 02:38 PM,T1,DELIVERY,DP-01C84A,Chicken Tikka Bowl; Mango Lassi; Mango Lassi; Garlic Naan,27.00,2.56,29.56,N
+CHK-104688,08/06/2026 03:09 PM,T1,delivery ,DP-9C12BA,Mango Lassi,5.00,0.47,5.47,N
+CHK-104689,2026-08-06 15:25:16,T2,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104691,08/06/2026 04:04 PM,T1,Dine In,,Butter Chicken Plate; Samosa (2); Chicken Tikka Bowl,35.50,3.37,38.87,N
+CHK-104694,08/06/2026 04:24 PM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-104697,2026-08-06 16:37:06,T2,delivery ,DP-641607,Butter Chicken Plate; Dal Makhani,$26.00,2.47,28.47,N
+CHK-104698,2026-08-06 16:38:16,T2,Dine In,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104699,08/06/2026 04:39 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-104700,08/06/2026 04:44 PM,T1,Delivery,,Chicken Tikka Bowl; Mango Lassi,18.50,$1.76,20.26,N
+CHK-104701,08/06/2026 04:53 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl; Dal Makhani,38.00,3.61,41.61,N
+CHK-104702,08/06/2026 05:03 PM,T1,DELIVERY,DP-726DAC,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-104704,08/06/2026 05:06 PM,T1,delivery ,DP-143C50,Butter Chicken Plate; Chicken Tikka Bowl; Chicken Tikka Bowl; Chana Masala Bowl,55.00,5.22,60.22,N
+CHK-104706,2026-08-06 17:08:27,T2,Dine In,,Paneer Wrap; Dal Makhani; Paneer Wrap; Garlic Naan,$36.50,3.47,39.97,N
+CHK-104708,2026-08-06 17:09:35,T2,Dine In,,Mango Lassi; Chicken Tikka Bowl; Paneer Wrap; Chana Masala Bowl,$42.00,3.99,45.99,N
+CHK-104709,08/06/2026 05:18 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104711,2026-08-06 17:19:41,T2,Delivery,DP 4FF551,Samosa (2),6.00,0.57,6.57,N
+CHK-104713,08/06/2026 05:22 PM,T1,DELIVERY,,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-104716,2026-08-06 17:29:49,T2,DELIVERY,DP-AD6A73,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-104718,08/06/2026 05:49 PM,T1,delivery ,DP-4E6B86,Chicken Tikka Bowl; Chicken Tikka Bowl,27.00,2.56,29.56,N
+CHK-104719,08/06/2026 05:49 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Samosa (2),21.50,2.04,23.54,N
+CHK-104722,08/06/2026 05:59 PM,T1,DELIVERY,,Dal Makhani; Chicken Tikka Bowl; Garlic Naan; Paneer Wrap,38.50,$3.66,42.16,N
+CHK-104723,2026-08-06 18:00:45,T2,Dine In,,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-104726,08/06/2026 06:07 PM,T1,Dine In,,Garlic Naan; Dal Makhani,13.50,$1.28,14.78,N
+CHK-104728,2026-08-06 18:08:07,T2,DELIVERY,DP-1DCF3E,Butter Chicken Plate; Chicken Tikka Bowl,29.50,2.80,$32.30,N
+CHK-104730,08/06/2026 06:10 PM,T1,Delivery,DP-4C5BE0,Butter Chicken Plate; Garlic Naan; Samosa (2); Chicken Tikka Bowl,39.00,3.71,42.71,N
+CHK-104732,08/06/2026 06:19 PM,T1,delivery ,DP-B13CBE,Samosa (2); Samosa (2); Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-104734,08/06/2026 06:21 PM,T1,DELIVERY,DP-AB8D81,Samosa (2),6.00,0.57,6.57,N
+CHK-104737,2026-08-06 18:24:51,T2,Dine In,,Paneer Wrap; Garlic Naan; Paneer Wrap,26.50,2.52,29.02,N
+CHK-104739,2026-08-06 18:27:34,T2,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104740,08/06/2026 06:29 PM,T1,DELIVERY,DP-26E22C,Dal Makhani; Butter Chicken Plate; Butter Chicken Plate; Chana Masala Bowl,54.00,5.13,59.13,N
+CHK-104741,08/06/2026 06:31 PM,T1,Delivery,DP-7ADAAF,Mango Lassi; Mango Lassi; Dal Makhani,20.00,1.90,21.90,N
+CHK-104742,08/06/2026 06:32 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104743,08/06/2026 06:36 PM,T1,delivery ,,Chicken Tikka Bowl; Samosa (2),19.50,1.85,21.35,N
+CHK-104745,2026-08-06 18:41:22,T2,Dine In,,Garlic Naan; Chicken Tikka Bowl,17.00,1.61,18.61,N
+CHK-104746,08/06/2026 06:45 PM,T1,Delivery,DP-F4EA40,Samosa (2); Dal Makhani; Mango Lassi; Dal Makhani; Chana Masala Bowl,43.00,4.08,$47.08,N
+CHK-104748,08/06/2026 06:58 PM,T1,Takeout,,Mango Lassi; Chana Masala Bowl; Dal Makhani; Garlic Naan,30.50,2.90,33.40,N
+CHK-104750,08/06/2026 07:03 PM,T1,delivery ,DP-7EB2A1,Paneer Wrap; Paneer Wrap; Dal Makhani,33.00,$3.14,36.14,N
+CHK-104751,08/06/2026 07:06 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Butter Chicken Plate,34.00,3.23,$37.23,N
+CHK-104752,08/06/2026 07:12 PM,T1,delivery ,,Dal Makhani; Mango Lassi,15.00,1.43,16.43,N
+CHK-104754,08/06/2026 07:19 PM,T1,Takeout,,Chana Masala Bowl; Mango Lassi; Samosa (2); Garlic Naan,26.50,2.52,29.02,N
+CHK-104756,2026-08-06 19:22:59,T2,DELIVERY,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104758,2026-08-06 19:32:36,T2,delivery ,,Dal Makhani,10.00,$0.95,10.95,N
+CHK-104760,2026-08-06 19:37:23,T2,DELIVERY,DP-2BFD8F,Butter Chicken Plate; Samosa (2); Chicken Tikka Bowl; Dal Makhani; Chana Masala Bowl,57.50,5.46,62.96,N
+CHK-104763,08/06/2026 07:38 PM,T1,delivery ,DP-3DE234,Mango Lassi; Samosa (2); Dal Makhani; Samosa (2); Chana Masala Bowl,39.00,3.71,42.71,N
+CHK-104765,08/06/2026 07:38 PM,T1,Delivery,DP-535AA9,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-104767,2026-08-06 19:44:09,T2,delivery ,,Chicken Tikka Bowl; Paneer Wrap; Butter Chicken Plate,$41.00,$3.90,44.90,N
+CHK-104769,08/06/2026 07:45 PM,T1,Takeout,,Chicken Tikka Bowl; Dal Makhani; Garlic Naan; Dal Makhani,37.00,3.52,$40.52,N
+CHK-104770,08/06/2026 07:46 PM,T1,Dine In,,Samosa (2); Garlic Naan,9.50,$0.90,10.40,N
+CHK-104771,2026-08-06 19:48:03,T2,Dine In,,Chana Masala Bowl; Mango Lassi; Chana Masala Bowl,29.00,2.75,$31.75,N
+CHK-104772,08/06/2026 07:49 PM,T1,Delivery,,Dal Makhani; Samosa (2); Samosa (2); Chana Masala Bowl,34.00,3.23,37.23,N
+CHK-104775,08/06/2026 07:51 PM,T1,Takeout,,Chicken Tikka Bowl,13.50,$1.28,$14.78,N
+CHK-104778,2026-08-06 19:52:16,T2,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl,29.50,2.80,32.30,N
+CHK-104779,08/06/2026 07:52 PM,T1,Dine In,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104782,2026-08-06 19:55:52,T2,Delivery,,Butter Chicken Plate; Chana Masala Bowl; Samosa (2),34.00,3.23,37.23,N
+CHK-104785,2026-08-06 20:03:56,T2,delivery ,,Dal Makhani; Mango Lassi,15.00,1.43,16.43,N
+CHK-104786,08/06/2026 08:17 PM,T1,DELIVERY,DP-234CC3,Chana Masala Bowl; Butter Chicken Plate; Samosa (2),34.00,3.23,37.23,N
+CHK-104789,08/06/2026 08:17 PM,T1,Delivery,DP-CBFCF8,Mango Lassi,5.00,0.47,5.47,N
+CHK-104790,08/06/2026 08:19 PM,T1,Dine In,,Mango Lassi; Mango Lassi; Dal Makhani,20.00,$1.90,21.90,N
+CHK-104792,08/06/2026 08:19 PM,T1,DELIVERY,DP-32FE69,Mango Lassi; Dal Makhani; Samosa (2),21.00,2.00,$23.00,N
+CHK-104795,2026-08-06 20:24:40,T2,DELIVERY,,Mango Lassi; Butter Chicken Plate; Mango Lassi,26.00,2.47,28.47,N
+CHK-104798,08/06/2026 08:31 PM,T1,Delivery,DP-9A1014,Samosa (2); Chicken Tikka Bowl; Samosa (2); Garlic Naan,29.00,2.75,31.75,N
+CHK-104799,08/06/2026 08:40 PM,T1,delivery ,dp-1edd80,Chicken Tikka Bowl; Samosa (2); Garlic Naan,23.00,2.19,25.19,N
+CHK-104801,08/06/2026 08:46 PM,T1,DELIVERY,DP-D6F269,Dal Makhani; Garlic Naan,13.50,1.28,14.78,N
+CHK-104803,08/06/2026 08:48 PM,T1,delivery ,dp-da6dc8,Mango Lassi; Chana Masala Bowl; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-104804,08/06/2026 08:53 PM,T1,Takeout,,Garlic Naan; Dal Makhani; Dal Makhani,23.50,2.23,25.73,N
+CHK-104806,08/06/2026 08:54 PM,T1,Dine In,,Butter Chicken Plate; Chicken Tikka Bowl; Mango Lassi; Mango Lassi,39.50,3.75,43.25,N
+CHK-104809,08/06/2026 08:57 PM,T1,Dine In,,Paneer Wrap; Chicken Tikka Bowl; Chicken Tikka Bowl; Garlic Naan,42.00,3.99,45.99,N
+CHK-104811,08/06/2026 09:13 PM,T1,DELIVERY,DP-16BE47,Dal Makhani,10.00,0.95,10.95,N
+CHK-104812,08/06/2026 09:20 PM,T1,Delivery,dp-079efd,Chicken Tikka Bowl; Paneer Wrap,25.00,2.38,$27.38,N
+CHK-104813,08/06/2026 09:54 PM,T1,Dine In,,Chana Masala Bowl; Paneer Wrap,$23.50,2.23,25.73,N
+CHK-104814,08/06/2026 09:59 PM,T1,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-104815,08/07/2026 11:10 AM,T1,Delivery,DP-EACF44,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-104818,2026-08-07 11:12:03,T2,delivery ,DP-509326,Chicken Tikka Bowl; Paneer Wrap; Mango Lassi; Chicken Tikka Bowl; Butter Chicken Plate,59.50,5.65,$65.15,N
+CHK-104821,08/07/2026 11:21 AM,T1,Delivery,DP-0AD5D0,Samosa (2); Garlic Naan; Dal Makhani; Butter Chicken Plate,35.50,3.37,$38.87,N
+CHK-104822,08/07/2026 11:22 AM,T1,Takeout,,Samosa (2); Samosa (2); Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-104825,2026-08-07 11:23:09,T2,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104828,08/07/2026 11:25 AM,T1,DELIVERY,DP-D70837,Chana Masala Bowl; Dal Makhani; Garlic Naan,25.50,2.42,$27.92,N
+CHK-104831,08/07/2026 11:27 AM,T1,DELIVERY,,Butter Chicken Plate; Chicken Tikka Bowl,$29.50,2.80,32.30,N
+CHK-104832,08/07/2026 11:36 AM,T1,Dine In,,Chicken Tikka Bowl; Mango Lassi; Dal Makhani,28.50,2.71,31.21,N
+CHK-104834,08/07/2026 11:46 AM,T1,Delivery,DP-9501F8,Garlic Naan; Samosa (2); Paneer Wrap,21.00,2.00,23.00,N
+CHK-104836,2026-08-07 11:48:43,T2,Dine In,,Dal Makhani; Chana Masala Bowl,22.00,$2.09,24.09,N
+CHK-104838,08/07/2026 11:52 AM,T1,Dine In,,Paneer Wrap; Dal Makhani; Chana Masala Bowl; Dal Makhani,43.50,4.13,47.63,N
+CHK-104840,08/07/2026 11:54 AM,T1,Takeout,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-104842,08/07/2026 11:56 AM,T1,Delivery,DP-6AA8E8,Samosa (2); Samosa (2),12.00,1.14,13.14,N
+CHK-104845,2026-08-07 12:07:03,T2,Takeout,,Samosa (2); Chana Masala Bowl; Dal Makhani; Mango Lassi,33.00,3.14,$36.14,N
+CHK-104848,08/07/2026 12:07 PM,T1,Delivery,DP-FC220E,Samosa (2); Garlic Naan; Samosa (2),15.50,1.47,16.97,N
+CHK-104850,2026-08-07 12:11:58,T2,Delivery,DP-977FB1,Paneer Wrap; Chicken Tikka Bowl,25.00,2.38,27.38,N
+CHK-104851,08/07/2026 12:12 PM,T1,DELIVERY,,Dal Makhani; Paneer Wrap; Chicken Tikka Bowl; Dal Makhani,45.00,4.28,49.28,N
+CHK-104854,08/07/2026 12:14 PM,T1,Takeout,,Samosa (2); Dal Makhani,16.00,1.52,17.52,N
+CHK-104855,08/07/2026 12:16 PM,T1,Delivery,DP-EFB171,Garlic Naan; Mango Lassi,8.50,0.81,$9.31,N
+CHK-104857,08/07/2026 12:23 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl; Paneer Wrap,$31.00,2.94,33.94,N
+CHK-104859,08/07/2026 12:31 PM,T1,Dine In,,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,N
+CHK-104861,08/07/2026 12:44 PM,T1,delivery ,DP-0FD0A8,Mango Lassi; Paneer Wrap,16.50,$1.57,18.07,N
+CHK-104863,08/07/2026 12:45 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Samosa (2); Mango Lassi,35.00,3.33,38.33,N
+CHK-104865,08/07/2026 12:45 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-104868,08/07/2026 12:49 PM,T1,Takeout,,Mango Lassi; Dal Makhani,15.00,1.43,16.43,N
+CHK-104870,2026-08-07 12:53:44,T2,delivery ,DP-1149DB,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,$26.28,N
+CHK-104871,2026-08-07 12:53:50,T2,DELIVERY,,Mango Lassi,5.00,0.47,5.47,N
+CHK-104872,2026-08-07 12:56:02,T2,DELIVERY,,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-104874,08/07/2026 12:58 PM,T1,delivery ,DP-662A6F,Mango Lassi; Samosa (2); Samosa (2),17.00,1.61,18.61,N
+CHK-104875,08/07/2026 01:03 PM,T1,Takeout,,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104878,2026-08-07 13:04:39,T2,Delivery,DP-AC6C50,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-104880,08/07/2026 01:09 PM,T1,DELIVERY,,Dal Makhani,10.00,0.95,10.95,Y
+CHK-104882,08/07/2026 01:10 PM,T1,DELIVERY,DP-D23446,Garlic Naan,3.50,0.33,3.83,N
+CHK-104883,08/07/2026 01:11 PM,T1,delivery ,DP-F62F25,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-104885,08/07/2026 01:13 PM,T1,delivery ,DP-76E7C6,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-104887,08/07/2026 01:27 PM,T1,Delivery,DP-FA8C05,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-104889,08/07/2026 01:31 PM,T1,Delivery,DP-A89864,Dal Makhani; Chicken Tikka Bowl; Dal Makhani; Dal Makhani; Samosa (2),49.50,4.70,54.20,N
+CHK-104892,08/07/2026 01:42 PM,T1,delivery ,DP-EEA2A6,Garlic Naan; Paneer Wrap,15.00,1.43,16.43,N
+CHK-104895,08/07/2026 01:46 PM,T1,Takeout,,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-104898,08/07/2026 01:51 PM,T1,DELIVERY,DP-C9A014,Samosa (2),$6.00,0.57,6.57,N
+CHK-104900,2026-08-07 14:12:43,T2,Takeout,,Chicken Tikka Bowl; Samosa (2); Samosa (2),25.50,2.42,27.92,N
+CHK-104901,08/07/2026 02:23 PM,T1,Dine In,,Butter Chicken Plate; Garlic Naan; Butter Chicken Plate,35.50,3.37,38.87,N
+CHK-104902,2026-08-07 14:39:42,T2,delivery ,DP-E92535,Mango Lassi,$5.00,0.47,5.47,N
+CHK-104905,08/07/2026 02:58 PM,T1,delivery ,DP-34DF2C,Paneer Wrap; Chana Masala Bowl; Paneer Wrap; Dal Makhani; Garlic Naan,48.50,4.61,53.11,N
+CHK-104906,08/07/2026 03:27 PM,T1,Takeout,,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-104908,08/07/2026 03:29 PM,T1,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-104910,08/07/2026 03:30 PM,T1,delivery ,DP-C7AFEE,Butter Chicken Plate; Dal Makhani; Mango Lassi,31.00,2.94,33.94,N
+CHK-104911,08/07/2026 03:54 PM,T1,Delivery,,Garlic Naan; Dal Makhani; Butter Chicken Plate,29.50,2.80,32.30,N
+CHK-104914,08/07/2026 03:57 PM,T1,DELIVERY,,Dal Makhani; Butter Chicken Plate; Paneer Wrap; Mango Lassi,42.50,4.04,46.54,N
+CHK-104917,08/07/2026 04:13 PM,T1,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl; Butter Chicken Plate; Garlic Naan,45.00,4.28,49.28,N
+CHK-104920,08/07/2026 04:36 PM,T1,DELIVERY,DP-02ECAC,Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl; Dal Makhani,40.50,3.85,44.35,N
+CHK-104921,08/07/2026 05:00 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi; Butter Chicken Plate; Chicken Tikka Bowl; Paneer Wrap,58.00,5.51,63.51,N
+CHK-104923,08/07/2026 05:04 PM,T1,Dine In,,Dal Makhani; Chana Masala Bowl; Butter Chicken Plate,38.00,3.61,41.61,N
+CHK-104926,08/07/2026 05:05 PM,T1,Delivery,DP-03593C,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-104928,08/07/2026 05:11 PM,T1,delivery ,,Garlic Naan,3.50,0.33,3.83,N
+CHK-104929,2026-08-07 17:14:34,T2,DELIVERY,DP-551D3A,Paneer Wrap; Paneer Wrap,23.00,$2.19,25.19,N
+CHK-104930,08/07/2026 05:18 PM,T1,Dine In,,Dal Makhani; Chana Masala Bowl; Dal Makhani,32.00,3.04,35.04,N
+CHK-104933,08/07/2026 05:23 PM,T1,Dine In,,Paneer Wrap; Garlic Naan; Butter Chicken Plate,31.00,2.94,$33.94,N
+CHK-104934,08/07/2026 05:24 PM,T1,delivery ,DP-8B126D,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-104937,2026-08-07 17:26:22,T2,Dine In,,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-104940,08/07/2026 05:41 PM,T1,Dine In,,Chana Masala Bowl,12.00,1.14,$13.14,N
+CHK-104941,08/07/2026 06:05 PM,T1,Delivery,DP F2A0EC,Paneer Wrap; Chicken Tikka Bowl,25.00,2.38,27.38,N
+CHK-104943,08/07/2026 06:10 PM,T1,delivery ,DP-17EA48,Chicken Tikka Bowl; Garlic Naan,17.00,1.61,18.61,N
+CHK-104946,08/07/2026 06:10 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl,$17.00,1.61,18.61,N
+CHK-104948,08/07/2026 06:16 PM,T1,DELIVERY,,Butter Chicken Plate; Paneer Wrap; Chicken Tikka Bowl; Chana Masala Bowl,53.00,5.04,58.04,N
+CHK-104951,2026-08-07 18:17:40,T2,Takeout,,Chicken Tikka Bowl; Chicken Tikka Bowl,27.00,2.56,29.56,Y
+CHK-104954,08/07/2026 06:24 PM,T1,DELIVERY,DP-5799E6,Mango Lassi; Butter Chicken Plate,$21.00,2.00,23.00,N
+CHK-104955,2026-08-07 18:29:01,T2,delivery ,DP-9458CE,Dal Makhani; Garlic Naan,13.50,1.28,14.78,N
+CHK-104957,2026-08-07 18:30:09,T2,Takeout,,Samosa (2); Chicken Tikka Bowl; Garlic Naan,23.00,2.19,25.19,N
+CHK-104960,2026-08-07 18:35:59,T2,Delivery,,Chicken Tikka Bowl; Chana Masala Bowl; Dal Makhani,35.50,3.37,38.87,N
+CHK-104961,08/07/2026 06:37 PM,T1,DELIVERY,,Chicken Tikka Bowl; Butter Chicken Plate,29.50,2.80,$32.30,N
+CHK-104962,08/07/2026 06:38 PM,T1,Dine In,,Mango Lassi; Paneer Wrap,16.50,1.57,18.07,N
+CHK-104965,08/07/2026 06:40 PM,T1,delivery ,,Garlic Naan; Dal Makhani; Garlic Naan,17.00,1.61,18.61,N
+CHK-104966,2026-08-07 18:40:59,T2,Dine In,,Dal Makhani,10.00,0.95,$10.95,N
+CHK-104967,2026-08-07 18:41:41,T2,Delivery,DP-032DD9,Chana Masala Bowl; Chana Masala Bowl; Samosa (2),30.00,2.85,32.85,N
+CHK-104968,08/07/2026 06:43 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-104971,08/07/2026 06:54 PM,T1,DELIVERY,DP-01360C,Dal Makhani; Mango Lassi; Mango Lassi,20.00,1.90,$21.90,N
+CHK-104973,08/07/2026 06:57 PM,T1,delivery ,dp-a30ec4,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-104975,08/07/2026 07:06 PM,T1,Dine In,,Chana Masala Bowl; Chicken Tikka Bowl; Garlic Naan; Mango Lassi,34.00,3.23,37.23,N
+CHK-104977,08/07/2026 07:06 PM,T1,DELIVERY,,Garlic Naan; Butter Chicken Plate; Samosa (2),25.50,2.42,27.92,N
+CHK-104980,08/07/2026 07:07 PM,T1,delivery ,dp-14f29e,Mango Lassi,$5.00,0.47,5.47,N
+CHK-104981,08/07/2026 07:09 PM,T1,Delivery,DP-878F34,Mango Lassi; Butter Chicken Plate; Samosa (2); Paneer Wrap; Butter Chicken Plate,54.50,5.18,59.68,N
+CHK-104983,08/07/2026 07:19 PM,T1,Dine In,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-104984,08/07/2026 07:20 PM,T1,delivery ,,Chicken Tikka Bowl; Dal Makhani; Chicken Tikka Bowl,37.00,3.52,$40.52,N
+CHK-104986,08/07/2026 07:20 PM,T1,delivery ,DP-A497FE,Dal Makhani,10.00,0.95,10.95,N
+CHK-104989,08/07/2026 07:23 PM,T1,delivery ,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-104990,08/07/2026 07:26 PM,T1,delivery ,DP-DFBCC2,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-104992,08/07/2026 07:26 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Paneer Wrap,29.50,2.80,32.30,N
+CHK-104995,2026-08-07 19:27:04,T2,DELIVERY,DP-F94666,Chicken Tikka Bowl; Samosa (2); Butter Chicken Plate,35.50,$3.37,38.87,N
+CHK-104997,08/07/2026 07:27 PM,T1,Dine In,,Butter Chicken Plate,16.00,1.52,$17.52,N
+CHK-104998,08/07/2026 07:31 PM,T1,delivery ,dp-d4c713,Mango Lassi; Dal Makhani,15.00,1.43,16.43,N
+CHK-105001,08/07/2026 07:32 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105002,2026-08-07 19:33:47,T2,Delivery,DP-323F70,Mango Lassi; Dal Makhani; Butter Chicken Plate,31.00,2.94,33.94,N
+CHK-105004,08/07/2026 07:34 PM,T1,Delivery,DP-0CF236,Butter Chicken Plate; Chana Masala Bowl; Chana Masala Bowl; Chicken Tikka Bowl; Mango Lassi,$58.50,5.56,64.06,N
+CHK-105007,2026-08-07 19:34:46,T2,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105008,08/07/2026 07:35 PM,T1,Dine In,,Mango Lassi; Mango Lassi; Samosa (2); Garlic Naan,$19.50,1.85,21.35,N
+CHK-105009,08/07/2026 07:41 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105010,08/07/2026 07:41 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-105011,08/07/2026 07:43 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl,$28.00,$2.66,30.66,N
+CHK-105012,08/07/2026 07:43 PM,T1,delivery ,DP-716496,Paneer Wrap; Samosa (2); Dal Makhani; Chana Masala Bowl; Garlic Naan,43.00,4.08,47.08,N
+CHK-105015,2026-08-07 19:48:30,T2,delivery ,dp-86b5d4,Garlic Naan; Garlic Naan,$7.00,0.67,7.67,N
+CHK-105016,08/07/2026 07:55 PM,T1,delivery ,7803C7,Butter Chicken Plate; Butter Chicken Plate,$32.00,$3.04,35.04,N
+CHK-105018,08/07/2026 08:00 PM,T1,Takeout,,Garlic Naan; Paneer Wrap; Samosa (2),21.00,2.00,$23.00,N
+CHK-105020,08/07/2026 08:03 PM,T1,Takeout,,Paneer Wrap; Garlic Naan; Mango Lassi; Butter Chicken Plate; Chana Masala Bowl,48.00,4.56,52.56,N
+CHK-105023,2026-08-07 20:06:34,T2,Takeout,,Samosa (2); Butter Chicken Plate; Paneer Wrap,33.50,3.18,36.68,N
+CHK-105024,08/07/2026 08:12 PM,T1,Delivery,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105026,2026-08-07 20:43:02,T2,Dine In,,Chicken Tikka Bowl; Paneer Wrap; Chicken Tikka Bowl,38.50,3.66,42.16,N
+CHK-105028,08/07/2026 08:44 PM,T1,delivery ,DP-0DB71E,Paneer Wrap; Chana Masala Bowl; Butter Chicken Plate; Samosa (2); Chana Masala Bowl,57.50,5.46,62.96,N
+CHK-105031,2026-08-07 20:51:50,T2,Takeout,,Mango Lassi; Butter Chicken Plate; Mango Lassi; Samosa (2),32.00,3.04,35.04,N
+CHK-105033,08/07/2026 08:51 PM,T1,Dine In,,Butter Chicken Plate; Chicken Tikka Bowl; Chana Masala Bowl,41.50,3.94,45.44,N
+CHK-105034,08/07/2026 08:52 PM,T1,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105035,08/07/2026 09:01 PM,T1,delivery ,,Garlic Naan; Paneer Wrap; Dal Makhani,25.00,2.38,27.38,N
+CHK-105037,08/07/2026 09:14 PM,T1,Dine In,,Dal Makhani; Samosa (2); Butter Chicken Plate; Samosa (2); Butter Chicken Plate,54.00,5.13,59.13,N
+CHK-105038,2026-08-07 21:31:29,T2,Delivery,DP-EE54BD,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105041,08/07/2026 09:31 PM,T1,DELIVERY,DP-5CB03D,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-105042,08/07/2026 09:40 PM,T1,delivery ,,Butter Chicken Plate,$16.00,1.52,17.52,N
+CHK-105045,08/07/2026 09:45 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan,17.00,$1.61,18.61,N
+CHK-105048,08/07/2026 09:46 PM,T1,Takeout,,Samosa (2); Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi,36.50,3.47,39.97,N
+CHK-105049,2026-08-07 21:55:44,T2,delivery ,DP-D74578,Dal Makhani; Paneer Wrap; Garlic Naan,25.00,2.38,27.38,N
+CHK-105052,08/07/2026 09:57 PM,T1,DELIVERY,DP-864D06,Chicken Tikka Bowl,13.50,1.28,14.78,N
+CHK-105053,08/08/2026 11:06 AM,T1,delivery ,DP-68568C,Dal Makhani,10.00,0.95,10.95,N
+CHK-105056,08/08/2026 11:18 AM,T1,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105057,2026-08-08 11:20:24,T2,DELIVERY,dp-2e518d,Samosa (2); Garlic Naan,9.50,0.90,$10.40,N
+CHK-105060,2026-08-08 11:21:17,T2,Dine In,,Mango Lassi; Dal Makhani,15.00,$1.43,16.43,N
+CHK-105063,08/08/2026 11:24 AM,T1,DELIVERY,DP-EA72C9,Paneer Wrap; Butter Chicken Plate; Dal Makhani,37.50,3.56,41.06,N
+CHK-105066,08/08/2026 11:32 AM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105067,08/08/2026 11:37 AM,T1,Delivery,DP-0E94C1,Chicken Tikka Bowl; Samosa (2); Chicken Tikka Bowl; Butter Chicken Plate,51.00,4.84,55.84,N
+CHK-105070,08/08/2026 11:45 AM,T1,delivery ,,Chana Masala Bowl; Butter Chicken Plate; Samosa (2); Garlic Naan,37.50,3.56,41.06,N
+CHK-105073,08/08/2026 12:02 PM,T1,Delivery,DP-928AC8,Chana Masala Bowl; Mango Lassi; Butter Chicken Plate,33.00,3.14,36.14,N
+CHK-105074,08/08/2026 12:04 PM,T1,Takeout,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-105077,08/08/2026 12:07 PM,T1,Takeout,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-105079,08/08/2026 12:07 PM,T1,Delivery,dp-f72892,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-105082,08/08/2026 12:09 PM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-105085,08/08/2026 12:09 PM,T1,delivery ,DP-A9E434,Samosa (2); Garlic Naan,9.50,0.90,10.40,N
+CHK-105086,08/08/2026 12:10 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Chana Masala Bowl,36.00,3.42,39.42,N
+CHK-105087,08/08/2026 12:10 PM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl; Garlic Naan,23.00,2.19,25.19,N
+CHK-105088,08/08/2026 12:12 PM,T1,DELIVERY,DP-70E580,Mango Lassi; Samosa (2),$11.00,1.04,$12.04,N
+CHK-105090,08/08/2026 12:13 PM,T1,DELIVERY,DP-D696C5,Mango Lassi; Garlic Naan; Butter Chicken Plate,24.50,2.33,26.83,N
+CHK-105091,08/08/2026 12:14 PM,T1,Takeout,,Dal Makhani; Samosa (2),16.00,1.52,17.52,N
+CHK-105092,08/08/2026 12:17 PM,T1,Takeout,,Samosa (2); Butter Chicken Plate; Paneer Wrap,33.50,3.18,36.68,N
+CHK-105094,08/08/2026 12:19 PM,T1,delivery ,DP-378F65,Samosa (2); Dal Makhani; Dal Makhani,26.00,2.47,$28.47,N
+CHK-105095,08/08/2026 12:21 PM,T1,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-105096,2026-08-08 12:22:01,T2,Takeout,,Mango Lassi,$5.00,0.47,5.47,N
+CHK-105097,08/08/2026 12:22 PM,T1,Dine In,,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-105099,08/08/2026 12:24 PM,T1,Delivery,DP-E40FDA,Dal Makhani,10.00,0.95,10.95,N
+CHK-105100,08/08/2026 12:27 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl; Chicken Tikka Bowl,42.50,4.04,46.54,N
+CHK-105101,08/08/2026 12:32 PM,T1,Takeout,,Garlic Naan,3.50,0.33,$3.83,N
+CHK-105104,08/08/2026 12:32 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105105,08/08/2026 12:33 PM,T1,delivery ,DP-54339A,Samosa (2); Dal Makhani,16.00,1.52,17.52,N
+CHK-105106,08/08/2026 12:38 PM,T1,Dine In,,Chana Masala Bowl; Paneer Wrap,$23.50,$2.23,25.73,N
+CHK-105109,08/08/2026 12:39 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl; Samosa (2); Paneer Wrap; Chana Masala Bowl,47.50,4.51,$52.01,N
+CHK-105110,08/08/2026 12:44 PM,T1,Dine In,,Dal Makhani; Garlic Naan; Chicken Tikka Bowl,28.00,2.66,30.66,N
+CHK-105113,08/08/2026 12:56 PM,T1,Dine In,,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-105115,08/08/2026 12:57 PM,T1,DELIVERY,,Paneer Wrap; Garlic Naan,15.00,1.43,16.43,N
+CHK-105117,08/08/2026 12:58 PM,T1,Takeout,,Paneer Wrap; Dal Makhani; Dal Makhani; Paneer Wrap; Chicken Tikka Bowl,57.50,5.46,62.96,N
+CHK-105120,08/08/2026 12:59 PM,T1,Delivery,,Samosa (2),6.00,0.57,6.57,N
+CHK-105122,08/08/2026 01:02 PM,T1,DELIVERY,,Chicken Tikka Bowl; Mango Lassi; Chicken Tikka Bowl,34.00,3.23,37.23,N
+CHK-105123,08/08/2026 01:12 PM,T1,Takeout,,Garlic Naan; Butter Chicken Plate; Samosa (2),25.50,2.42,27.92,N
+CHK-105125,08/08/2026 01:14 PM,T1,Delivery,DP-42846D,Butter Chicken Plate; Dal Makhani; Paneer Wrap,37.50,3.56,41.06,N
+CHK-105126,08/08/2026 01:17 PM,T1,Dine In,,Dal Makhani; Mango Lassi; Butter Chicken Plate,31.00,2.94,33.94,N
+CHK-105128,08/08/2026 01:28 PM,T1,Dine In,,Dal Makhani; Chicken Tikka Bowl,24.50,$2.33,26.83,N
+CHK-105130,08/08/2026 01:30 PM,T1,Takeout,,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-105133,2026-08-08 13:30:40,T2,DELIVERY,,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-105136,08/08/2026 01:33 PM,T1,DELIVERY,DP-BDEDDE,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105138,08/08/2026 01:35 PM,T1,Delivery,DP C4C0EE,Butter Chicken Plate; Chicken Tikka Bowl; Dal Makhani; Butter Chicken Plate,56.50,5.37,61.87,N
+CHK-105140,08/08/2026 01:48 PM,T1,Dine In,,Butter Chicken Plate; Chicken Tikka Bowl,30.50,2.90,$33.40,N
+CHK-105143,08/08/2026 01:52 PM,T1,Dine In,,Chana Masala Bowl; Dal Makhani,22.00,2.09,$24.09,N
+CHK-105146,08/08/2026 01:57 PM,T1,Takeout,,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-105149,08/08/2026 01:57 PM,T1,DELIVERY,DP-474990,Paneer Wrap; Butter Chicken Plate; Butter Chicken Plate; Chicken Tikka Bowl,58.00,5.51,63.51,N
+CHK-105151,08/08/2026 02:04 PM,T1,Delivery,DP-578E3D,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105152,08/08/2026 02:06 PM,T1,Takeout,,Samosa (2); Garlic Naan; Paneer Wrap; Garlic Naan,24.50,2.33,26.83,N
+CHK-105155,2026-08-08 14:52:00,T2,Dine In,,Garlic Naan; Butter Chicken Plate; Paneer Wrap,$31.00,2.94,$33.94,N
+CHK-105156,08/08/2026 03:00 PM,T1,Takeout,,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-105157,08/08/2026 03:00 PM,T1,Takeout,,Mango Lassi; Chana Masala Bowl; Butter Chicken Plate; Garlic Naan,36.50,3.47,39.97,N
+CHK-105159,08/08/2026 03:07 PM,T1,DELIVERY,DP-3EDD40,Butter Chicken Plate; Garlic Naan,19.50,1.85,21.35,N
+CHK-105160,08/08/2026 03:16 PM,T1,Delivery,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105161,08/08/2026 03:25 PM,T1,Delivery,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105162,08/08/2026 03:25 PM,T1,Delivery,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105165,08/08/2026 03:30 PM,T1,delivery ,DP-5CD218,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105168,08/08/2026 03:41 PM,T1,delivery ,DP-765D62,Butter Chicken Plate; Paneer Wrap; Chicken Tikka Bowl,42.00,3.99,45.99,N
+CHK-105171,08/08/2026 03:47 PM,T1,DELIVERY,DP-6FBB42,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-105174,08/08/2026 04:03 PM,T1,Takeout,,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-105177,08/08/2026 04:07 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105180,2026-08-08 16:35:30,T2,delivery ,,Butter Chicken Plate; Mango Lassi; Dal Makhani,31.00,2.94,33.94,N
+CHK-105181,08/08/2026 04:48 PM,T1,Dine In,,Dal Makhani; Mango Lassi; Paneer Wrap,26.50,2.52,29.02,N
+CHK-105182,08/08/2026 04:52 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105183,08/08/2026 04:59 PM,T1,Delivery,DP-F21B2D,Butter Chicken Plate; Mango Lassi; Chana Masala Bowl,$33.00,$3.14,36.14,N
+CHK-105185,08/08/2026 05:02 PM,T1,Dine In,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-105188,08/08/2026 05:11 PM,T1,Delivery,DP-C0F1CC,Garlic Naan; Garlic Naan; Chana Masala Bowl,19.00,$1.80,$20.80,N
+CHK-105191,08/08/2026 05:19 PM,T1,Delivery,DP-107121,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105192,08/08/2026 05:26 PM,T1,Takeout,,Garlic Naan; Mango Lassi; Chicken Tikka Bowl,23.00,2.19,25.19,N
+CHK-105194,08/08/2026 05:50 PM,T1,delivery ,DP-B7E9B9,Paneer Wrap; Dal Makhani; Samosa (2); Butter Chicken Plate,43.50,4.13,47.63,N
+CHK-105196,08/08/2026 05:56 PM,T1,DELIVERY,DP-417EE3,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105198,08/08/2026 06:08 PM,T1,DELIVERY,DP-D85CE7,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105201,08/08/2026 06:10 PM,T1,delivery ,,Dal Makhani; Paneer Wrap; Chicken Tikka Bowl; Samosa (2); Garlic Naan,45.50,4.32,49.82,N
+CHK-105203,08/08/2026 06:13 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,19.71,N
+CHK-105205,08/08/2026 06:20 PM,T1,delivery ,,Dal Makhani; Dal Makhani,$20.00,1.90,21.90,N
+CHK-105208,2026-08-08 18:27:12,T2,DELIVERY,DP-171880,Samosa (2); Chicken Tikka Bowl; Paneer Wrap,32.00,3.04,35.04,N
+CHK-105211,08/08/2026 06:38 PM,T1,delivery ,DP-AB6C14,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,N
+CHK-105213,08/08/2026 06:45 PM,T1,DELIVERY,,Samosa (2); Paneer Wrap,17.50,$1.66,19.16,N
+CHK-105214,2026-08-08 18:45:16,T2,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl,26.50,2.52,29.02,N
+CHK-105217,2026-08-08 18:46:37,T2,delivery ,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105219,08/08/2026 06:47 PM,T1,DELIVERY,DP-A312BE,Mango Lassi; Garlic Naan; Dal Makhani; Mango Lassi,23.50,2.23,25.73,N
+CHK-105221,08/08/2026 06:47 PM,T1,Delivery,,Garlic Naan; Chana Masala Bowl; Dal Makhani,25.50,2.42,$27.92,N
+CHK-105223,08/08/2026 06:48 PM,T1,Takeout,,Dal Makhani; Garlic Naan; Dal Makhani; Mango Lassi; Chana Masala Bowl,40.50,3.85,44.35,N
+CHK-105224,08/08/2026 06:48 PM,T1,DELIVERY,DP-8379FA,Garlic Naan,3.50,0.33,$3.83,N
+CHK-105227,08/08/2026 06:54 PM,T1,Takeout,,Paneer Wrap; Chicken Tikka Bowl,26.00,$2.47,28.47,N
+CHK-105229,08/08/2026 06:54 PM,T1,delivery ,DP-398FE7,Dal Makhani; Dal Makhani; Butter Chicken Plate; Paneer Wrap,47.50,4.51,52.01,N
+CHK-105232,08/08/2026 07:00 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105233,08/08/2026 07:00 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Samosa (2); Chana Masala Bowl; Mango Lassi,41.00,3.90,44.90,N
+CHK-105236,08/08/2026 07:01 PM,T1,Dine In,,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-105238,08/08/2026 07:06 PM,T1,Delivery,DP B69DE4,Dal Makhani; Butter Chicken Plate; Butter Chicken Plate; Mango Lassi,47.00,4.46,$51.46,N
+CHK-105240,2026-08-08 19:08:58,T2,Delivery,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-105242,08/08/2026 07:11 PM,T1,DELIVERY,DP-9DEA7D,Mango Lassi,5.00,0.47,$5.47,N
+CHK-105243,08/08/2026 07:13 PM,T1,Delivery,DP-6D1A8A,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105246,08/08/2026 07:15 PM,T1,delivery ,DP-D0043C,Dal Makhani,10.00,0.95,10.95,N
+CHK-105249,08/08/2026 07:15 PM,T1,Delivery,DP-A400C2,Samosa (2); Samosa (2); Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-105251,2026-08-08 19:18:30,T2,delivery ,,Chicken Tikka Bowl; Chana Masala Bowl; Dal Makhani,36.50,3.47,$39.97,N
+CHK-105253,08/08/2026 07:19 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105254,08/08/2026 07:22 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl,30.00,$2.85,32.85,N
+CHK-105256,08/08/2026 07:24 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-105258,08/08/2026 07:25 PM,T1,DELIVERY,DP-D8F97C,Mango Lassi,5.00,0.47,5.47,N
+CHK-105259,08/08/2026 07:27 PM,T1,Delivery,DP-D086FF,Paneer Wrap; Samosa (2),17.50,1.66,19.16,N
+CHK-105261,08/08/2026 07:27 PM,T1,DELIVERY,DP-2356F7,Garlic Naan,3.50,0.33,$3.83,N
+CHK-105264,08/08/2026 07:34 PM,T1,Dine In,,Chana Masala Bowl; Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-105266,08/08/2026 07:36 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl; Butter Chicken Plate; Mango Lassi; Paneer Wrap,60.50,5.75,66.25,N
+CHK-105269,08/08/2026 07:44 PM,T1,delivery ,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105271,08/08/2026 07:48 PM,T1,DELIVERY,DP-6B8FE6,Chana Masala Bowl; Chana Masala Bowl; Mango Lassi; Chicken Tikka Bowl; Samosa (2),$49.50,4.70,54.20,N
+CHK-105273,08/08/2026 07:48 PM,T1,Dine In,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105275,08/08/2026 07:50 PM,T1,Dine In,,Samosa (2); Mango Lassi; Mango Lassi,16.00,1.52,17.52,N
+CHK-105278,08/08/2026 07:55 PM,T1,Takeout,,Paneer Wrap; Butter Chicken Plate; Mango Lassi,32.50,3.09,35.59,N
+CHK-105281,08/08/2026 07:55 PM,T1,Dine In,,Samosa (2); Samosa (2); Mango Lassi,17.00,1.61,18.61,N
+CHK-105283,08/08/2026 08:03 PM,T1,DELIVERY,DP-445F0A,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105284,08/08/2026 08:13 PM,T1,Delivery,,Chicken Tikka Bowl; Paneer Wrap,26.00,$2.47,28.47,N
+CHK-105286,2026-08-08 20:17:35,T2,Delivery,DP 18810F,Mango Lassi; Mango Lassi; Chana Masala Bowl; Mango Lassi; Butter Chicken Plate,$43.00,4.08,$47.08,N
+CHK-105287,2026-08-08 20:24:39,T2,Delivery,860AA5,Samosa (2); Chicken Tikka Bowl; Garlic Naan; Garlic Naan,27.50,2.61,30.11,N
+CHK-105290,08/08/2026 08:30 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl,18.00,1.71,19.71,N
+CHK-105293,08/08/2026 08:30 PM,T1,Takeout,,Dal Makhani; Samosa (2); Chana Masala Bowl; Dal Makhani,38.00,3.61,41.61,N
+CHK-105296,08/08/2026 08:33 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-105298,08/08/2026 08:35 PM,T1,Delivery,DP-098B3A,Butter Chicken Plate; Mango Lassi,21.00,2.00,$23.00,N
+CHK-105300,08/08/2026 08:38 PM,T1,Dine In,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-105302,08/08/2026 08:40 PM,T1,DELIVERY,DP-E51C46,Garlic Naan; Samosa (2); Dal Makhani; Paneer Wrap; Samosa (2),37.00,3.52,40.52,N
+CHK-105304,08/08/2026 08:41 PM,T1,DELIVERY,,Dal Makhani; Chana Masala Bowl,$22.00,2.09,24.09,N
+CHK-105306,2026-08-08 20:47:29,T2,DELIVERY,DP-F4EABC,Chicken Tikka Bowl; Samosa (2); Butter Chicken Plate,36.50,3.47,39.97,N
+CHK-105308,08/08/2026 08:54 PM,T1,DELIVERY,DP-EDCF78,Samosa (2); Mango Lassi; Garlic Naan,14.50,1.38,15.88,N
+CHK-105309,08/08/2026 08:57 PM,T1,Dine In,,Chana Masala Bowl; Paneer Wrap; Chana Masala Bowl,35.50,3.37,38.87,N
+CHK-105311,08/08/2026 09:03 PM,T1,Dine In,,Paneer Wrap; Paneer Wrap; Dal Makhani,33.00,3.14,36.14,N
+CHK-105312,08/08/2026 09:23 PM,T1,Dine In,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-105313,08/08/2026 09:33 PM,T1,Dine In,,Chana Masala Bowl; Chana Masala Bowl; Samosa (2); Chicken Tikka Bowl; Butter Chicken Plate,60.50,5.75,66.25,Y
+CHK-105316,2026-08-08 21:44:39,T2,Takeout,,Mango Lassi; Chicken Tikka Bowl,$19.50,1.85,21.35,N
+CHK-105319,08/08/2026 09:55 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105322,08/09/2026 11:04 AM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl; Dal Makhani; Chicken Tikka Bowl,42.50,4.04,46.54,N
+CHK-105325,08/09/2026 11:05 AM,T1,Dine In,,Mango Lassi; Chana Masala Bowl; Dal Makhani; Chana Masala Bowl; Garlic Naan,42.50,4.04,46.54,N
+CHK-105327,08/09/2026 11:06 AM,T1,Dine In,,Chana Masala Bowl; Butter Chicken Plate; Mango Lassi; Samosa (2),39.00,3.71,42.71,N
+CHK-105328,08/09/2026 11:18 AM,T1,DELIVERY,E3A82B,Chicken Tikka Bowl; Chana Masala Bowl,26.50,2.52,29.02,N
+CHK-105331,08/09/2026 11:20 AM,T1,Dine In,,Garlic Naan; Garlic Naan; Garlic Naan; Chana Masala Bowl,22.50,2.14,24.64,N
+CHK-105333,08/09/2026 11:21 AM,T1,Delivery,DP-5C6470,Samosa (2),6.00,0.57,6.57,N
+CHK-105334,08/09/2026 11:23 AM,T1,DELIVERY,DP-9621D4,Chana Masala Bowl,$12.00,1.14,13.14,N
+CHK-105336,08/09/2026 11:29 AM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,19.50,1.85,$21.35,N
+CHK-105339,08/09/2026 11:42 AM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105340,08/09/2026 11:46 AM,T1,Takeout,,Paneer Wrap; Mango Lassi; Chana Masala Bowl,28.50,2.71,31.21,N
+CHK-105343,08/09/2026 12:01 PM,T1,delivery ,DP-346E48,Chicken Tikka Bowl; Butter Chicken Plate; Dal Makhani,40.50,$3.85,44.35,N
+CHK-105344,08/09/2026 12:03 PM,T1,Dine In,,Chana Masala Bowl; Dal Makhani; Mango Lassi,27.00,2.56,29.56,N
+CHK-105347,08/09/2026 12:05 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Mango Lassi,20.50,$1.95,22.45,N
+CHK-105348,08/09/2026 12:07 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl; Butter Chicken Plate; Paneer Wrap,45.50,4.32,49.82,N
+CHK-105350,08/09/2026 12:07 PM,T1,DELIVERY,DP-A81C83,Garlic Naan; Chana Masala Bowl; Mango Lassi,20.50,1.95,22.45,N
+CHK-105353,08/09/2026 12:11 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-105356,2026-08-09 12:17:32,T2,Dine In,,Chicken Tikka Bowl; Garlic Naan; Chana Masala Bowl; Chana Masala Bowl,42.00,3.99,45.99,N
+CHK-105357,2026-08-09 12:20:49,T2,delivery ,DP-88AD8B,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105360,2026-08-09 12:23:48,T2,Takeout,,Chicken Tikka Bowl; Chicken Tikka Bowl; Butter Chicken Plate; Dal Makhani,55.00,$5.22,60.22,N
+CHK-105363,08/09/2026 12:24 PM,T1,Delivery,,Paneer Wrap; Samosa (2); Garlic Naan; Garlic Naan; Chicken Tikka Bowl,39.00,3.71,42.71,N
+CHK-105365,08/09/2026 12:26 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105367,08/09/2026 12:29 PM,T1,delivery ,DP-9D0E8B,Samosa (2); Samosa (2); Paneer Wrap; Dal Makhani,33.50,3.18,36.68,N
+CHK-105368,2026-08-09 12:31:29,T2,Takeout,,Garlic Naan; Samosa (2); Mango Lassi,14.50,1.38,15.88,N
+CHK-105370,08/09/2026 12:32 PM,T1,Takeout,,Dal Makhani; Paneer Wrap,$21.50,$2.04,23.54,N
+CHK-105371,08/09/2026 12:33 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105372,08/09/2026 12:35 PM,T1,DELIVERY,DP-5F2AB7,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-105374,08/09/2026 12:38 PM,T1,DELIVERY,DP-36995C,Butter Chicken Plate; Paneer Wrap; Butter Chicken Plate,43.50,4.13,47.63,N
+CHK-105375,2026-08-09 12:39:10,T2,Delivery,,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-105377,08/09/2026 12:40 PM,T1,delivery ,DP-6D5CC8,Samosa (2); Dal Makhani; Garlic Naan,19.50,1.85,21.35,N
+CHK-105378,08/09/2026 12:41 PM,T1,Takeout,,Paneer Wrap; Garlic Naan,15.00,1.43,16.43,N
+CHK-105381,08/09/2026 12:42 PM,T1,DELIVERY,DP-FA37B7,Chicken Tikka Bowl; Mango Lassi,19.50,1.85,21.35,N
+CHK-105384,2026-08-09 12:43:31,T2,Takeout,,Samosa (2); Samosa (2),12.00,1.14,13.14,N
+CHK-105386,2026-08-09 12:53:45,T2,DELIVERY,DP-22D567,Chana Masala Bowl; Chana Masala Bowl; Chicken Tikka Bowl; Mango Lassi; Butter Chicken Plate,59.50,5.65,65.15,N
+CHK-105387,08/09/2026 12:56 PM,T1,Delivery,,Paneer Wrap; Mango Lassi; Dal Makhani; Dal Makhani; Samosa (2),42.50,$4.04,46.54,N
+CHK-105389,08/09/2026 12:58 PM,T1,Delivery,DP-8F258C,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-105391,08/09/2026 01:11 PM,T1,Delivery,DP-C90B25,Mango Lassi,5.00,0.47,5.47,N
+CHK-105394,08/09/2026 01:15 PM,T1,Delivery,DP-3993B5,Chana Masala Bowl; Butter Chicken Plate; Mango Lassi,33.00,$3.14,36.14,N
+CHK-105397,08/09/2026 01:16 PM,T1,Delivery,DP-F6C1B1,Mango Lassi; Butter Chicken Plate; Butter Chicken Plate; Samosa (2),43.00,4.08,47.08,N
+CHK-105399,08/09/2026 01:25 PM,T1,delivery ,,Dal Makhani; Mango Lassi; Dal Makhani,25.00,2.38,27.38,N
+CHK-105402,08/09/2026 01:26 PM,T1,delivery ,DP-019C6B,Chicken Tikka Bowl; Garlic Naan; Chana Masala Bowl; Samosa (2); Chicken Tikka Bowl,$50.50,4.80,55.30,N
+CHK-105405,08/09/2026 01:32 PM,T1,delivery ,DP-907A5C,Samosa (2); Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl,36.00,3.42,39.42,N
+CHK-105406,2026-08-09 13:36:11,T2,delivery ,DP-DC86F8,Garlic Naan; Chicken Tikka Bowl; Mango Lassi,23.00,2.19,25.19,N
+CHK-105407,08/09/2026 01:36 PM,T1,Takeout,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105408,2026-08-09 13:47:28,T2,delivery ,DP-99833C,Paneer Wrap; Butter Chicken Plate; Mango Lassi; Paneer Wrap,44.00,4.18,48.18,N
+CHK-105411,08/09/2026 01:48 PM,T1,DELIVERY,DP-4E166A,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105414,2026-08-09 13:54:05,T2,Takeout,,Mango Lassi; Mango Lassi,10.00,0.95,$10.95,N
+CHK-105416,2026-08-09 13:54:19,T2,Dine In,,Paneer Wrap; Paneer Wrap; Mango Lassi,$28.00,$2.66,30.66,N
+CHK-105418,08/09/2026 01:59 PM,T1,Delivery,E0E279,Chana Masala Bowl; Samosa (2); Chicken Tikka Bowl,32.50,3.09,$35.59,N
+CHK-105420,2026-08-09 13:59:26,T2,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105422,08/09/2026 02:01 PM,T1,delivery ,dp-1c3712,Mango Lassi,5.00,0.47,5.47,N
+CHK-105425,08/09/2026 02:10 PM,T1,Takeout,,Mango Lassi; Samosa (2),11.00,1.04,12.04,N
+CHK-105427,2026-08-09 14:13:18,T2,delivery ,DP-B7495C,Chana Masala Bowl; Samosa (2); Chicken Tikka Bowl; Garlic Naan; Dal Makhani,46.00,4.37,50.37,N
+CHK-105430,08/09/2026 02:32 PM,T1,delivery ,dp-eeceba,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-105431,2026-08-09 14:56:15,T2,Delivery,DP-C4F3E9,Garlic Naan; Chicken Tikka Bowl; Paneer Wrap; Paneer Wrap,41.00,3.90,44.90,N
+CHK-105432,08/09/2026 03:33 PM,T1,Takeout,,Paneer Wrap; Garlic Naan; Chicken Tikka Bowl,29.50,2.80,$32.30,N
+CHK-105434,08/09/2026 03:37 PM,T1,Dine In,,Dal Makhani; Butter Chicken Plate; Chana Masala Bowl; Paneer Wrap,49.50,4.70,54.20,N
+CHK-105437,08/09/2026 03:40 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105440,2026-08-09 15:41:25,T2,Delivery,,Chana Masala Bowl; Mango Lassi,17.00,$1.61,18.61,N
+CHK-105441,2026-08-09 15:47:42,T2,Delivery,,Mango Lassi; Mango Lassi; Samosa (2),16.00,1.52,17.52,N
+CHK-105442,08/09/2026 04:16 PM,T1,Delivery,,Chicken Tikka Bowl,14.50,$1.38,15.88,N
+CHK-105443,08/09/2026 04:37 PM,T1,Dine In,,Chana Masala Bowl; Dal Makhani; Garlic Naan,25.50,2.42,27.92,N
+CHK-105445,08/09/2026 04:50 PM,T1,DELIVERY,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105446,08/09/2026 05:05 PM,T1,DELIVERY,DP-F0D5B8,Dal Makhani,10.00,0.95,$10.95,N
+CHK-105449,08/09/2026 05:18 PM,T1,DELIVERY,DP-E2A140,Chicken Tikka Bowl; Dal Makhani; Garlic Naan,28.00,2.66,30.66,N
+CHK-105452,08/09/2026 05:19 PM,T1,Delivery,DP-982E2A,Butter Chicken Plate; Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate,58.50,5.56,64.06,N
+CHK-105454,08/09/2026 05:26 PM,T1,Dine In,,Garlic Naan; Paneer Wrap,15.00,1.43,16.43,N
+CHK-105455,08/09/2026 05:56 PM,T1,delivery ,DP 7612CA,Paneer Wrap; Mango Lassi; Paneer Wrap,$28.00,2.66,30.66,N
+CHK-105457,08/09/2026 06:01 PM,T1,Dine In,,Dal Makhani,$10.00,0.95,10.95,N
+CHK-105460,08/09/2026 06:19 PM,T1,delivery ,,Paneer Wrap; Chana Masala Bowl; Garlic Naan,27.00,2.56,29.56,N
+CHK-105463,08/09/2026 06:21 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105465,08/09/2026 06:25 PM,T1,delivery ,,Mango Lassi,5.00,$0.47,5.47,N
+CHK-105466,08/09/2026 06:26 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl,20.50,1.95,22.45,N
+CHK-105468,08/09/2026 06:30 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate; Mango Lassi,32.50,3.09,35.59,N
+CHK-105469,08/09/2026 06:34 PM,T1,DELIVERY,,Samosa (2); Paneer Wrap; Paneer Wrap,29.00,2.75,31.75,N
+CHK-105470,08/09/2026 06:37 PM,T1,Takeout,,Paneer Wrap; Mango Lassi; Chicken Tikka Bowl; Samosa (2); Chana Masala Bowl,$49.00,$4.66,53.66,N
+CHK-105473,08/09/2026 06:42 PM,T1,Delivery,DP-04AC4C,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-105476,08/09/2026 06:43 PM,T1,DELIVERY,DP-876FFD,Chana Masala Bowl; Mango Lassi,17.00,1.61,$18.61,N
+CHK-105477,08/09/2026 06:44 PM,T1,Takeout,,Garlic Naan; Paneer Wrap,15.00,1.43,16.43,N
+CHK-105480,08/09/2026 06:48 PM,T1,Delivery,DP-AF8AA6,Samosa (2); Paneer Wrap; Paneer Wrap; Paneer Wrap,40.50,3.85,44.35,N
+CHK-105483,08/09/2026 06:49 PM,T1,Delivery,DP-5A9D34,Samosa (2); Samosa (2),12.00,1.14,13.14,N
+CHK-105486,08/09/2026 06:51 PM,T1,Takeout,,Paneer Wrap; Paneer Wrap; Chicken Tikka Bowl,37.50,3.56,41.06,N
+CHK-105488,08/09/2026 06:52 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105491,08/09/2026 06:56 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl; Butter Chicken Plate,34.00,3.23,37.23,N
+CHK-105492,2026-08-09 19:04:22,T2,Dine In,,Dal Makhani; Chana Masala Bowl,22.00,2.09,24.09,N
+CHK-105495,08/09/2026 07:04 PM,T1,DELIVERY,DP-82EC68,Samosa (2); Chicken Tikka Bowl; Mango Lassi,25.50,2.42,27.92,N
+CHK-105497,08/09/2026 07:11 PM,T1,Delivery,DP-391697,Garlic Naan; Chicken Tikka Bowl; Dal Makhani,28.00,2.66,30.66,N
+CHK-105498,2026-08-09 19:12:00,T2,delivery ,DP-A38E86,Mango Lassi; Dal Makhani; Chana Masala Bowl,27.00,$2.56,29.56,N
+CHK-105501,08/09/2026 07:15 PM,T1,DELIVERY,5A19A1,Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi; Butter Chicken Plate,47.50,4.51,52.01,N
+CHK-105502,2026-08-09 19:17:09,T2,Takeout,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-105504,2026-08-09 19:18:08,T2,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105505,08/09/2026 07:18 PM,T1,Delivery,DP-1DC426,Butter Chicken Plate; Dal Makhani,26.00,2.47,28.47,N
+CHK-105508,08/09/2026 07:23 PM,T1,Takeout,,Dal Makhani; Samosa (2),16.00,1.52,17.52,N
+CHK-105511,08/09/2026 07:23 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-105514,08/09/2026 07:24 PM,T1,Delivery,DP-CC09F0,Garlic Naan; Butter Chicken Plate; Chicken Tikka Bowl,34.00,3.23,$37.23,Y
+CHK-105517,08/09/2026 07:28 PM,T1,Delivery,DP-98BC56,Dal Makhani; Samosa (2); Paneer Wrap,$27.50,2.61,30.11,N
+CHK-105519,2026-08-09 19:29:15,T2,Dine In,,Butter Chicken Plate; Paneer Wrap,$27.50,2.61,$30.11,N
+CHK-105521,08/09/2026 07:32 PM,T1,Takeout,,Garlic Naan; Garlic Naan,$7.00,0.67,7.67,N
+CHK-105522,2026-08-09 19:35:20,T2,Takeout,,Mango Lassi; Chana Masala Bowl,17.00,1.61,18.61,N
+CHK-105524,08/09/2026 07:36 PM,T1,delivery ,DP-6969BE,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105525,2026-08-09 19:40:16,T2,DELIVERY,DP-5FF972,Chicken Tikka Bowl; Chicken Tikka Bowl; Chicken Tikka Bowl,43.50,4.13,47.63,N
+CHK-105526,08/09/2026 07:41 PM,T1,Dine In,,Paneer Wrap; Chicken Tikka Bowl; Garlic Naan,$29.50,2.80,$32.30,N
+CHK-105528,08/09/2026 07:43 PM,T1,Takeout,,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-105530,08/09/2026 07:45 PM,T1,DELIVERY,dp-28d091,Dal Makhani; Chana Masala Bowl; Dal Makhani; Mango Lassi,37.00,3.52,40.52,N
+CHK-105533,08/09/2026 07:55 PM,T1,Takeout,,Chana Masala Bowl,$12.00,1.14,13.14,N
+CHK-105534,08/09/2026 07:56 PM,T1,Delivery,,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-105537,08/09/2026 07:57 PM,T1,delivery ,,Garlic Naan; Garlic Naan,$7.00,0.67,7.67,N
+CHK-105538,08/09/2026 07:57 PM,T1,delivery ,DP-EE51A4,Chana Masala Bowl; Chana Masala Bowl; Paneer Wrap,35.50,3.37,38.87,N
+CHK-105540,08/09/2026 07:58 PM,T1,Takeout,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105542,08/09/2026 07:59 PM,T1,DELIVERY,dp-b4abd5,Samosa (2); Mango Lassi; Samosa (2),$17.00,1.61,18.61,N
+CHK-105543,2026-08-09 19:59:35,T2,Takeout,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-105545,2026-08-09 20:10:03,T2,delivery ,DP-AF3ABC,Garlic Naan; Paneer Wrap,15.00,1.43,$16.43,N
+CHK-105546,2026-08-09 20:10:15,T2,DELIVERY,DP-3F4297,Dal Makhani; Paneer Wrap; Butter Chicken Plate,37.50,3.56,41.06,N
+CHK-105547,08/09/2026 08:16 PM,T1,DELIVERY,,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-105549,08/09/2026 08:40 PM,T1,DELIVERY,DP-F0C1F2,Butter Chicken Plate; Butter Chicken Plate,$32.00,3.04,35.04,N
+CHK-105552,2026-08-09 20:50:18,T2,DELIVERY,dp-6d3040,Mango Lassi; Butter Chicken Plate; Chana Masala Bowl; Mango Lassi; Dal Makhani,48.00,4.56,52.56,N
+CHK-105555,08/09/2026 08:51 PM,T1,delivery ,DP-40EFBD,Samosa (2),6.00,0.57,6.57,N
+CHK-105557,08/09/2026 08:51 PM,T1,DELIVERY,dp-3426ff,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-105560,08/09/2026 08:53 PM,T1,Delivery,DP-430525,Mango Lassi; Samosa (2); Dal Makhani,21.00,2.00,23.00,N
+CHK-105562,08/09/2026 08:54 PM,T1,Dine In,,Dal Makhani; Garlic Naan; Dal Makhani; Chicken Tikka Bowl,38.00,3.61,41.61,Y
+CHK-105565,2026-08-09 20:59:59,T2,Delivery,DP-038094,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-105567,08/09/2026 09:08 PM,T1,Takeout,,Dal Makhani; Samosa (2); Samosa (2),22.00,2.09,24.09,N
+CHK-105569,08/09/2026 09:11 PM,T1,Delivery,DP-257DB7,Garlic Naan; Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl,36.00,3.42,39.42,N
+CHK-105572,08/09/2026 09:12 PM,T1,DELIVERY,DP-D579F2,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,19.71,N
+CHK-105573,2026-08-09 21:23:43,T2,Takeout,,Samosa (2); Butter Chicken Plate; Chicken Tikka Bowl,36.50,$3.47,39.97,N
+CHK-105576,08/09/2026 09:59 PM,T1,Dine In,,Garlic Naan; Garlic Naan; Paneer Wrap,18.50,1.76,20.26,N
+CHK-105578,08/09/2026 10:00 PM,T1,DELIVERY,,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-105580,08/10/2026 11:19 AM,T1,Dine In,,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-105581,08/10/2026 11:31 AM,T1,DELIVERY,DP-1A79D9,Butter Chicken Plate,16.00,1.52,$17.52,N
+CHK-105584,08/10/2026 11:36 AM,T1,Dine In,,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-105585,08/10/2026 11:39 AM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105587,08/10/2026 11:54 AM,T1,DELIVERY,DP-2F99D0,Dal Makhani,10.00,0.95,10.95,N
+CHK-105588,08/10/2026 11:55 AM,T1,Takeout,,Dal Makhani; Mango Lassi,15.00,1.43,$16.43,N
+CHK-105589,08/10/2026 12:01 PM,T1,Delivery,dp-271892,Dal Makhani; Dal Makhani; Butter Chicken Plate; Garlic Naan,$39.50,3.75,43.25,N
+CHK-105590,08/10/2026 12:01 PM,T1,Dine In,,Butter Chicken Plate; Chana Masala Bowl; Samosa (2),34.00,3.23,37.23,N
+CHK-105593,08/10/2026 12:04 PM,T1,Dine In,,Chana Masala Bowl; Paneer Wrap; Butter Chicken Plate; Chicken Tikka Bowl,54.00,5.13,59.13,N
+CHK-105594,2026-08-10 12:07:30,T2,delivery ,DP-F1FBC3,Paneer Wrap; Butter Chicken Plate,27.50,2.61,$30.11,N
+CHK-105595,08/10/2026 12:10 PM,T1,Takeout,,Chicken Tikka Bowl; Butter Chicken Plate,30.50,2.90,$33.40,N
+CHK-105598,08/10/2026 12:11 PM,T1,Delivery,DP-F03C68,Chana Masala Bowl; Butter Chicken Plate; Paneer Wrap,39.50,3.75,43.25,N
+CHK-105600,08/10/2026 12:11 PM,T1,delivery ,DP-86F71D,Garlic Naan; Paneer Wrap,15.00,1.43,16.43,N
+CHK-105601,08/10/2026 12:12 PM,T1,Dine In,,Samosa (2); Samosa (2); Garlic Naan; Dal Makhani; Chana Masala Bowl,37.50,$3.56,41.06,N
+CHK-105602,08/10/2026 12:13 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-105604,2026-08-10 12:22:28,T2,Dine In,,Mango Lassi; Chicken Tikka Bowl; Mango Lassi,24.50,2.33,26.83,N
+CHK-105607,08/10/2026 12:23 PM,T1,delivery ,dp-0d3a6e,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105610,2026-08-10 12:26:46,T2,DELIVERY,DP-7FF8D1,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-105612,08/10/2026 12:30 PM,T1,Dine In,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105613,08/10/2026 12:31 PM,T1,DELIVERY,DP-2EB97E,Dal Makhani; Mango Lassi,15.00,1.43,16.43,N
+CHK-105616,08/10/2026 12:34 PM,T1,Takeout,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-105617,08/10/2026 12:34 PM,T1,delivery ,dp-38b838,Dal Makhani; Garlic Naan; Chicken Tikka Bowl; Butter Chicken Plate,$44.00,4.18,48.18,N
+CHK-105618,08/10/2026 12:35 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-105620,08/10/2026 12:37 PM,T1,Dine In,,Paneer Wrap; Samosa (2); Samosa (2); Butter Chicken Plate,39.50,3.75,43.25,N
+CHK-105621,08/10/2026 12:38 PM,T1,delivery ,DP-DA0F65,Dal Makhani,10.00,0.95,10.95,N
+CHK-105622,08/10/2026 12:42 PM,T1,delivery ,,Samosa (2); Mango Lassi; Paneer Wrap,22.50,$2.14,24.64,N
+CHK-105624,08/10/2026 12:42 PM,T1,Delivery,DP-E4766B,Dal Makhani,10.00,0.95,10.95,N
+CHK-105627,08/10/2026 12:48 PM,T1,Takeout,,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,Y
+CHK-105629,2026-08-10 12:50:32,T2,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105632,08/10/2026 12:51 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2),20.50,1.95,22.45,N
+CHK-105634,2026-08-10 12:53:00,T2,Delivery,,Mango Lassi,$5.00,0.47,5.47,N
+CHK-105635,08/10/2026 12:54 PM,T1,Dine In,,Chana Masala Bowl; Samosa (2); Dal Makhani; Paneer Wrap; Butter Chicken Plate,55.50,5.27,60.77,N
+CHK-105638,08/10/2026 12:57 PM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl; Chana Masala Bowl,$31.50,$2.99,34.49,N
+CHK-105641,08/10/2026 01:01 PM,T1,Delivery,DP-71F850,Mango Lassi; Paneer Wrap; Garlic Naan; Samosa (2); Butter Chicken Plate,$42.00,$3.99,45.99,N
+CHK-105642,08/10/2026 01:09 PM,T1,delivery ,DP-865571,Paneer Wrap; Paneer Wrap; Paneer Wrap,34.50,3.28,37.78,N
+CHK-105645,2026-08-10 13:22:47,T2,Delivery,DP-D425FC,Samosa (2),6.00,0.57,6.57,N
+CHK-105648,2026-08-10 13:38:57,T2,DELIVERY,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105651,08/10/2026 01:41 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,$25.73,Y
+CHK-105652,08/10/2026 01:42 PM,T1,Takeout,,Paneer Wrap; Garlic Naan; Chana Masala Bowl; Mango Lassi,32.00,3.04,35.04,N
+CHK-105653,08/10/2026 01:50 PM,T1,Takeout,,Samosa (2),$6.00,0.57,6.57,N
+CHK-105654,08/10/2026 01:51 PM,T1,delivery ,DP-34173F,Chana Masala Bowl; Chicken Tikka Bowl,$26.50,2.52,$29.02,N
+CHK-105655,08/10/2026 01:55 PM,T1,DELIVERY,DP-451DF6,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105658,08/10/2026 02:02 PM,T1,Takeout,,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-105659,08/10/2026 02:15 PM,T1,Dine In,,Paneer Wrap; Samosa (2); Dal Makhani,27.50,2.61,30.11,N
+CHK-105662,08/10/2026 02:49 PM,T1,DELIVERY,DP-100002,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,N
+CHK-105664,08/10/2026 03:16 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Samosa (2),24.00,2.28,26.28,N
+CHK-105666,08/10/2026 03:37 PM,T1,DELIVERY,DP-998524,Mango Lassi; Dal Makhani; Mango Lassi,$20.00,1.90,$21.90,N
+CHK-105669,08/10/2026 04:11 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl,28.00,$2.66,$30.66,N
+CHK-105672,08/10/2026 04:20 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105674,08/10/2026 04:53 PM,T1,Delivery,DP-087CBA,Dal Makhani,10.00,0.95,10.95,N
+CHK-105676,08/10/2026 05:13 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-105679,08/10/2026 05:16 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl; Samosa (2); Mango Lassi; Dal Makhani,$41.50,3.94,45.44,N
+CHK-105681,08/10/2026 05:16 PM,T1,Dine In,,Dal Makhani; Mango Lassi; Chana Masala Bowl; Garlic Naan; Chana Masala Bowl,42.50,4.04,46.54,N
+CHK-105684,08/10/2026 05:33 PM,T1,Takeout,,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-105687,08/10/2026 05:34 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-105690,08/10/2026 05:58 PM,T1,Delivery,,Garlic Naan; Dal Makhani; Butter Chicken Plate; Chicken Tikka Bowl; Dal Makhani,54.00,5.13,59.13,N
+CHK-105693,2026-08-10 18:06:04,T2,DELIVERY,DP-2C8742,Garlic Naan,3.50,0.33,3.83,N
+CHK-105695,08/10/2026 06:08 PM,T1,Dine In,,Garlic Naan; Chana Masala Bowl; Chicken Tikka Bowl,30.00,2.85,32.85,N
+CHK-105698,08/10/2026 06:24 PM,T1,Delivery,,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,19.71,N
+CHK-105699,08/10/2026 06:27 PM,T1,delivery ,DP-59602F,Garlic Naan; Dal Makhani,13.50,1.28,14.78,N
+CHK-105702,08/10/2026 06:28 PM,T1,Dine In,,Butter Chicken Plate; Garlic Naan; Garlic Naan,23.00,2.19,25.19,N
+CHK-105704,08/10/2026 06:29 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate; Garlic Naan; Chicken Tikka Bowl,45.50,4.32,49.82,N
+CHK-105706,08/10/2026 06:30 PM,T1,delivery ,DP-4E1A19,Chicken Tikka Bowl; Dal Makhani; Paneer Wrap,36.00,3.42,39.42,N
+CHK-105709,2026-08-10 18:31:05,T2,Dine In,,Butter Chicken Plate; Chana Masala Bowl; Garlic Naan,31.50,2.99,34.49,N
+CHK-105712,08/10/2026 06:38 PM,T1,Takeout,,Mango Lassi; Mango Lassi; Samosa (2); Paneer Wrap; Samosa (2),33.50,3.18,36.68,N
+CHK-105714,08/10/2026 06:40 PM,T1,Dine In,,Dal Makhani; Garlic Naan; Paneer Wrap,25.00,2.38,27.38,N
+CHK-105717,08/10/2026 06:41 PM,T1,Delivery,,Paneer Wrap; Paneer Wrap; Butter Chicken Plate,39.00,3.71,42.71,N
+CHK-105719,08/10/2026 06:42 PM,T1,Dine In,,Mango Lassi,5.00,$0.47,5.47,N
+CHK-105721,08/10/2026 06:45 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105722,2026-08-10 18:46:07,T2,DELIVERY,DP-F893D0,Paneer Wrap; Garlic Naan; Samosa (2); Samosa (2),27.00,2.56,29.56,N
+CHK-105724,2026-08-10 18:46:10,T2,delivery ,DP-AC3ED0,Chana Masala Bowl,12.00,$1.14,13.14,Y
+CHK-105725,08/10/2026 06:47 PM,T1,Dine In,,Butter Chicken Plate; Garlic Naan; Samosa (2); Butter Chicken Plate,41.50,3.94,45.44,N
+CHK-105727,2026-08-10 18:50:44,T2,delivery ,,Chana Masala Bowl; Butter Chicken Plate; Paneer Wrap,39.50,3.75,43.25,N
+CHK-105730,08/10/2026 06:56 PM,T1,DELIVERY,,Chicken Tikka Bowl; Butter Chicken Plate; Butter Chicken Plate; Chana Masala Bowl; Garlic Naan,62.00,$5.89,67.89,Y
+CHK-105733,08/10/2026 07:02 PM,T1,Dine In,,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105736,08/10/2026 07:03 PM,T1,delivery ,DP-4E2A63,Paneer Wrap; Dal Makhani; Samosa (2); Samosa (2); Chicken Tikka Bowl,48.00,4.56,52.56,N
+CHK-105739,2026-08-10 19:04:51,T2,Takeout,,Chicken Tikka Bowl; Paneer Wrap; Samosa (2),32.00,3.04,35.04,N
+CHK-105742,2026-08-10 19:08:12,T2,Dine In,,Chicken Tikka Bowl; Dal Makhani; Butter Chicken Plate,40.50,3.85,44.35,N
+CHK-105744,08/10/2026 07:24 PM,T1,delivery ,DP-891379,Chicken Tikka Bowl; Mango Lassi; Paneer Wrap; Samosa (2),37.00,$3.52,40.52,N
+CHK-105747,08/10/2026 07:28 PM,T1,delivery ,DP-01B299,Chicken Tikka Bowl; Mango Lassi; Dal Makhani,29.50,2.80,32.30,N
+CHK-105750,08/10/2026 07:32 PM,T1,Takeout,,Dal Makhani; Samosa (2); Garlic Naan; Samosa (2); Samosa (2),31.50,2.99,34.49,N
+CHK-105751,08/10/2026 07:36 PM,T1,Delivery,,Paneer Wrap; Chana Masala Bowl; Samosa (2),29.50,2.80,32.30,N
+CHK-105752,08/10/2026 07:37 PM,T1,Delivery,DP-4DC1D0,Mango Lassi; Chana Masala Bowl; Garlic Naan; Butter Chicken Plate; Mango Lassi,41.50,3.94,45.44,N
+CHK-105754,08/10/2026 07:46 PM,T1,DELIVERY,,Butter Chicken Plate; Chana Masala Bowl; Garlic Naan; Samosa (2),37.50,$3.56,41.06,N
+CHK-105755,08/10/2026 07:48 PM,T1,DELIVERY,DP-BD260F,Butter Chicken Plate; Chana Masala Bowl; Paneer Wrap; Samosa (2),45.50,4.32,49.82,N
+CHK-105757,2026-08-10 19:48:30,T2,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-105759,08/10/2026 07:48 PM,T1,Takeout,,Chicken Tikka Bowl; Paneer Wrap; Chicken Tikka Bowl; Dal Makhani; Dal Makhani,60.50,5.75,66.25,N
+CHK-105760,08/10/2026 07:54 PM,T1,Takeout,,Chana Masala Bowl; Garlic Naan,15.50,1.47,16.97,N
+CHK-105762,08/10/2026 07:58 PM,T1,DELIVERY,DP-5F700D,Garlic Naan; Butter Chicken Plate; Chicken Tikka Bowl,34.00,3.23,$37.23,N
+CHK-105765,08/10/2026 08:03 PM,T1,Delivery,DP-C18292,Samosa (2); Chicken Tikka Bowl; Mango Lassi; Garlic Naan,29.00,2.75,31.75,N
+CHK-105766,08/10/2026 08:06 PM,T1,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl,$26.50,$2.52,$29.02,N
+CHK-105768,08/10/2026 08:14 PM,T1,Delivery,9C51E4,Garlic Naan; Chana Masala Bowl; Chana Masala Bowl,27.50,2.61,30.11,N
+CHK-105770,2026-08-10 20:23:09,T2,delivery ,DP-80C826,Mango Lassi,5.00,0.47,5.47,N
+CHK-105771,2026-08-10 20:29:26,T2,Dine In,,Chana Masala Bowl; Chicken Tikka Bowl,26.50,2.52,29.02,N
+CHK-105774,08/10/2026 08:31 PM,T1,Takeout,,Mango Lassi; Samosa (2); Garlic Naan; Dal Makhani,24.50,2.33,26.83,N
+CHK-105776,08/10/2026 08:32 PM,T1,Delivery,DP-53250C,Garlic Naan,3.50,$0.33,3.83,N
+CHK-105777,08/10/2026 08:36 PM,T1,DELIVERY,DP-815A14,Dal Makhani; Chicken Tikka Bowl; Butter Chicken Plate; Garlic Naan,44.00,4.18,48.18,N
+CHK-105778,08/10/2026 08:48 PM,T1,Dine In,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-105779,08/10/2026 08:49 PM,T1,Takeout,,Samosa (2); Garlic Naan,9.50,0.90,10.40,N
+CHK-105781,08/10/2026 08:51 PM,T1,delivery ,DP-2052F5,Paneer Wrap,11.50,1.09,12.59,N
+CHK-105784,08/10/2026 08:52 PM,T1,DELIVERY,DP-735AD0,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-105785,08/10/2026 08:52 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-105787,08/10/2026 09:02 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl; Garlic Naan,24.00,2.28,26.28,N
+CHK-105789,2026-08-10 21:16:07,T2,DELIVERY,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105791,08/10/2026 09:38 PM,T1,Takeout,,Dal Makhani; Chana Masala Bowl; Dal Makhani,32.00,3.04,35.04,N
+CHK-105794,08/10/2026 09:45 PM,T1,Dine In,,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-105797,2026-08-10 21:51:44,T2,Dine In,,Samosa (2); Chicken Tikka Bowl,20.50,$1.95,22.45,N
+CHK-105800,08/10/2026 10:00 PM,T1,Delivery,DP-42524A,Mango Lassi; Chicken Tikka Bowl; Dal Makhani,29.50,2.80,32.30,N
+CHK-105803,08/11/2026 11:11 AM,T1,Delivery,DP-453EB7,Mango Lassi; Samosa (2); Mango Lassi,16.00,1.52,$17.52,N
+CHK-105805,08/11/2026 11:12 AM,T1,delivery ,,Garlic Naan; Chana Masala Bowl; Mango Lassi,20.50,1.95,22.45,N
+CHK-105807,2026-08-11 11:12:59,T2,Delivery,,Butter Chicken Plate; Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl,51.50,4.89,56.39,N
+CHK-105810,08/11/2026 11:31 AM,T1,DELIVERY,DP-D9CC78,Garlic Naan; Chicken Tikka Bowl; Dal Makhani; Mango Lassi; Dal Makhani,43.00,4.08,47.08,N
+CHK-105811,08/11/2026 11:31 AM,T1,delivery ,,Paneer Wrap; Chana Masala Bowl; Mango Lassi; Dal Makhani,38.50,3.66,42.16,N
+CHK-105814,2026-08-11 11:46:28,T2,Delivery,DP-4078C7,Garlic Naan; Chana Masala Bowl; Dal Makhani,25.50,2.42,27.92,N
+CHK-105817,2026-08-11 12:04:10,T2,DELIVERY,DP-7B56D3,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105819,08/11/2026 12:05 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan,$18.00,1.71,$19.71,N
+CHK-105820,08/11/2026 12:15 PM,T1,Takeout,,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-105823,08/11/2026 12:15 PM,T1,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105825,08/11/2026 12:15 PM,T1,Takeout,,Mango Lassi; Dal Makhani,15.00,$1.43,16.43,N
+CHK-105827,08/11/2026 12:18 PM,T1,Takeout,,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-105829,08/11/2026 12:19 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate; Chicken Tikka Bowl,42.00,3.99,45.99,N
+CHK-105830,08/11/2026 12:20 PM,T1,Delivery,,Mango Lassi; Chicken Tikka Bowl; Samosa (2),25.50,2.42,27.92,N
+CHK-105832,08/11/2026 12:21 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2),20.50,1.95,22.45,N
+CHK-105834,08/11/2026 12:22 PM,T1,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-105837,08/11/2026 12:25 PM,T1,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl,26.50,2.52,29.02,N
+CHK-105840,08/11/2026 12:31 PM,T1,Takeout,,Samosa (2); Garlic Naan,9.50,0.90,10.40,N
+CHK-105841,08/11/2026 12:32 PM,T1,Dine In,,Chicken Tikka Bowl; Mango Lassi,19.50,1.85,21.35,N
+CHK-105843,08/11/2026 12:33 PM,T1,delivery ,DP-89F483,Garlic Naan; Samosa (2); Chicken Tikka Bowl,$24.00,2.28,26.28,N
+CHK-105846,08/11/2026 12:35 PM,T1,Takeout,,Chana Masala Bowl; Butter Chicken Plate; Mango Lassi,33.00,3.14,36.14,N
+CHK-105848,2026-08-11 12:44:10,T2,Dine In,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105851,2026-08-11 12:45:53,T2,Takeout,,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105854,08/11/2026 12:50 PM,T1,Takeout,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-105856,2026-08-11 12:50:23,T2,Dine In,,Garlic Naan; Dal Makhani; Mango Lassi,$18.50,1.76,20.26,N
+CHK-105859,08/11/2026 12:50 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105862,08/11/2026 12:56 PM,T1,Takeout,,Dal Makhani; Mango Lassi; Samosa (2); Chicken Tikka Bowl; Mango Lassi,$40.50,3.85,44.35,N
+CHK-105863,08/11/2026 01:04 PM,T1,delivery ,DP-10CE43,Mango Lassi; Dal Makhani,15.00,1.43,16.43,N
+CHK-105865,08/11/2026 01:18 PM,T1,Takeout,,Dal Makhani; Dal Makhani; Chicken Tikka Bowl,34.50,3.28,37.78,N
+CHK-105867,2026-08-11 13:29:57,T2,delivery ,DP-7CE9C9,Butter Chicken Plate; Samosa (2); Samosa (2),28.00,2.66,30.66,N
+CHK-105870,08/11/2026 01:30 PM,T1,delivery ,DP-1B32F2,Chicken Tikka Bowl; Paneer Wrap,26.00,2.47,28.47,N
+CHK-105873,08/11/2026 01:37 PM,T1,Takeout,,Samosa (2); Paneer Wrap; Chicken Tikka Bowl; Chicken Tikka Bowl; Garlic Naan,50.00,4.75,54.75,Y
+CHK-105874,08/11/2026 01:42 PM,T1,DELIVERY,,Dal Makhani; Chana Masala Bowl; Dal Makhani,32.00,$3.04,35.04,N
+CHK-105877,08/11/2026 01:44 PM,T1,Delivery,,Samosa (2); Chicken Tikka Bowl; Mango Lassi,25.50,2.42,27.92,N
+CHK-105878,08/11/2026 01:52 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105879,2026-08-11 13:54:26,T2,DELIVERY,,Samosa (2),6.00,0.57,6.57,N
+CHK-105881,08/11/2026 02:03 PM,T1,Dine In,,Garlic Naan,$3.50,0.33,3.83,N
+CHK-105884,2026-08-11 14:03:57,T2,Dine In,,Mango Lassi; Paneer Wrap,16.50,1.57,18.07,N
+CHK-105886,08/11/2026 02:42 PM,T1,Takeout,,Chana Masala Bowl; Garlic Naan; Mango Lassi,$20.50,1.95,22.45,N
+CHK-105887,2026-08-11 15:12:20,T2,Dine In,,Dal Makhani; Chana Masala Bowl,22.00,2.09,24.09,N
+CHK-105889,08/11/2026 03:15 PM,T1,DELIVERY,,Garlic Naan; Chicken Tikka Bowl; Butter Chicken Plate,34.00,3.23,37.23,N
+CHK-105892,2026-08-11 15:20:26,T2,Takeout,,Mango Lassi,5.00,0.47,$5.47,N
+CHK-105893,08/11/2026 03:28 PM,T1,Dine In,,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-105896,08/11/2026 04:51 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105898,08/11/2026 05:16 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Paneer Wrap,35.50,$3.37,$38.87,N
+CHK-105900,2026-08-11 17:22:58,T2,Takeout,,Butter Chicken Plate,$16.00,1.52,17.52,N
+CHK-105902,08/11/2026 05:25 PM,T1,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl; Mango Lassi; Paneer Wrap,43.00,4.08,47.08,N
+CHK-105904,08/11/2026 05:26 PM,T1,Dine In,,Mango Lassi; Paneer Wrap; Butter Chicken Plate,$32.50,3.09,35.59,N
+CHK-105906,08/11/2026 05:44 PM,T1,Delivery,DP-03FCFF,Chana Masala Bowl; Paneer Wrap; Butter Chicken Plate; Chana Masala Bowl; Samosa (2),57.50,5.46,62.96,N
+CHK-105907,08/11/2026 06:03 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl,$20.50,1.95,22.45,N
+CHK-105910,08/11/2026 06:07 PM,T1,DELIVERY,,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-105913,08/11/2026 06:09 PM,T1,Takeout,,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-105916,08/11/2026 06:10 PM,T1,Delivery,DP 7A8B81,Garlic Naan,3.50,0.33,3.83,N
+CHK-105919,08/11/2026 06:11 PM,T1,DELIVERY,DP-E9F2EE,Garlic Naan; Paneer Wrap; Paneer Wrap; Dal Makhani,36.50,$3.47,39.97,N
+CHK-105921,08/11/2026 06:12 PM,T1,Delivery,DP-2C718A,Paneer Wrap; Chicken Tikka Bowl; Garlic Naan,29.50,2.80,32.30,N
+CHK-105922,08/11/2026 06:14 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl,18.00,1.71,19.71,N
+CHK-105923,08/11/2026 06:16 PM,T1,DELIVERY,DP-32CEF9,Butter Chicken Plate; Garlic Naan,19.50,1.85,21.35,N
+CHK-105925,08/11/2026 06:17 PM,T1,Takeout,,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105927,08/11/2026 06:18 PM,T1,delivery ,DP-30A734,Dal Makhani; Garlic Naan,13.50,1.28,14.78,N
+CHK-105928,08/11/2026 06:19 PM,T1,delivery ,DP-4F38E4,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-105930,2026-08-11 18:24:55,T2,Delivery,DP-343F0C,Chana Masala Bowl; Paneer Wrap; Chana Masala Bowl; Chicken Tikka Bowl,50.00,$4.75,$54.75,N
+CHK-105931,08/11/2026 06:25 PM,T1,DELIVERY,DP-EDC310,Mango Lassi; Garlic Naan,8.50,0.81,9.31,N
+CHK-105933,08/11/2026 06:27 PM,T1,Dine In,,Garlic Naan; Paneer Wrap; Samosa (2),21.00,2.00,23.00,N
+CHK-105936,08/11/2026 06:32 PM,T1,DELIVERY,,Garlic Naan; Samosa (2),9.50,$0.90,10.40,N
+CHK-105939,08/11/2026 06:38 PM,T1,Dine In,,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-105940,08/11/2026 06:41 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2); Paneer Wrap; Chicken Tikka Bowl,46.50,4.42,50.92,N
+CHK-105941,08/11/2026 06:43 PM,T1,delivery ,DP-ACE2A0,Chicken Tikka Bowl; Garlic Naan; Garlic Naan; Garlic Naan,25.00,2.38,27.38,N
+CHK-105942,08/11/2026 06:52 PM,T1,delivery ,DP-EA3C8F,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-105943,08/11/2026 06:52 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105946,08/11/2026 06:59 PM,T1,Dine In,,Mango Lassi; Samosa (2),11.00,1.04,12.04,N
+CHK-105947,08/11/2026 07:01 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105950,2026-08-11 19:02:33,T2,Delivery,DP-07D3FF,Butter Chicken Plate; Samosa (2); Chicken Tikka Bowl,36.50,3.47,39.97,N
+CHK-105953,08/11/2026 07:04 PM,T1,Dine In,,Mango Lassi,5.00,$0.47,5.47,N
+CHK-105955,2026-08-11 19:04:26,T2,Dine In,,Samosa (2); Paneer Wrap; Chicken Tikka Bowl; Chana Masala Bowl; Chicken Tikka Bowl,58.50,5.56,64.06,N
+CHK-105958,08/11/2026 07:04 PM,T1,Takeout,,Chana Masala Bowl; Mango Lassi; Chana Masala Bowl; Dal Makhani; Samosa (2),45.00,4.28,49.28,N
+CHK-105959,08/11/2026 07:07 PM,T1,Dine In,,Garlic Naan; Butter Chicken Plate; Mango Lassi; Chana Masala Bowl,36.50,3.47,39.97,N
+CHK-105962,08/11/2026 07:08 PM,T1,Dine In,,Samosa (2); Chana Masala Bowl,18.00,1.71,$19.71,N
+CHK-105964,08/11/2026 07:20 PM,T1,delivery ,DP-5C0920,Samosa (2); Chana Masala Bowl; Butter Chicken Plate,$34.00,3.23,37.23,N
+CHK-105966,2026-08-11 19:24:02,T2,Takeout,,Mango Lassi,$5.00,0.47,5.47,N
+CHK-105969,08/11/2026 07:30 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-105971,08/11/2026 07:33 PM,T1,DELIVERY,DP-523482,Garlic Naan; Chana Masala Bowl; Garlic Naan,19.00,1.80,20.80,N
+CHK-105974,2026-08-11 19:36:26,T2,Dine In,,Dal Makhani; Garlic Naan,13.50,1.28,14.78,N
+CHK-105977,08/11/2026 07:37 PM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,$19.50,1.85,21.35,N
+CHK-105980,08/11/2026 07:38 PM,T1,Delivery,,Garlic Naan,3.50,0.33,3.83,N
+CHK-105983,08/11/2026 07:39 PM,T1,DELIVERY,,Chicken Tikka Bowl; Mango Lassi,$19.50,$1.85,21.35,N
+CHK-105986,08/11/2026 07:42 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Samosa (2),30.00,2.85,32.85,N
+CHK-105988,08/11/2026 07:44 PM,T1,Takeout,,Paneer Wrap; Samosa (2); Paneer Wrap; Chana Masala Bowl,$41.00,3.90,$44.90,N
+CHK-105991,08/11/2026 07:48 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-105992,08/11/2026 07:52 PM,T1,Dine In,,Butter Chicken Plate; Chicken Tikka Bowl; Samosa (2); Samosa (2),$42.50,4.04,46.54,N
+CHK-105993,2026-08-11 19:52:29,T2,delivery ,,Butter Chicken Plate; Butter Chicken Plate; Samosa (2); Chana Masala Bowl,50.00,$4.75,54.75,N
+CHK-105994,08/11/2026 07:57 PM,T1,delivery ,,Dal Makhani; Samosa (2); Dal Makhani; Paneer Wrap,37.50,3.56,41.06,N
+CHK-105995,08/11/2026 07:59 PM,T1,Delivery,DP-24F692,Butter Chicken Plate; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-105997,08/11/2026 08:21 PM,T1,delivery ,DP-BE87A4,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,19.71,N
+CHK-106000,08/11/2026 08:34 PM,T1,Takeout,,Paneer Wrap; Samosa (2),17.50,1.66,$19.16,N
+CHK-106002,08/11/2026 08:35 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106003,08/11/2026 08:36 PM,T1,DELIVERY,DP-7C9C41,Chicken Tikka Bowl; Mango Lassi,19.50,1.85,21.35,N
+CHK-106006,08/11/2026 08:56 PM,T1,Dine In,,Paneer Wrap,$11.50,1.09,12.59,N
+CHK-106009,08/11/2026 09:04 PM,T1,delivery ,DP-C1550C,Samosa (2); Paneer Wrap; Samosa (2),23.50,2.23,25.73,N
+CHK-106010,2026-08-11 21:04:22,T2,delivery ,,Dal Makhani; Chicken Tikka Bowl,$24.50,2.33,26.83,N
+CHK-106011,08/11/2026 09:10 PM,T1,Takeout,,Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl,32.50,3.09,35.59,N
+CHK-106014,08/11/2026 09:18 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2); Chicken Tikka Bowl; Samosa (2); Paneer Wrap,50.00,4.75,$54.75,N
+CHK-106016,08/11/2026 09:35 PM,T1,Takeout,,Mango Lassi; Samosa (2); Chana Masala Bowl; Butter Chicken Plate; Chana Masala Bowl,51.00,4.84,55.84,N
+CHK-106019,08/11/2026 09:36 PM,T1,Takeout,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106022,2026-08-11 21:56:01,T2,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl; Mango Lassi,31.50,2.99,34.49,Y
+CHK-106023,08/12/2026 11:08 AM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate; Chana Masala Bowl,54.50,5.18,59.68,N
+CHK-106026,08/12/2026 11:10 AM,T1,delivery ,DP-FC89E9,Chicken Tikka Bowl; Chicken Tikka Bowl,29.00,2.75,31.75,N
+CHK-106028,08/12/2026 11:13 AM,T1,delivery ,DP 6CBD18,Chicken Tikka Bowl; Chicken Tikka Bowl; Garlic Naan; Paneer Wrap,44.00,4.18,$48.18,N
+CHK-106031,08/12/2026 11:25 AM,T1,Takeout,,Paneer Wrap; Garlic Naan; Chana Masala Bowl,27.00,2.56,29.56,N
+CHK-106034,2026-08-12 11:32:30,T2,Takeout,,Garlic Naan; Mango Lassi; Chana Masala Bowl; Chana Masala Bowl,32.50,3.09,35.59,N
+CHK-106035,08/12/2026 11:33 AM,T1,Dine In,,Dal Makhani; Garlic Naan,13.50,$1.28,14.78,N
+CHK-106036,08/12/2026 11:45 AM,T1,Dine In,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-106037,08/12/2026 11:47 AM,T1,Takeout,,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,N
+CHK-106038,08/12/2026 12:00 PM,T1,Delivery,DP-B4C7A6,Samosa (2),6.00,0.57,6.57,N
+CHK-106041,08/12/2026 12:02 PM,T1,DELIVERY,ACB9DD,Samosa (2); Dal Makhani,16.00,1.52,17.52,N
+CHK-106043,08/12/2026 12:10 PM,T1,Takeout,,Mango Lassi; Chana Masala Bowl; Chicken Tikka Bowl,$31.50,2.99,34.49,N
+CHK-106045,08/12/2026 12:24 PM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl,26.50,2.52,$29.02,N
+CHK-106046,08/12/2026 12:24 PM,T1,delivery ,DP-788E97,Dal Makhani; Garlic Naan; Dal Makhani,23.50,2.23,25.73,N
+CHK-106048,08/12/2026 12:25 PM,T1,Dine In,,Butter Chicken Plate; Butter Chicken Plate; Paneer Wrap,$43.50,4.13,47.63,N
+CHK-106051,2026-08-12 12:28:19,T2,delivery ,,Mango Lassi; Chana Masala Bowl; Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate,59.50,5.65,65.15,N
+CHK-106053,08/12/2026 12:31 PM,T1,Dine In,,Mango Lassi; Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl; Samosa (2),43.50,4.13,47.63,N
+CHK-106056,2026-08-12 12:31:33,T2,Delivery,,Garlic Naan; Dal Makhani,13.50,1.28,14.78,N
+CHK-106057,08/12/2026 12:32 PM,T1,Takeout,,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-106058,2026-08-12 12:37:49,T2,Delivery,DP-BC6AAF,Garlic Naan; Butter Chicken Plate; Paneer Wrap; Butter Chicken Plate; Dal Makhani,57.00,5.42,$62.42,N
+CHK-106060,2026-08-12 12:39:30,T2,Takeout,,Dal Makhani; Butter Chicken Plate; Chana Masala Bowl,38.00,3.61,41.61,N
+CHK-106062,08/12/2026 12:43 PM,T1,delivery ,DP-56D541,Paneer Wrap; Dal Makhani; Mango Lassi; Dal Makhani,36.50,3.47,39.97,N
+CHK-106064,08/12/2026 12:44 PM,T1,DELIVERY,DP-1A48C1,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106067,2026-08-12 12:47:18,T2,Delivery,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-106068,08/12/2026 12:52 PM,T1,Takeout,,Dal Makhani,10.00,0.95,$10.95,N
+CHK-106071,2026-08-12 12:52:40,T2,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl; Garlic Naan,42.00,3.99,45.99,N
+CHK-106074,08/12/2026 12:59 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl; Garlic Naan,31.50,2.99,34.49,N
+CHK-106076,08/12/2026 01:15 PM,T1,Dine In,,Dal Makhani,10.00,0.95,10.95,N
+CHK-106079,2026-08-12 13:25:18,T2,Dine In,,Mango Lassi; Chicken Tikka Bowl; Dal Makhani,29.50,2.80,32.30,N
+CHK-106080,08/12/2026 01:29 PM,T1,Takeout,,Paneer Wrap; Samosa (2),17.50,1.66,19.16,N
+CHK-106083,2026-08-12 13:31:32,T2,Dine In,,Paneer Wrap; Paneer Wrap,23.00,2.19,$25.19,N
+CHK-106086,08/12/2026 01:35 PM,T1,DELIVERY,DP-070768,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-106087,2026-08-12 13:37:50,T2,delivery ,DP-A7158B,Butter Chicken Plate; Chana Masala Bowl,28.00,$2.66,30.66,N
+CHK-106088,2026-08-12 13:43:20,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Dal Makhani,34.00,3.23,37.23,N
+CHK-106090,08/12/2026 01:46 PM,T1,Delivery,dp-02e554,Samosa (2); Chicken Tikka Bowl,20.50,1.95,22.45,N
+CHK-106092,08/12/2026 01:48 PM,T1,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl; Dal Makhani,48.50,4.61,53.11,N
+CHK-106095,2026-08-12 13:50:15,T2,Takeout,,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,Y
+CHK-106097,08/12/2026 02:06 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl; Paneer Wrap,40.50,3.85,$44.35,N
+CHK-106100,08/12/2026 02:33 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl; Butter Chicken Plate,70.50,6.70,77.20,N
+CHK-106103,08/12/2026 02:34 PM,T1,delivery ,DP-8D3581,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-106106,08/12/2026 02:37 PM,T1,DELIVERY,DP-847F76,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-106108,08/12/2026 02:44 PM,T1,Dine In,,Mango Lassi; Paneer Wrap; Garlic Naan,20.00,$1.90,21.90,N
+CHK-106110,08/12/2026 02:53 PM,T1,Delivery,,Paneer Wrap; Chana Masala Bowl; Samosa (2),29.50,2.80,32.30,N
+CHK-106112,08/12/2026 03:03 PM,T1,Dine In,,Garlic Naan,$3.50,0.33,3.83,N
+CHK-106114,08/12/2026 03:09 PM,T1,Delivery,,Samosa (2),$6.00,0.57,6.57,N
+CHK-106115,08/12/2026 03:11 PM,T1,Delivery,,Dal Makhani; Chana Masala Bowl,22.00,2.09,$24.09,N
+CHK-106117,08/12/2026 03:47 PM,T1,Takeout,,Dal Makhani; Mango Lassi; Samosa (2),21.00,2.00,23.00,N
+CHK-106118,2026-08-12 15:53:20,T2,DELIVERY,,Chicken Tikka Bowl; Dal Makhani; Mango Lassi; Samosa (2),35.50,3.37,38.87,N
+CHK-106121,08/12/2026 04:02 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-106122,2026-08-12 16:12:59,T2,DELIVERY,,Dal Makhani; Chana Masala Bowl,$22.00,2.09,24.09,N
+CHK-106124,08/12/2026 04:23 PM,T1,Dine In,,Mango Lassi; Paneer Wrap; Butter Chicken Plate; Samosa (2); Garlic Naan,42.00,3.99,45.99,N
+CHK-106125,08/12/2026 04:28 PM,T1,Takeout,,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-106127,08/12/2026 04:36 PM,T1,DELIVERY,,Samosa (2),6.00,0.57,6.57,N
+CHK-106130,08/12/2026 04:40 PM,T1,Dine In,,Paneer Wrap; Chana Masala Bowl,23.50,2.23,25.73,N
+CHK-106133,08/12/2026 04:49 PM,T1,Delivery,DP-5951DC,Dal Makhani,$10.00,0.95,10.95,N
+CHK-106135,2026-08-12 16:59:06,T2,Takeout,,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106138,08/12/2026 05:00 PM,T1,Delivery,DP-522543,Chana Masala Bowl; Butter Chicken Plate; Samosa (2); Dal Makhani; Butter Chicken Plate,60.00,5.70,65.70,N
+CHK-106140,08/12/2026 05:09 PM,T1,delivery ,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106141,08/12/2026 05:18 PM,T1,Dine In,,Mango Lassi; Butter Chicken Plate; Mango Lassi; Mango Lassi,31.00,2.94,33.94,N
+CHK-106142,08/12/2026 05:31 PM,T1,Dine In,,Mango Lassi; Butter Chicken Plate; Chicken Tikka Bowl,35.50,3.37,38.87,N
+CHK-106144,08/12/2026 05:38 PM,T1,Dine In,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106146,08/12/2026 05:39 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106147,2026-08-12 17:47:24,T2,Takeout,,Garlic Naan; Paneer Wrap; Chana Masala Bowl; Chana Masala Bowl; Samosa (2),45.00,4.28,49.28,N
+CHK-106149,08/12/2026 05:54 PM,T1,delivery ,dp-93d469,Butter Chicken Plate; Chana Masala Bowl; Garlic Naan,31.50,2.99,34.49,N
+CHK-106150,08/12/2026 05:59 PM,T1,Takeout,,Mango Lassi; Mango Lassi; Chana Masala Bowl,22.00,2.09,24.09,N
+CHK-106152,08/12/2026 06:01 PM,T1,Takeout,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106154,2026-08-12 18:05:07,T2,Dine In,,Garlic Naan; Chicken Tikka Bowl,18.00,1.71,19.71,N
+CHK-106157,08/12/2026 06:12 PM,T1,Dine In,,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-106158,08/12/2026 06:14 PM,T1,Takeout,,Butter Chicken Plate; Samosa (2); Chicken Tikka Bowl,36.50,$3.47,39.97,N
+CHK-106160,08/12/2026 06:22 PM,T1,Delivery,DP-F32FE4,Garlic Naan; Dal Makhani; Butter Chicken Plate; Chana Masala Bowl,$41.50,3.94,45.44,N
+CHK-106162,08/12/2026 06:29 PM,T1,Dine In,,Paneer Wrap; Samosa (2),17.50,1.66,$19.16,N
+CHK-106163,08/12/2026 06:36 PM,T1,Takeout,,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-106166,08/12/2026 06:36 PM,T1,DELIVERY,,Samosa (2); Chana Masala Bowl; Dal Makhani,28.00,2.66,30.66,N
+CHK-106167,08/12/2026 06:40 PM,T1,DELIVERY,,Garlic Naan; Paneer Wrap; Paneer Wrap; Chana Masala Bowl,38.50,3.66,42.16,N
+CHK-106169,08/12/2026 06:41 PM,T1,Delivery,DP-C5CE37,Dal Makhani,$10.00,0.95,10.95,N
+CHK-106171,2026-08-12 18:41:51,T2,delivery ,DP-B5E2FA,Chicken Tikka Bowl; Garlic Naan; Mango Lassi,23.00,2.19,25.19,N
+CHK-106173,08/12/2026 06:49 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2),20.50,$1.95,22.45,N
+CHK-106176,08/12/2026 06:54 PM,T1,Delivery,dp-24eed3,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106179,08/12/2026 06:59 PM,T1,DELIVERY,DP-BCC5B3,Mango Lassi,5.00,0.47,$5.47,N
+CHK-106182,08/12/2026 07:01 PM,T1,delivery ,DP-940E8F,Garlic Naan,3.50,0.33,3.83,N
+CHK-106185,08/12/2026 07:04 PM,T1,DELIVERY,DP-9C8269,Mango Lassi,5.00,0.47,5.47,N
+CHK-106188,08/12/2026 07:05 PM,T1,Dine In,,Samosa (2); Chicken Tikka Bowl; Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate,63.00,5.99,68.99,N
+CHK-106190,08/12/2026 07:09 PM,T1,Dine In,,Dal Makhani,$10.00,0.95,10.95,N
+CHK-106193,08/12/2026 07:09 PM,T1,Takeout,,Chicken Tikka Bowl; Dal Makhani; Dal Makhani; Mango Lassi,39.50,3.75,$43.25,N
+CHK-106196,08/12/2026 07:12 PM,T1,delivery ,,Chicken Tikka Bowl; Chana Masala Bowl; Garlic Naan; Chana Masala Bowl,42.00,3.99,45.99,Y
+CHK-106199,08/12/2026 07:13 PM,T1,Dine In,,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-106201,2026-08-12 19:15:53,T2,Takeout,,Samosa (2); Mango Lassi; Chana Masala Bowl; Mango Lassi,28.00,$2.66,30.66,N
+CHK-106203,08/12/2026 07:18 PM,T1,Takeout,,Mango Lassi; Butter Chicken Plate; Samosa (2); Dal Makhani,37.00,3.52,40.52,N
+CHK-106205,2026-08-12 19:18:54,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Samosa (2),$30.00,2.85,32.85,N
+CHK-106207,2026-08-12 19:19:35,T2,Delivery,DP-61AF97,Mango Lassi; Dal Makhani; Butter Chicken Plate,$31.00,2.94,33.94,N
+CHK-106209,08/12/2026 07:31 PM,T1,Takeout,,Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl,35.50,$3.37,38.87,N
+CHK-106211,08/12/2026 07:33 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Chicken Tikka Bowl,30.00,2.85,32.85,N
+CHK-106214,08/12/2026 07:40 PM,T1,Dine In,,Samosa (2); Garlic Naan,9.50,0.90,10.40,N
+CHK-106216,08/12/2026 07:43 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106218,2026-08-12 19:44:41,T2,Dine In,,Chana Masala Bowl; Garlic Naan; Butter Chicken Plate,$31.50,2.99,34.49,N
+CHK-106220,08/12/2026 07:52 PM,T1,Takeout,,Paneer Wrap; Mango Lassi,$16.50,1.57,18.07,N
+CHK-106221,2026-08-12 19:54:32,T2,Dine In,,Chicken Tikka Bowl; Dal Makhani; Samosa (2),30.50,2.90,33.40,N
+CHK-106222,08/12/2026 07:55 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-106224,08/12/2026 08:04 PM,T1,delivery ,DP-3B60BC,Dal Makhani; Paneer Wrap,21.50,2.04,23.54,N
+CHK-106225,08/12/2026 08:14 PM,T1,DELIVERY,DP-F5D103,Paneer Wrap; Garlic Naan; Samosa (2),21.00,2.00,23.00,N
+CHK-106226,08/12/2026 08:16 PM,T1,Dine In,,Garlic Naan; Chana Masala Bowl; Paneer Wrap,27.00,2.56,29.56,N
+CHK-106229,08/12/2026 08:40 PM,T1,Dine In,,Dal Makhani; Chicken Tikka Bowl,$24.50,2.33,26.83,N
+CHK-106230,08/12/2026 08:43 PM,T1,Delivery,DP-B591C4,Chana Masala Bowl; Butter Chicken Plate; Samosa (2),34.00,3.23,37.23,N
+CHK-106233,08/12/2026 08:45 PM,T1,Takeout,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106236,08/12/2026 08:51 PM,T1,DELIVERY,DP-69E08F,Garlic Naan; Dal Makhani,$13.50,1.28,14.78,N
+CHK-106239,08/12/2026 09:00 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106240,08/12/2026 09:07 PM,T1,Takeout,,Garlic Naan,3.50,0.33,$3.83,N
+CHK-106242,08/12/2026 09:19 PM,T1,Takeout,,Samosa (2); Samosa (2); Butter Chicken Plate,$28.00,$2.66,30.66,N
+CHK-106243,08/12/2026 09:43 PM,T1,Takeout,,Samosa (2); Samosa (2),12.00,$1.14,13.14,N
+CHK-106246,08/12/2026 09:59 PM,T1,Dine In,,Dal Makhani; Paneer Wrap; Garlic Naan; Mango Lassi,30.00,2.85,32.85,N
+CHK-106248,08/13/2026 11:03 AM,T1,delivery ,,Garlic Naan; Garlic Naan,7.00,0.67,7.67,N
+CHK-106251,08/13/2026 11:10 AM,T1,Dine In,,Mango Lassi; Dal Makhani; Dal Makhani,25.00,2.38,27.38,N
+CHK-106253,2026-08-13 11:15:57,T2,DELIVERY,DP-89FE25,Paneer Wrap; Samosa (2); Chicken Tikka Bowl,32.00,3.04,35.04,N
+CHK-106254,08/13/2026 11:18 AM,T1,Dine In,,Garlic Naan; Mango Lassi; Chicken Tikka Bowl,$23.00,2.19,25.19,N
+CHK-106257,08/13/2026 11:20 AM,T1,delivery ,,Garlic Naan; Dal Makhani,13.50,1.28,14.78,N
+CHK-106259,08/13/2026 11:20 AM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-106261,08/13/2026 11:21 AM,T1,DELIVERY,,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,$19.71,N
+CHK-106264,08/13/2026 11:21 AM,T1,Takeout,,Samosa (2); Samosa (2),12.00,1.14,13.14,N
+CHK-106265,08/13/2026 11:22 AM,T1,Takeout,,Butter Chicken Plate; Samosa (2); Mango Lassi,27.00,2.56,29.56,N
+CHK-106268,2026-08-13 11:31:52,T2,Dine In,,Chicken Tikka Bowl; Dal Makhani,24.50,2.33,26.83,N
+CHK-106271,08/13/2026 11:42 AM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl,$24.00,2.28,26.28,N
+CHK-106272,08/13/2026 12:09 PM,T1,Delivery,DP-80B331,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106274,08/13/2026 12:09 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106276,2026-08-13 12:12:29,T2,DELIVERY,DP-D07F43,Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl,$32.50,$3.09,35.59,N
+CHK-106277,2026-08-13 12:12:30,T2,Takeout,,Samosa (2); Garlic Naan; Butter Chicken Plate,25.50,2.42,27.92,N
+CHK-106280,08/13/2026 12:14 PM,T1,Dine In,,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-106283,08/13/2026 12:14 PM,T1,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl,26.50,2.52,29.02,N
+CHK-106284,08/13/2026 12:16 PM,T1,Dine In,,Dal Makhani,$10.00,0.95,10.95,N
+CHK-106285,08/13/2026 12:20 PM,T1,delivery ,,Garlic Naan; Chicken Tikka Bowl; Butter Chicken Plate,34.00,3.23,37.23,N
+CHK-106286,08/13/2026 12:24 PM,T1,Delivery,DP-9EAB03,Mango Lassi,5.00,0.47,5.47,N
+CHK-106288,08/13/2026 12:26 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-106291,08/13/2026 12:26 PM,T1,DELIVERY,DP-7E3D3D,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106293,2026-08-13 12:27:40,T2,Delivery,dp-1ed305,Chicken Tikka Bowl; Samosa (2); Samosa (2),26.50,2.52,29.02,N
+CHK-106295,08/13/2026 12:33 PM,T1,Delivery,DP-3C1CCB,Dal Makhani; Garlic Naan; Mango Lassi; Chicken Tikka Bowl,$33.00,$3.14,36.14,N
+CHK-106297,2026-08-13 12:35:36,T2,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-106300,08/13/2026 12:44 PM,T1,Takeout,,Chana Masala Bowl; Samosa (2); Butter Chicken Plate; Dal Makhani; Samosa (2),$50.00,4.75,54.75,N
+CHK-106301,08/13/2026 12:44 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-106303,08/13/2026 12:48 PM,T1,DELIVERY,dp-94c20f,Paneer Wrap; Paneer Wrap; Samosa (2); Chicken Tikka Bowl; Dal Makhani,53.50,5.08,$58.58,N
+CHK-106306,08/13/2026 12:49 PM,T1,Delivery,dp-93d20a,Chicken Tikka Bowl; Chana Masala Bowl; Butter Chicken Plate; Samosa (2),48.50,4.61,53.11,N
+CHK-106309,08/13/2026 12:50 PM,T1,Delivery,,Dal Makhani; Mango Lassi; Garlic Naan; Dal Makhani,28.50,2.71,31.21,N
+CHK-106311,2026-08-13 12:56:27,T2,delivery ,DP-42EFA3,Samosa (2),6.00,0.57,6.57,N
+CHK-106313,08/13/2026 01:00 PM,T1,Dine In,,Chana Masala Bowl; Chicken Tikka Bowl; Chana Masala Bowl,$38.50,3.66,42.16,N
+CHK-106314,08/13/2026 01:12 PM,T1,Takeout,,Dal Makhani; Mango Lassi; Chicken Tikka Bowl; Chana Masala Bowl,41.50,3.94,45.44,N
+CHK-106315,08/13/2026 01:13 PM,T1,Takeout,,Garlic Naan; Chana Masala Bowl; Dal Makhani; Samosa (2),31.50,$2.99,$34.49,N
+CHK-106317,08/13/2026 01:18 PM,T1,Delivery,DP-BC8F7F,Chicken Tikka Bowl; Paneer Wrap; Butter Chicken Plate,42.00,3.99,45.99,N
+CHK-106319,2026-08-13 13:20:48,T2,DELIVERY,DP-5C155A,Garlic Naan; Garlic Naan,7.00,0.67,7.67,N
+CHK-106322,08/13/2026 01:20 PM,T1,Takeout,,Mango Lassi; Garlic Naan; Mango Lassi,13.50,1.28,14.78,N
+CHK-106324,08/13/2026 01:23 PM,T1,Dine In,,Garlic Naan; Dal Makhani; Chicken Tikka Bowl; Mango Lassi,33.00,3.14,36.14,N
+CHK-106325,08/13/2026 01:24 PM,T1,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl; Dal Makhani,36.50,3.47,39.97,N
+CHK-106328,08/13/2026 01:27 PM,T1,delivery ,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-106329,08/13/2026 01:28 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106332,08/13/2026 01:34 PM,T1,Takeout,,Paneer Wrap; Chana Masala Bowl; Chana Masala Bowl; Butter Chicken Plate; Chicken Tikka Bowl,66.00,6.27,72.27,N
+CHK-106333,08/13/2026 01:52 PM,T1,DELIVERY,DP-C751AB,Dal Makhani; Chicken Tikka Bowl; Samosa (2),30.50,2.90,33.40,N
+CHK-106334,08/13/2026 01:54 PM,T1,Takeout,,Chicken Tikka Bowl; Garlic Naan,18.00,$1.71,19.71,N
+CHK-106336,08/13/2026 01:56 PM,T1,Takeout,,Chana Masala Bowl; Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-106337,08/13/2026 02:19 PM,T1,delivery ,,Mango Lassi; Mango Lassi; Samosa (2),16.00,1.52,17.52,N
+CHK-106340,08/13/2026 02:26 PM,T1,Dine In,,Chicken Tikka Bowl; Garlic Naan; Paneer Wrap; Dal Makhani,39.50,$3.75,43.25,N
+CHK-106342,08/13/2026 02:38 PM,T1,Takeout,,Dal Makhani,10.00,0.95,$10.95,N
+CHK-106344,08/13/2026 02:44 PM,T1,Takeout,,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-106347,08/13/2026 03:00 PM,T1,Delivery,DP-4E6515,Chana Masala Bowl,12.00,$1.14,13.14,N
+CHK-106349,08/13/2026 03:09 PM,T1,Takeout,,Paneer Wrap; Garlic Naan; Chicken Tikka Bowl; Garlic Naan; Garlic Naan,36.50,$3.47,39.97,N
+CHK-106352,08/13/2026 03:16 PM,T1,Delivery,DP-5505D0,Dal Makhani,10.00,0.95,$10.95,N
+CHK-106353,08/13/2026 03:25 PM,T1,Dine In,,Garlic Naan; Chana Masala Bowl; Paneer Wrap; Samosa (2); Garlic Naan,36.50,3.47,39.97,N
+CHK-106355,08/13/2026 04:03 PM,T1,DELIVERY,DP-E1A019,Paneer Wrap; Chana Masala Bowl; Garlic Naan,27.00,2.56,29.56,N
+CHK-106356,08/13/2026 04:13 PM,T1,Takeout,,Mango Lassi; Butter Chicken Plate; Chana Masala Bowl; Chana Masala Bowl,45.00,4.28,49.28,N
+CHK-106357,08/13/2026 04:21 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,$12.59,N
+CHK-106359,08/13/2026 04:22 PM,T1,Delivery,DP-071CA8,Samosa (2),6.00,0.57,6.57,N
+CHK-106360,08/13/2026 04:26 PM,T1,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106361,08/13/2026 05:47 PM,T1,Delivery,DP-3C7B19,Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl; Garlic Naan; Garlic Naan,37.00,3.52,40.52,N
+CHK-106364,08/13/2026 05:57 PM,T1,Delivery,dp-0e0d90,Mango Lassi; Samosa (2),11.00,1.04,12.04,N
+CHK-106365,08/13/2026 06:01 PM,T1,Dine In,,Samosa (2),6.00,0.57,6.57,N
+CHK-106367,08/13/2026 06:01 PM,T1,Takeout,,Paneer Wrap; Mango Lassi; Butter Chicken Plate,$32.50,3.09,35.59,N
+CHK-106370,08/13/2026 06:07 PM,T1,Takeout,,Dal Makhani; Samosa (2); Chicken Tikka Bowl,$30.50,2.90,33.40,N
+CHK-106372,08/13/2026 06:11 PM,T1,DELIVERY,DP-971881,Chana Masala Bowl; Chana Masala Bowl; Samosa (2),30.00,2.85,32.85,N
+CHK-106373,08/13/2026 06:21 PM,T1,Takeout,,Chicken Tikka Bowl; Butter Chicken Plate; Garlic Naan,34.00,3.23,37.23,N
+CHK-106374,2026-08-13 18:25:40,T2,delivery ,DP-7A9A17,Dal Makhani; Paneer Wrap; Paneer Wrap; Paneer Wrap,$44.50,4.23,48.73,N
+CHK-106375,2026-08-13 18:27:59,T2,Takeout,,Butter Chicken Plate; Garlic Naan; Butter Chicken Plate,35.50,3.37,38.87,N
+CHK-106376,2026-08-13 18:28:22,T2,Delivery,DP-734882,Chicken Tikka Bowl,14.50,1.38,$15.88,N
+CHK-106378,2026-08-13 18:33:30,T2,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-106381,08/13/2026 06:43 PM,T1,Dine In,,Mango Lassi; Paneer Wrap; Chana Masala Bowl; Butter Chicken Plate,44.50,4.23,48.73,N
+CHK-106382,08/13/2026 06:54 PM,T1,Takeout,,Dal Makhani; Garlic Naan; Mango Lassi; Chana Masala Bowl,30.50,2.90,33.40,N
+CHK-106385,08/13/2026 06:54 PM,T1,Delivery,,Dal Makhani,10.00,$0.95,10.95,N
+CHK-106388,2026-08-13 18:57:37,T2,delivery ,,Garlic Naan; Dal Makhani,13.50,1.28,14.78,N
+CHK-106390,08/13/2026 07:05 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl; Chicken Tikka Bowl; Butter Chicken Plate,63.00,5.99,68.99,N
+CHK-106391,08/13/2026 07:15 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106394,2026-08-13 19:18:35,T2,Takeout,,Dal Makhani; Mango Lassi; Garlic Naan,18.50,1.76,20.26,N
+CHK-106396,08/13/2026 07:23 PM,T1,Dine In,,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106399,08/13/2026 07:32 PM,T1,Dine In,,Paneer Wrap; Mango Lassi,16.50,1.57,18.07,N
+CHK-106402,08/13/2026 07:34 PM,T1,Dine In,,Mango Lassi; Chicken Tikka Bowl,19.50,$1.85,$21.35,N
+CHK-106403,2026-08-13 19:37:42,T2,delivery ,A48165,Butter Chicken Plate; Samosa (2); Paneer Wrap,33.50,3.18,36.68,N
+CHK-106405,2026-08-13 19:38:44,T2,Dine In,,Dal Makhani; Paneer Wrap; Butter Chicken Plate,37.50,3.56,$41.06,N
+CHK-106407,08/13/2026 07:39 PM,T1,Takeout,,Mango Lassi; Garlic Naan; Samosa (2),14.50,1.38,$15.88,N
+CHK-106409,08/13/2026 07:46 PM,T1,Dine In,,Dal Makhani; Paneer Wrap; Chicken Tikka Bowl; Dal Makhani; Butter Chicken Plate,$62.00,5.89,67.89,N
+CHK-106411,08/13/2026 07:54 PM,T1,Takeout,,Paneer Wrap,11.50,1.09,12.59,N
+CHK-106413,2026-08-13 19:58:54,T2,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Chicken Tikka Bowl; Dal Makhani,48.50,4.61,53.11,N
+CHK-106414,08/13/2026 07:59 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106415,08/13/2026 08:02 PM,T1,delivery ,,Chana Masala Bowl; Samosa (2); Dal Makhani,28.00,2.66,30.66,N
+CHK-106416,2026-08-13 20:05:55,T2,DELIVERY,DP-9FF1DF,Paneer Wrap; Paneer Wrap; Paneer Wrap,34.50,3.28,37.78,N
+CHK-106417,08/13/2026 08:06 PM,T1,Dine In,,Garlic Naan; Chana Masala Bowl; Chicken Tikka Bowl; Samosa (2); Garlic Naan,$39.50,3.75,43.25,N
+CHK-106420,08/13/2026 08:11 PM,T1,delivery ,DP-AB65AD,Mango Lassi; Chana Masala Bowl; Garlic Naan,20.50,1.95,$22.45,N
+CHK-106421,08/13/2026 08:13 PM,T1,Takeout,,Mango Lassi; Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl,40.50,3.85,44.35,N
+CHK-106422,08/13/2026 08:35 PM,T1,Delivery,DP-5555B0,Chana Masala Bowl; Samosa (2); Garlic Naan,21.50,2.04,23.54,N
+CHK-106425,08/13/2026 08:42 PM,T1,DELIVERY,DP-29500D,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-106428,08/13/2026 08:43 PM,T1,Dine In,,Mango Lassi; Butter Chicken Plate; Garlic Naan,24.50,2.33,26.83,N
+CHK-106429,08/13/2026 08:52 PM,T1,DELIVERY,DP-107212,Paneer Wrap; Samosa (2); Paneer Wrap,29.00,2.75,31.75,N
+CHK-106431,08/13/2026 08:53 PM,T1,Takeout,,Chicken Tikka Bowl; Garlic Naan,18.00,1.71,19.71,N
+CHK-106434,08/13/2026 09:00 PM,T1,Dine In,,Garlic Naan; Samosa (2); Butter Chicken Plate; Butter Chicken Plate,41.50,3.94,45.44,N
+CHK-106435,2026-08-13 21:03:14,T2,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl,26.50,2.52,29.02,N
+CHK-106438,08/13/2026 09:21 PM,T1,Delivery,DP-1AC8C3,Garlic Naan; Chicken Tikka Bowl; Mango Lassi; Garlic Naan; Chana Masala Bowl,38.50,3.66,42.16,N
+CHK-106440,08/13/2026 09:24 PM,T1,Takeout,,Paneer Wrap; Paneer Wrap; Paneer Wrap,34.50,$3.28,37.78,N
+CHK-106443,2026-08-13 21:28:37,T2,delivery ,DP-47366D,Dal Makhani,10.00,0.95,10.95,N
+CHK-106444,08/14/2026 11:01 AM,T1,Dine In,,Samosa (2); Paneer Wrap,17.50,1.66,$19.16,N
+CHK-106446,08/14/2026 11:02 AM,T1,Delivery,DP-4DC046,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106448,08/14/2026 11:12 AM,T1,DELIVERY,DP-E1B458,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-106449,08/14/2026 11:25 AM,T1,DELIVERY,DP-E1AE32,Garlic Naan; Garlic Naan; Dal Makhani,17.00,1.61,18.61,N
+CHK-106451,08/14/2026 11:31 AM,T1,Delivery,DP-0BE157,Mango Lassi; Mango Lassi; Butter Chicken Plate; Dal Makhani; Paneer Wrap,47.50,4.51,52.01,N
+CHK-106454,08/14/2026 11:37 AM,T1,Takeout,,Chana Masala Bowl; Samosa (2); Paneer Wrap,29.50,2.80,32.30,N
+CHK-106456,08/14/2026 11:42 AM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl,38.50,3.66,42.16,N
+CHK-106458,08/14/2026 11:52 AM,T1,DELIVERY,DP-F646C9,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-106461,08/14/2026 11:54 AM,T1,DELIVERY,DP-A41475,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106464,08/14/2026 11:55 AM,T1,Takeout,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-106466,08/14/2026 11:59 AM,T1,Takeout,,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-106469,08/14/2026 12:02 PM,T1,Delivery,DP-40FAA2,Dal Makhani; Samosa (2),16.00,$1.52,17.52,N
+CHK-106471,08/14/2026 12:10 PM,T1,Dine In,,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-106473,2026-08-14 12:19:29,T2,Dine In,,Chicken Tikka Bowl; Paneer Wrap,26.00,2.47,28.47,N
+CHK-106474,08/14/2026 12:21 PM,T1,DELIVERY,dp-7645d4,Mango Lassi; Mango Lassi; Mango Lassi; Mango Lassi,20.00,1.90,$21.90,N
+CHK-106476,08/14/2026 12:24 PM,T1,Delivery,DP-06B17C,Samosa (2); Samosa (2); Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-106478,2026-08-14 12:25:01,T2,delivery ,DP-FB5DED,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106480,08/14/2026 12:29 PM,T1,delivery ,DP-C8D29E,Mango Lassi; Paneer Wrap,16.50,1.57,18.07,N
+CHK-106483,08/14/2026 12:36 PM,T1,Delivery,DP-1AA096,Garlic Naan,3.50,0.33,3.83,N
+CHK-106485,08/14/2026 12:38 PM,T1,DELIVERY,DP-23A9A7,Chicken Tikka Bowl; Butter Chicken Plate,30.50,2.90,33.40,N
+CHK-106486,08/14/2026 12:39 PM,T1,Dine In,,Mango Lassi; Butter Chicken Plate,$21.00,$2.00,23.00,N
+CHK-106489,08/14/2026 12:43 PM,T1,Takeout,,Chicken Tikka Bowl; Samosa (2),20.50,1.95,22.45,N
+CHK-106490,08/14/2026 12:47 PM,T1,Takeout,,Chana Masala Bowl; Paneer Wrap; Dal Makhani; Chicken Tikka Bowl,$48.00,4.56,52.56,N
+CHK-106491,08/14/2026 12:50 PM,T1,delivery ,DP-EF2446,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-106494,08/14/2026 01:00 PM,T1,DELIVERY,,Chicken Tikka Bowl; Chana Masala Bowl; Garlic Naan; Butter Chicken Plate,46.00,4.37,50.37,N
+CHK-106497,08/14/2026 01:09 PM,T1,Delivery,DP-CAABFB,Chana Masala Bowl,12.00,$1.14,$13.14,N
+CHK-106500,08/14/2026 01:16 PM,T1,DELIVERY,DP-8A3458,Dal Makhani; Butter Chicken Plate; Mango Lassi,31.00,2.94,33.94,N
+CHK-106503,08/14/2026 01:17 PM,T1,Delivery,DP-D61984,Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl; Chicken Tikka Bowl,44.50,4.23,48.73,N
+CHK-106504,08/14/2026 01:22 PM,T1,Takeout,,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-106506,08/14/2026 01:30 PM,T1,DELIVERY,DP-2FFF48,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-106507,08/14/2026 01:40 PM,T1,delivery ,DP-0AF780,Chicken Tikka Bowl; Chana Masala Bowl; Garlic Naan; Chicken Tikka Bowl,44.50,4.23,48.73,N
+CHK-106508,2026-08-14 13:51:36,T2,Takeout,,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-106509,08/14/2026 01:53 PM,T1,Delivery,,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-106512,08/14/2026 01:56 PM,T1,DELIVERY,DP-5604AC,Dal Makhani; Butter Chicken Plate; Garlic Naan,29.50,2.80,32.30,N
+CHK-106515,08/14/2026 01:58 PM,T1,Dine In,,Chana Masala Bowl; Chicken Tikka Bowl; Samosa (2); Garlic Naan,36.00,3.42,39.42,N
+CHK-106518,08/14/2026 02:00 PM,T1,Delivery,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-106521,08/14/2026 02:02 PM,T1,delivery ,,Mango Lassi; Chana Masala Bowl,$17.00,1.61,18.61,N
+CHK-106523,08/14/2026 02:44 PM,T1,delivery ,,Samosa (2); Dal Makhani; Butter Chicken Plate; Mango Lassi; Garlic Naan,$40.50,3.85,44.35,N
+CHK-106525,08/14/2026 02:55 PM,T1,Dine In,,Samosa (2); Samosa (2); Samosa (2),18.00,1.71,19.71,N
+CHK-106528,08/14/2026 03:07 PM,T1,delivery ,DP-B2AF19,Garlic Naan; Chana Masala Bowl,15.50,$1.47,16.97,N
+CHK-106529,08/14/2026 03:09 PM,T1,Delivery,,Butter Chicken Plate; Chana Masala Bowl,28.00,$2.66,30.66,N
+CHK-106531,08/14/2026 03:12 PM,T1,delivery ,DP-CC131E,Paneer Wrap; Mango Lassi; Chana Masala Bowl,28.50,2.71,31.21,N
+CHK-106534,2026-08-14 15:16:09,T2,DELIVERY,,Paneer Wrap; Samosa (2); Samosa (2); Mango Lassi; Chicken Tikka Bowl,43.00,$4.08,47.08,N
+CHK-106536,08/14/2026 03:18 PM,T1,delivery ,DP-1B42F7,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-106538,08/14/2026 03:23 PM,T1,Delivery,DP-A16CE3,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-106541,08/14/2026 03:32 PM,T1,DELIVERY,DP-BD98DF,Dal Makhani; Chicken Tikka Bowl; Paneer Wrap,36.00,3.42,39.42,N
+CHK-106544,08/14/2026 03:45 PM,T1,DELIVERY,DP-BFBE54,Paneer Wrap; Butter Chicken Plate; Garlic Naan,31.00,2.94,33.94,N
+CHK-106547,2026-08-14 15:52:30,T2,Dine In,,Paneer Wrap; Samosa (2); Paneer Wrap,29.00,2.75,31.75,N
+CHK-106550,08/14/2026 04:05 PM,T1,Dine In,,Garlic Naan; Mango Lassi; Samosa (2),14.50,1.38,$15.88,N
+CHK-106552,08/14/2026 04:12 PM,T1,delivery ,DP-77592C,Samosa (2); Butter Chicken Plate; Samosa (2); Dal Makhani,38.00,3.61,41.61,N
+CHK-106553,2026-08-14 16:15:00,T2,Dine In,,Mango Lassi; Paneer Wrap; Chicken Tikka Bowl; Mango Lassi,36.00,3.42,39.42,N
+CHK-106556,08/14/2026 04:20 PM,T1,Delivery,dp-b92f83,Mango Lassi; Chicken Tikka Bowl,19.50,1.85,21.35,N
+CHK-106559,08/14/2026 04:24 PM,T1,Takeout,,Samosa (2),6.00,$0.57,6.57,N
+CHK-106560,08/14/2026 04:27 PM,T1,Delivery,dp-98fc18,Paneer Wrap; Mango Lassi; Mango Lassi; Dal Makhani,31.50,2.99,34.49,N
+CHK-106563,2026-08-14 16:31:53,T2,Takeout,,Dal Makhani; Chicken Tikka Bowl; Butter Chicken Plate; Chicken Tikka Bowl,55.00,5.22,60.22,N
+CHK-106566,2026-08-14 16:38:42,T2,Takeout,,Garlic Naan; Garlic Naan; Paneer Wrap,18.50,1.76,20.26,N
+CHK-106568,08/14/2026 05:02 PM,T1,delivery ,DP-0C536D,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-106570,08/14/2026 05:15 PM,T1,delivery ,DP-144478,Chicken Tikka Bowl; Butter Chicken Plate; Paneer Wrap,$42.00,3.99,45.99,N
+CHK-106571,08/14/2026 05:17 PM,T1,Dine In,,Chicken Tikka Bowl; Butter Chicken Plate,30.50,$2.90,33.40,N
+CHK-106573,08/14/2026 05:17 PM,T1,Delivery,DP-389056,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-106574,08/14/2026 05:18 PM,T1,Takeout,,Garlic Naan; Paneer Wrap; Paneer Wrap,$26.50,2.52,29.02,N
+CHK-106575,08/14/2026 05:27 PM,T1,delivery ,DP-6898CF,Paneer Wrap,11.50,$1.09,12.59,N
+CHK-106576,08/14/2026 05:29 PM,T1,Delivery,,Mango Lassi; Mango Lassi; Garlic Naan,13.50,1.28,$14.78,N
+CHK-106577,2026-08-14 17:52:22,T2,Dine In,,Chana Masala Bowl,12.00,$1.14,13.14,N
+CHK-106580,08/14/2026 05:59 PM,T1,Dine In,,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106581,2026-08-14 18:00:46,T2,Takeout,,Chana Masala Bowl; Paneer Wrap,23.50,2.23,25.73,N
+CHK-106584,08/14/2026 06:03 PM,T1,Delivery,DP-13F729,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106585,08/14/2026 06:03 PM,T1,delivery ,DP-64B238,Mango Lassi; Mango Lassi; Samosa (2),16.00,1.52,17.52,N
+CHK-106588,08/14/2026 06:05 PM,T1,Dine In,,Chicken Tikka Bowl; Butter Chicken Plate; Chicken Tikka Bowl; Butter Chicken Plate; Garlic Naan,64.50,$6.13,$70.63,N
+CHK-106591,2026-08-14 18:08:05,T2,Dine In,,Chana Masala Bowl; Paneer Wrap,23.50,2.23,25.73,N
+CHK-106594,08/14/2026 06:11 PM,T1,delivery ,DP-5DAA0A,Chana Masala Bowl; Chana Masala Bowl; Dal Makhani; Butter Chicken Plate,50.00,4.75,$54.75,N
+CHK-106596,2026-08-14 18:12:11,T2,delivery ,DP-CAD94A,Chicken Tikka Bowl; Garlic Naan; Chicken Tikka Bowl,32.50,3.09,$35.59,N
+CHK-106597,08/14/2026 06:16 PM,T1,Dine In,,Samosa (2),6.00,0.57,6.57,N
+CHK-106600,08/14/2026 06:18 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Dal Makhani; Paneer Wrap,37.00,3.52,40.52,N
+CHK-106601,08/14/2026 06:18 PM,T1,Delivery,DP-D76444,Dal Makhani; Chicken Tikka Bowl; Chicken Tikka Bowl; Samosa (2),45.00,4.28,49.28,N
+CHK-106602,2026-08-14 18:22:57,T2,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106605,08/14/2026 06:25 PM,T1,Dine In,,Mango Lassi; Mango Lassi,10.00,0.95,$10.95,N
+CHK-106606,08/14/2026 06:37 PM,T1,DELIVERY,DP-78AD9A,Dal Makhani,10.00,$0.95,10.95,N
+CHK-106607,08/14/2026 06:41 PM,T1,Dine In,,Butter Chicken Plate; Chana Masala Bowl; Chicken Tikka Bowl,42.50,4.04,46.54,N
+CHK-106608,08/14/2026 06:51 PM,T1,Takeout,,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-106610,2026-08-14 19:00:18,T2,Takeout,,Mango Lassi; Mango Lassi; Chana Masala Bowl; Samosa (2),28.00,$2.66,$30.66,N
+CHK-106612,08/14/2026 07:04 PM,T1,DELIVERY,DP-CCBA28,Garlic Naan; Chana Masala Bowl,15.50,1.47,16.97,N
+CHK-106615,2026-08-14 19:04:43,T2,Delivery,DP-9E8CDA,Samosa (2); Paneer Wrap; Garlic Naan,21.00,2.00,23.00,N
+CHK-106617,08/14/2026 07:08 PM,T1,DELIVERY,DP-493AF2,Mango Lassi,5.00,0.47,5.47,N
+CHK-106619,08/14/2026 07:10 PM,T1,Dine In,,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-106620,08/14/2026 07:11 PM,T1,Takeout,,Samosa (2); Chicken Tikka Bowl; Mango Lassi; Paneer Wrap; Dal Makhani,47.00,$4.46,51.46,N
+CHK-106622,08/14/2026 07:14 PM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl; Mango Lassi; Chana Masala Bowl,45.00,4.28,49.28,N
+CHK-106625,08/14/2026 07:18 PM,T1,Delivery,DP-0D3C49,Paneer Wrap; Butter Chicken Plate; Garlic Naan,$31.00,$2.94,33.94,N
+CHK-106627,08/14/2026 07:18 PM,T1,Dine In,,Garlic Naan; Samosa (2); Paneer Wrap; Mango Lassi; Paneer Wrap,37.50,$3.56,$41.06,N
+CHK-106630,2026-08-14 19:19:57,T2,Delivery,DP-C1F503,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-106632,2026-08-14 19:23:07,T2,DELIVERY,,Chana Masala Bowl; Garlic Naan; Dal Makhani,25.50,2.42,27.92,N
+CHK-106633,08/14/2026 07:27 PM,T1,Dine In,,Butter Chicken Plate,$16.00,1.52,$17.52,N
+CHK-106635,2026-08-14 19:30:50,T2,Takeout,,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-106638,08/14/2026 07:34 PM,T1,Dine In,,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-106641,08/14/2026 07:36 PM,T1,Delivery,DP-35DC9E,Garlic Naan,$3.50,0.33,3.83,N
+CHK-106644,08/14/2026 07:36 PM,T1,DELIVERY,DP-03C781,Butter Chicken Plate; Paneer Wrap; Paneer Wrap,39.00,3.71,$42.71,N
+CHK-106646,2026-08-14 19:37:36,T2,Dine In,,Chicken Tikka Bowl; Dal Makhani,24.50,2.33,26.83,N
+CHK-106647,08/14/2026 07:37 PM,T1,Delivery,dp-8212df,Chicken Tikka Bowl; Butter Chicken Plate; Dal Makhani,40.50,3.85,44.35,N
+CHK-106649,08/14/2026 07:39 PM,T1,Takeout,,Samosa (2); Paneer Wrap; Butter Chicken Plate; Butter Chicken Plate; Mango Lassi,54.50,5.18,59.68,N
+CHK-106650,08/14/2026 07:40 PM,T1,DELIVERY,DP-14DD3C,Chicken Tikka Bowl; Butter Chicken Plate; Chicken Tikka Bowl; Paneer Wrap,56.50,5.37,61.87,N
+CHK-106653,2026-08-14 19:41:45,T2,Takeout,,Butter Chicken Plate; Garlic Naan,19.50,1.85,21.35,N
+CHK-106655,08/14/2026 07:42 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106658,08/14/2026 07:44 PM,T1,Delivery,,Garlic Naan; Chicken Tikka Bowl,18.00,$1.71,19.71,N
+CHK-106660,08/14/2026 07:45 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,$15.88,N
+CHK-106661,08/14/2026 07:53 PM,T1,Dine In,,Chana Masala Bowl; Samosa (2),18.00,1.71,19.71,N
+CHK-106664,08/14/2026 07:53 PM,T1,DELIVERY,DP-049E05,Butter Chicken Plate; Dal Makhani; Butter Chicken Plate; Butter Chicken Plate; Chana Masala Bowl,70.00,6.65,76.65,N
+CHK-106665,2026-08-14 19:53:59,T2,Takeout,,Garlic Naan; Butter Chicken Plate; Mango Lassi,24.50,2.33,26.83,N
+CHK-106666,2026-08-14 19:55:01,T2,Takeout,,Paneer Wrap; Samosa (2),17.50,$1.66,19.16,N
+CHK-106667,08/14/2026 07:58 PM,T1,Delivery,DP-62721F,Butter Chicken Plate; Garlic Naan,$19.50,1.85,21.35,N
+CHK-106670,2026-08-14 20:02:47,T2,delivery ,DP-1DD5C2,Dal Makhani; Samosa (2),16.00,1.52,17.52,N
+CHK-106672,08/14/2026 08:12 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl; Mango Lassi,$34.00,3.23,37.23,N
+CHK-106674,08/14/2026 08:23 PM,T1,Takeout,,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-106677,08/14/2026 08:24 PM,T1,Takeout,,Dal Makhani; Samosa (2); Garlic Naan,$19.50,1.85,21.35,N
+CHK-106678,08/14/2026 08:31 PM,T1,DELIVERY,,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-106680,2026-08-14 20:40:15,T2,delivery ,DP-E2E4CC,Samosa (2),6.00,0.57,6.57,N
+CHK-106682,08/14/2026 08:42 PM,T1,Takeout,,Chana Masala Bowl; Chana Masala Bowl; Paneer Wrap; Dal Makhani,45.50,4.32,49.82,N
+CHK-106683,08/14/2026 08:44 PM,T1,Takeout,,Chicken Tikka Bowl; Butter Chicken Plate,30.50,2.90,33.40,N
+CHK-106686,08/14/2026 08:44 PM,T1,Dine In,,Mango Lassi; Chana Masala Bowl; Butter Chicken Plate,33.00,3.14,$36.14,N
+CHK-106687,08/14/2026 08:47 PM,T1,Delivery,DP-CD581E,Butter Chicken Plate; Chicken Tikka Bowl; Chicken Tikka Bowl,45.00,4.28,$49.28,N
+CHK-106689,08/14/2026 08:54 PM,T1,Takeout,,Chana Masala Bowl; Garlic Naan,$15.50,1.47,16.97,N
+CHK-106690,08/14/2026 08:58 PM,T1,Takeout,,Samosa (2); Chicken Tikka Bowl; Chicken Tikka Bowl; Butter Chicken Plate; Butter Chicken Plate,67.00,6.37,73.37,N
+CHK-106693,2026-08-14 21:00:58,T2,delivery ,,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,$26.28,N
+CHK-106696,08/14/2026 09:19 PM,T1,Delivery,DP-8E37B3,Paneer Wrap; Samosa (2); Chicken Tikka Bowl,32.00,3.04,35.04,N
+CHK-106697,2026-08-14 21:23:37,T2,delivery ,DP-A792A4,Butter Chicken Plate; Dal Makhani; Dal Makhani,36.00,3.42,39.42,N
+CHK-106698,2026-08-14 21:26:20,T2,Dine In,,Samosa (2); Butter Chicken Plate,22.00,2.09,24.09,N
+CHK-106700,08/14/2026 09:41 PM,T1,Takeout,,Butter Chicken Plate; Dal Makhani,26.00,2.47,28.47,N
+CHK-106703,08/14/2026 09:43 PM,T1,Delivery,DP-7BF07E,Butter Chicken Plate; Chana Masala Bowl; Butter Chicken Plate,44.00,4.18,48.18,N
+CHK-106706,08/14/2026 09:45 PM,T1,Dine In,,Samosa (2); Dal Makhani,16.00,1.52,17.52,N
+CHK-106708,08/15/2026 11:05 AM,T1,Dine In,,Chicken Tikka Bowl; Dal Makhani; Chicken Tikka Bowl,39.00,3.71,$42.71,N
+CHK-106711,08/15/2026 11:09 AM,T1,Delivery,,Paneer Wrap; Chicken Tikka Bowl; Garlic Naan,29.50,2.80,32.30,N
+CHK-106714,2026-08-15 11:15:37,T2,Takeout,,Garlic Naan,3.50,0.33,3.83,N
+CHK-106716,2026-08-15 11:29:34,T2,DELIVERY,DP-5EC555,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-106718,08/15/2026 11:29 AM,T1,delivery ,,Butter Chicken Plate; Mango Lassi,21.00,$2.00,23.00,N
+CHK-106719,08/15/2026 11:31 AM,T1,Dine In,,Paneer Wrap; Paneer Wrap,23.00,2.19,25.19,N
+CHK-106721,08/15/2026 11:36 AM,T1,Takeout,,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-106723,08/15/2026 11:37 AM,T1,Takeout,,Chana Masala Bowl; Butter Chicken Plate; Samosa (2); Chana Masala Bowl; Mango Lassi,$51.00,$4.84,55.84,N
+CHK-106724,08/15/2026 12:05 PM,T1,Takeout,,Samosa (2); Garlic Naan; Chana Masala Bowl; Garlic Naan,25.00,$2.38,27.38,N
+CHK-106725,08/15/2026 12:06 PM,T1,Delivery,DP-0E97A3,Samosa (2),6.00,0.57,6.57,N
+CHK-106728,08/15/2026 12:06 PM,T1,Takeout,,Paneer Wrap; Mango Lassi; Dal Makhani; Garlic Naan,30.00,2.85,32.85,N
+CHK-106729,08/15/2026 12:08 PM,T1,Delivery,,Butter Chicken Plate; Garlic Naan; Samosa (2),25.50,2.42,27.92,N
+CHK-106731,2026-08-15 12:13:57,T2,Delivery,DP-60334A,Butter Chicken Plate; Garlic Naan; Chicken Tikka Bowl,34.00,3.23,37.23,N
+CHK-106733,08/15/2026 12:14 PM,T1,DELIVERY,DP-9D11B1,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106736,08/15/2026 12:16 PM,T1,delivery ,DP-C510F6,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106739,08/15/2026 12:29 PM,T1,Dine In,,Chana Masala Bowl; Paneer Wrap; Paneer Wrap,35.00,3.33,38.33,N
+CHK-106740,08/15/2026 12:35 PM,T1,DELIVERY,DP-90AF28,Samosa (2); Garlic Naan,9.50,0.90,$10.40,N
+CHK-106741,08/15/2026 12:44 PM,T1,Dine In,,Samosa (2); Garlic Naan; Mango Lassi,14.50,1.38,$15.88,N
+CHK-106743,08/15/2026 12:52 PM,T1,Delivery,,Paneer Wrap; Samosa (2); Garlic Naan,21.00,2.00,23.00,N
+CHK-106745,08/15/2026 12:54 PM,T1,Delivery,DP-F0975D,Paneer Wrap; Dal Makhani; Dal Makhani,31.50,2.99,34.49,N
+CHK-106746,08/15/2026 12:56 PM,T1,delivery ,dp-ce501e,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106748,08/15/2026 12:59 PM,T1,Dine In,,Chicken Tikka Bowl; Butter Chicken Plate; Butter Chicken Plate; Paneer Wrap,58.00,5.51,63.51,N
+CHK-106751,08/15/2026 01:04 PM,T1,DELIVERY,DP-28D127,Butter Chicken Plate; Mango Lassi,21.00,2.00,23.00,N
+CHK-106753,08/15/2026 01:05 PM,T1,Delivery,DP-085CB5,Dal Makhani; Chana Masala Bowl; Garlic Naan; Garlic Naan,29.00,2.75,31.75,N
+CHK-106756,2026-08-15 13:06:26,T2,delivery ,,Butter Chicken Plate; Chana Masala Bowl,28.00,2.66,30.66,N
+CHK-106759,08/15/2026 01:20 PM,T1,Delivery,DP-EC501D,Butter Chicken Plate; Garlic Naan; Paneer Wrap,31.00,2.94,33.94,N
+CHK-106761,08/15/2026 01:21 PM,T1,Takeout,,Samosa (2); Paneer Wrap; Chicken Tikka Bowl,32.00,3.04,35.04,N
+CHK-106762,08/15/2026 01:23 PM,T1,Delivery,,Chana Masala Bowl; Butter Chicken Plate; Samosa (2); Mango Lassi; Samosa (2),45.00,$4.28,49.28,N
+CHK-106763,08/15/2026 01:28 PM,T1,Dine In,,Samosa (2); Butter Chicken Plate; Garlic Naan,25.50,2.42,27.92,N
+CHK-106764,08/15/2026 01:32 PM,T1,Takeout,,Samosa (2); Butter Chicken Plate; Garlic Naan,25.50,$2.42,$27.92,N
+CHK-106766,08/15/2026 01:33 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Mango Lassi,20.50,1.95,22.45,N
+CHK-106767,08/15/2026 01:40 PM,T1,Delivery,DP-4DE735,Paneer Wrap; Dal Makhani; Paneer Wrap; Chicken Tikka Bowl; Dal Makhani,57.50,5.46,62.96,N
+CHK-106770,2026-08-15 13:50:55,T2,Delivery,DP 573784,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-106773,08/15/2026 01:59 PM,T1,DELIVERY,,Butter Chicken Plate; Samosa (2),22.00,2.09,24.09,N
+CHK-106776,08/15/2026 02:01 PM,T1,Delivery,dp-3d421f,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-106777,2026-08-15 14:03:26,T2,Dine In,,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,35.04,N
+CHK-106778,08/15/2026 02:32 PM,T1,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106781,08/15/2026 03:00 PM,T1,Dine In,,Garlic Naan; Garlic Naan; Samosa (2),13.00,1.24,14.24,N
+CHK-106783,08/15/2026 03:12 PM,T1,Dine In,,Samosa (2),6.00,0.57,6.57,N
+CHK-106785,2026-08-15 15:46:59,T2,delivery ,,Chicken Tikka Bowl; Chana Masala Bowl; Samosa (2),32.50,3.09,35.59,N
+CHK-106786,08/15/2026 04:06 PM,T1,DELIVERY,,Butter Chicken Plate; Chicken Tikka Bowl,30.50,2.90,33.40,N
+CHK-106788,08/15/2026 04:21 PM,T1,Dine In,,Garlic Naan; Samosa (2),9.50,0.90,10.40,N
+CHK-106791,08/15/2026 04:34 PM,T1,Takeout,,Butter Chicken Plate; Chicken Tikka Bowl; Garlic Naan,34.00,3.23,37.23,N
+CHK-106792,08/15/2026 04:40 PM,T1,Delivery,DP-375B75,Paneer Wrap,11.50,1.09,12.59,N
+CHK-106794,08/15/2026 04:56 PM,T1,Dine In,,Chicken Tikka Bowl; Paneer Wrap; Chicken Tikka Bowl,40.50,3.85,44.35,N
+CHK-106795,08/15/2026 05:05 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl,18.00,1.71,19.71,N
+CHK-106798,08/15/2026 05:05 PM,T1,DELIVERY,F7C0E9,Garlic Naan; Mango Lassi; Chana Masala Bowl,20.50,1.95,22.45,N
+CHK-106799,2026-08-15 17:11:55,T2,Takeout,,Chana Masala Bowl; Chicken Tikka Bowl; Butter Chicken Plate; Paneer Wrap,54.00,5.13,59.13,N
+CHK-106801,08/15/2026 05:19 PM,T1,Takeout,,Garlic Naan; Mango Lassi; Garlic Naan; Mango Lassi; Chicken Tikka Bowl,31.50,2.99,34.49,N
+CHK-106803,08/15/2026 05:27 PM,T1,Takeout,,Dal Makhani; Paneer Wrap; Chicken Tikka Bowl; Butter Chicken Plate; Garlic Naan,55.50,5.27,60.77,N
+CHK-106805,08/15/2026 05:32 PM,T1,Dine In,,Garlic Naan; Samosa (2); Garlic Naan,$13.00,1.24,14.24,N
+CHK-106807,08/15/2026 05:38 PM,T1,DELIVERY,DP-0A356E,Samosa (2),6.00,0.57,6.57,N
+CHK-106809,08/15/2026 05:45 PM,T1,Delivery,DP-E70BBF,Butter Chicken Plate; Paneer Wrap,27.50,2.61,30.11,N
+CHK-106812,08/15/2026 05:46 PM,T1,DELIVERY,,Mango Lassi; Butter Chicken Plate,21.00,2.00,23.00,N
+CHK-106815,08/15/2026 05:55 PM,T1,Dine In,,Chicken Tikka Bowl; Paneer Wrap; Samosa (2); Dal Makhani,42.00,3.99,45.99,N
+CHK-106818,08/15/2026 05:55 PM,T1,Delivery,DP-D66093,Mango Lassi,5.00,0.47,5.47,N
+CHK-106821,08/15/2026 06:00 PM,T1,delivery ,DP-D8F08C,Garlic Naan; Mango Lassi,8.50,0.81,9.31,N
+CHK-106824,2026-08-15 18:00:49,T2,DELIVERY,DP-B5435F,Garlic Naan; Samosa (2); Paneer Wrap; Dal Makhani; Butter Chicken Plate,47.00,4.46,51.46,N
+CHK-106825,08/15/2026 06:01 PM,T1,Dine In,,Chana Masala Bowl; Chana Masala Bowl; Dal Makhani; Chana Masala Bowl,46.00,4.37,50.37,N
+CHK-106828,08/15/2026 06:04 PM,T1,Dine In,,Paneer Wrap; Paneer Wrap; Chicken Tikka Bowl,37.50,3.56,41.06,N
+CHK-106830,08/15/2026 06:06 PM,T1,delivery ,,Mango Lassi; Samosa (2); Mango Lassi,16.00,1.52,17.52,N
+CHK-106832,08/15/2026 06:07 PM,T1,Delivery,,Samosa (2); Butter Chicken Plate; Butter Chicken Plate; Chicken Tikka Bowl; Garlic Naan,$56.00,5.32,61.32,N
+CHK-106835,08/15/2026 06:08 PM,T1,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-106836,08/15/2026 06:14 PM,T1,Delivery,DP-EBBE5D,Dal Makhani,10.00,0.95,10.95,N
+CHK-106838,08/15/2026 06:28 PM,T1,Dine In,,Paneer Wrap; Chicken Tikka Bowl; Chicken Tikka Bowl,40.50,3.85,44.35,N
+CHK-106839,2026-08-15 18:30:48,T2,DELIVERY,dp-17f5b9,Samosa (2); Paneer Wrap,17.50,1.66,19.16,N
+CHK-106840,08/15/2026 06:30 PM,T1,delivery ,DP-F2DFB6,Chana Masala Bowl; Butter Chicken Plate; Garlic Naan,31.50,2.99,34.49,N
+CHK-106842,2026-08-15 18:31:08,T2,Dine In,,Mango Lassi; Chicken Tikka Bowl; Paneer Wrap,$31.00,2.94,33.94,N
+CHK-106844,08/15/2026 06:36 PM,T1,Delivery,DP-AA3E82,Chana Masala Bowl; Samosa (2); Butter Chicken Plate; Dal Makhani,44.00,4.18,48.18,N
+CHK-106847,08/15/2026 06:39 PM,T1,Dine In,,Dal Makhani; Paneer Wrap; Mango Lassi,26.50,$2.52,29.02,N
+CHK-106850,08/15/2026 06:41 PM,T1,Takeout,,Chicken Tikka Bowl; Dal Makhani,24.50,2.33,26.83,N
+CHK-106851,08/15/2026 06:45 PM,T1,delivery ,,Samosa (2); Garlic Naan,9.50,0.90,$10.40,N
+CHK-106853,08/15/2026 06:45 PM,T1,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106856,08/15/2026 06:47 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi,17.00,1.61,18.61,N
+CHK-106858,08/15/2026 06:48 PM,T1,Delivery,,Chana Masala Bowl; Butter Chicken Plate; Mango Lassi,$33.00,3.14,36.14,N
+CHK-106861,08/15/2026 06:52 PM,T1,Takeout,,Chana Masala Bowl; Butter Chicken Plate,28.00,2.66,30.66,N
+CHK-106863,2026-08-15 18:52:34,T2,delivery ,DP-DE0F43,Paneer Wrap; Dal Makhani,21.50,2.04,23.54,N
+CHK-106865,2026-08-15 18:55:26,T2,delivery ,DP-1D757D,Chicken Tikka Bowl; Butter Chicken Plate,$30.50,2.90,33.40,N
+CHK-106868,2026-08-15 18:57:39,T2,DELIVERY,DP-B09EDB,Butter Chicken Plate; Butter Chicken Plate; Garlic Naan,35.50,3.37,38.87,N
+CHK-106870,2026-08-15 18:59:45,T2,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106871,08/15/2026 07:15 PM,T1,Dine In,,Samosa (2); Dal Makhani; Butter Chicken Plate; Chana Masala Bowl,44.00,4.18,48.18,N
+CHK-106874,2026-08-15 19:21:43,T2,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Garlic Naan; Chicken Tikka Bowl; Garlic Naan,48.00,4.56,52.56,N
+CHK-106876,08/15/2026 07:27 PM,T1,Delivery,DP-206ACA,Chana Masala Bowl; Chana Masala Bowl; Chicken Tikka Bowl,38.50,3.66,42.16,N
+CHK-106878,2026-08-15 19:34:54,T2,DELIVERY,DP-822607,Dal Makhani; Chana Masala Bowl; Dal Makhani,32.00,3.04,35.04,N
+CHK-106880,08/15/2026 07:35 PM,T1,DELIVERY,DP-6FB3CD,Dal Makhani; Chicken Tikka Bowl; Garlic Naan; Samosa (2),$34.00,3.23,37.23,N
+CHK-106883,08/15/2026 07:36 PM,T1,Dine In,,Mango Lassi; Samosa (2); Chana Masala Bowl; Butter Chicken Plate,$39.00,3.71,42.71,N
+CHK-106884,08/15/2026 07:38 PM,T1,Takeout,,Mango Lassi,5.00,$0.47,5.47,N
+CHK-106886,2026-08-15 19:43:15,T2,Dine In,,Garlic Naan; Chana Masala Bowl; Chana Masala Bowl,27.50,2.61,$30.11,N
+CHK-106888,2026-08-15 19:48:20,T2,Dine In,,Chana Masala Bowl; Dal Makhani; Dal Makhani,32.00,3.04,35.04,N
+CHK-106891,08/15/2026 07:49 PM,T1,delivery ,DP-B5B8F0,Garlic Naan; Garlic Naan,7.00,$0.67,7.67,N
+CHK-106894,2026-08-15 19:54:19,T2,Dine In,,Dal Makhani; Mango Lassi; Garlic Naan; Samosa (2),24.50,$2.33,26.83,N
+CHK-106896,08/15/2026 07:55 PM,T1,delivery ,DP-84E689,Garlic Naan; Garlic Naan; Garlic Naan,$10.50,1.00,11.50,N
+CHK-106899,08/15/2026 08:00 PM,T1,Delivery,DP-28E220,Paneer Wrap; Dal Makhani; Mango Lassi; Butter Chicken Plate; Samosa (2),48.50,4.61,53.11,N
+CHK-106902,08/15/2026 08:03 PM,T1,DELIVERY,DP-5696BD,Samosa (2); Chicken Tikka Bowl; Dal Makhani,$30.50,2.90,33.40,N
+CHK-106904,08/15/2026 08:13 PM,T1,DELIVERY,DP-5D2F5A,Butter Chicken Plate; Dal Makhani; Chicken Tikka Bowl; Chana Masala Bowl,52.50,4.99,57.49,N
+CHK-106906,08/15/2026 08:28 PM,T1,Takeout,,Garlic Naan; Garlic Naan,7.00,0.67,7.67,N
+CHK-106909,08/15/2026 08:45 PM,T1,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-106910,08/15/2026 08:46 PM,T1,delivery ,DP-AD416D,Dal Makhani; Dal Makhani,20.00,1.90,21.90,N
+CHK-106911,08/15/2026 08:46 PM,T1,Delivery,DP-FF8FB8,Paneer Wrap; Dal Makhani; Samosa (2),27.50,2.61,30.11,N
+CHK-106912,08/15/2026 08:47 PM,T1,DELIVERY,DP-2F1E73,Dal Makhani; Dal Makhani; Samosa (2); Mango Lassi,31.00,2.94,33.94,N
+CHK-106915,2026-08-15 20:53:51,T2,delivery ,DP-840FDE,Dal Makhani; Mango Lassi,$15.00,$1.43,16.43,N
+CHK-106916,08/15/2026 09:16 PM,T1,Delivery,DP-81DBCB,Chana Masala Bowl; Paneer Wrap; Dal Makhani,33.50,3.18,36.68,N
+CHK-106919,08/15/2026 09:27 PM,T1,delivery ,DP-018E02,Paneer Wrap,11.50,1.09,12.59,N
+CHK-106920,08/16/2026 11:13 AM,T1,Takeout,,Samosa (2),$6.00,$0.57,$6.57,N
+CHK-106923,08/16/2026 11:34 AM,T1,delivery ,DP-836D57,Dal Makhani,10.00,0.95,10.95,Y
+CHK-106924,08/16/2026 11:40 AM,T1,Dine In,,Chana Masala Bowl; Mango Lassi,17.00,1.61,$18.61,N
+CHK-106926,08/16/2026 11:52 AM,T1,Takeout,,Garlic Naan; Butter Chicken Plate,19.50,1.85,21.35,N
+CHK-106929,08/16/2026 12:03 PM,T1,Delivery,DP-793BAA,Paneer Wrap; Mango Lassi; Dal Makhani; Samosa (2); Garlic Naan,36.00,3.42,$39.42,N
+CHK-106932,08/16/2026 12:18 PM,T1,delivery ,,Chicken Tikka Bowl,$14.50,1.38,$15.88,N
+CHK-106934,08/16/2026 12:18 PM,T1,delivery ,,Butter Chicken Plate; Garlic Naan,19.50,1.85,21.35,N
+CHK-106936,08/16/2026 12:20 PM,T1,DELIVERY,,Paneer Wrap; Samosa (2),17.50,$1.66,19.16,N
+CHK-106939,08/16/2026 12:25 PM,T1,Delivery,,Chana Masala Bowl; Garlic Naan; Chicken Tikka Bowl; Chana Masala Bowl,42.00,3.99,45.99,N
+CHK-106941,08/16/2026 12:26 PM,T1,delivery ,DP-324465,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-106944,2026-08-16 12:29:39,T2,DELIVERY,,Samosa (2); Dal Makhani,16.00,1.52,17.52,N
+CHK-106946,2026-08-16 12:35:01,T2,Takeout,,Butter Chicken Plate; Garlic Naan; Garlic Naan; Paneer Wrap,34.50,3.28,37.78,N
+CHK-106947,08/16/2026 12:40 PM,T1,delivery ,DP-41636E,Garlic Naan; Dal Makhani; Butter Chicken Plate; Dal Makhani,39.50,3.75,43.25,N
+CHK-106948,08/16/2026 12:44 PM,T1,Takeout,,Paneer Wrap; Dal Makhani; Paneer Wrap; Butter Chicken Plate; Mango Lassi,54.00,$5.13,$59.13,N
+CHK-106951,08/16/2026 12:45 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl,29.00,$2.75,31.75,N
+CHK-106953,08/16/2026 12:49 PM,T1,delivery ,,Chicken Tikka Bowl; Paneer Wrap; Chicken Tikka Bowl; Mango Lassi,45.50,4.32,49.82,N
+CHK-106954,08/16/2026 12:50 PM,T1,Takeout,,Samosa (2); Paneer Wrap; Mango Lassi; Mango Lassi; Dal Makhani,37.50,3.56,41.06,N
+CHK-106955,08/16/2026 12:54 PM,T1,Dine In,,Garlic Naan; Chicken Tikka Bowl; Garlic Naan,21.50,2.04,$23.54,N
+CHK-106958,08/16/2026 01:05 PM,T1,Takeout,,Paneer Wrap,$11.50,1.09,12.59,N
+CHK-106961,08/16/2026 01:21 PM,T1,Dine In,,Chicken Tikka Bowl; Chicken Tikka Bowl; Samosa (2),35.00,3.33,38.33,N
+CHK-106963,08/16/2026 01:21 PM,T1,Delivery,DP-0FDF2D,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106965,08/16/2026 01:23 PM,T1,DELIVERY,,Mango Lassi; Dal Makhani; Butter Chicken Plate,31.00,2.94,33.94,N
+CHK-106968,08/16/2026 01:34 PM,T1,Takeout,,Samosa (2),6.00,0.57,6.57,N
+CHK-106971,08/16/2026 01:37 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Chana Masala Bowl,30.00,2.85,32.85,N
+CHK-106974,08/16/2026 01:38 PM,T1,Takeout,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-106976,2026-08-16 13:39:59,T2,Dine In,,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-106977,08/16/2026 01:44 PM,T1,Delivery,DP-F0794A,Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl; Butter Chicken Plate,51.50,4.89,56.39,N
+CHK-106979,08/16/2026 01:44 PM,T1,Dine In,,Chana Masala Bowl; Garlic Naan; Garlic Naan,19.00,1.80,20.80,N
+CHK-106981,08/16/2026 01:57 PM,T1,DELIVERY,DP-27C4A5,Chicken Tikka Bowl; Chana Masala Bowl,26.50,2.52,29.02,N
+CHK-106982,08/16/2026 01:59 PM,T1,delivery ,DP-6B7962,Samosa (2),6.00,$0.57,6.57,N
+CHK-106984,2026-08-16 14:01:58,T2,DELIVERY,DP-124762,Samosa (2); Mango Lassi; Chicken Tikka Bowl,25.50,2.42,27.92,N
+CHK-106986,08/16/2026 02:10 PM,T1,Dine In,,Butter Chicken Plate; Mango Lassi; Chicken Tikka Bowl,35.50,3.37,38.87,N
+CHK-106987,08/16/2026 02:25 PM,T1,DELIVERY,DP-19248C,Butter Chicken Plate,16.00,1.52,17.52,N
+CHK-106990,2026-08-16 14:26:38,T2,Delivery,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-106993,08/16/2026 02:33 PM,T1,DELIVERY,DP-EAF8A3,Dal Makhani; Dal Makhani; Chicken Tikka Bowl,34.50,3.28,$37.78,N
+CHK-106996,08/16/2026 02:52 PM,T1,DELIVERY,DP-B9FD33,Mango Lassi,5.00,0.47,5.47,N
+CHK-106998,08/16/2026 03:36 PM,T1,Dine In,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-106999,2026-08-16 15:40:40,T2,Takeout,,Paneer Wrap; Chicken Tikka Bowl; Chana Masala Bowl,38.00,3.61,41.61,N
+CHK-107000,08/16/2026 03:41 PM,T1,Takeout,,Butter Chicken Plate; Butter Chicken Plate; Chana Masala Bowl; Samosa (2),50.00,4.75,54.75,N
+CHK-107001,2026-08-16 16:23:45,T2,Delivery,DP-5D264D,Mango Lassi; Chicken Tikka Bowl; Mango Lassi,24.50,2.33,26.83,N
+CHK-107002,08/16/2026 04:51 PM,T1,Delivery,DP-965767,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-107005,08/16/2026 05:00 PM,T1,Takeout,,Dal Makhani; Chana Masala Bowl; Dal Makhani; Paneer Wrap,43.50,4.13,47.63,N
+CHK-107006,2026-08-16 17:02:25,T2,DELIVERY,DP-870CB4,Mango Lassi,5.00,0.47,5.47,N
+CHK-107007,08/16/2026 05:07 PM,T1,DELIVERY,DP-A9FA73,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-107008,08/16/2026 05:08 PM,T1,Dine In,,Garlic Naan,3.50,0.33,3.83,N
+CHK-107011,08/16/2026 05:13 PM,T1,DELIVERY,,Chicken Tikka Bowl; Paneer Wrap; Chana Masala Bowl,38.00,3.61,41.61,N
+CHK-107014,08/16/2026 05:13 PM,T1,Delivery,DP-FF5F62,Chana Masala Bowl; Dal Makhani,22.00,2.09,24.09,N
+CHK-107015,08/16/2026 05:20 PM,T1,Dine In,,Butter Chicken Plate; Garlic Naan; Mango Lassi,24.50,2.33,26.83,N
+CHK-107018,08/16/2026 05:21 PM,T1,DELIVERY,,Chana Masala Bowl; Mango Lassi; Dal Makhani,27.00,2.56,29.56,N
+CHK-107019,08/16/2026 05:27 PM,T1,Dine In,,Mango Lassi,5.00,0.47,5.47,N
+CHK-107020,08/16/2026 05:31 PM,T1,Delivery,dp-f4218c,Mango Lassi; Samosa (2),11.00,1.04,$12.04,Y
+CHK-107023,08/16/2026 05:31 PM,T1,Takeout,,Mango Lassi; Paneer Wrap; Garlic Naan; Samosa (2),$26.00,2.47,28.47,N
+CHK-107026,2026-08-16 17:32:17,T2,Delivery,DP-A9660B,Mango Lassi; Chana Masala Bowl,17.00,1.61,18.61,N
+CHK-107028,2026-08-16 17:39:24,T2,Delivery,,Butter Chicken Plate,16.00,1.52,$17.52,N
+CHK-107029,08/16/2026 06:00 PM,T1,Dine In,,Dal Makhani; Dal Makhani; Samosa (2),26.00,2.47,28.47,N
+CHK-107031,08/16/2026 06:02 PM,T1,Delivery,DP-4B4774,Mango Lassi; Chicken Tikka Bowl; Dal Makhani; Paneer Wrap; Mango Lassi,$46.00,4.37,50.37,N
+CHK-107032,08/16/2026 06:06 PM,T1,delivery ,DP-2950EA,Mango Lassi; Dal Makhani; Butter Chicken Plate; Dal Makhani,41.00,$3.90,44.90,N
+CHK-107035,2026-08-16 18:09:11,T2,Takeout,,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-107036,08/16/2026 06:11 PM,T1,Delivery,,Dal Makhani,10.00,0.95,10.95,N
+CHK-107037,2026-08-16 18:18:02,T2,Delivery,C97151,Paneer Wrap; Dal Makhani; Chicken Tikka Bowl,36.00,3.42,39.42,N
+CHK-107039,08/16/2026 06:23 PM,T1,delivery ,DP-95CC44,Chana Masala Bowl; Chicken Tikka Bowl,26.50,2.52,29.02,N
+CHK-107041,08/16/2026 06:23 PM,T1,Dine In,,Chicken Tikka Bowl; Chana Masala Bowl; Chana Masala Bowl; Dal Makhani; Chana Masala Bowl,60.50,5.75,66.25,N
+CHK-107044,08/16/2026 06:25 PM,T1,delivery ,DP-2B7055,Chana Masala Bowl; Dal Makhani,$22.00,2.09,24.09,N
+CHK-107047,2026-08-16 18:26:53,T2,Takeout,,Chicken Tikka Bowl; Chana Masala Bowl; Dal Makhani,$36.50,3.47,39.97,N
+CHK-107048,08/16/2026 06:27 PM,T1,delivery ,,Dal Makhani; Chana Masala Bowl,22.00,2.09,24.09,N
+CHK-107050,08/16/2026 06:27 PM,T1,delivery ,DP-994EF7,Samosa (2); Samosa (2); Dal Makhani; Chicken Tikka Bowl,$36.50,3.47,39.97,N
+CHK-107053,08/16/2026 06:28 PM,T1,Delivery,DP-87697C,Dal Makhani; Samosa (2); Paneer Wrap,27.50,2.61,30.11,N
+CHK-107054,08/16/2026 06:29 PM,T1,Takeout,,Mango Lassi,5.00,0.47,5.47,N
+CHK-107055,08/16/2026 06:30 PM,T1,Dine In,,Samosa (2); Mango Lassi,11.00,1.04,12.04,N
+CHK-107058,08/16/2026 06:31 PM,T1,Delivery,DP-70F78A,Paneer Wrap; Chicken Tikka Bowl,26.00,2.47,28.47,N
+CHK-107061,08/16/2026 06:32 PM,T1,Dine In,,Butter Chicken Plate,$16.00,1.52,17.52,N
+CHK-107062,08/16/2026 06:38 PM,T1,DELIVERY,DP-5177B1,Butter Chicken Plate; Garlic Naan,$19.50,1.85,21.35,N
+CHK-107063,08/16/2026 06:38 PM,T1,Dine In,,Mango Lassi; Samosa (2),11.00,1.04,12.04,N
+CHK-107065,08/16/2026 06:41 PM,T1,Delivery,DP-18449A,Butter Chicken Plate; Butter Chicken Plate,32.00,3.04,$35.04,N
+CHK-107066,08/16/2026 06:46 PM,T1,Delivery,,Dal Makhani; Butter Chicken Plate; Mango Lassi,31.00,2.94,33.94,N
+CHK-107067,2026-08-16 18:54:37,T2,DELIVERY,,Butter Chicken Plate; Samosa (2); Garlic Naan; Paneer Wrap,37.00,3.52,40.52,Y
+CHK-107069,08/16/2026 06:55 PM,T1,Delivery,DP-DEE296,Garlic Naan; Chicken Tikka Bowl; Chicken Tikka Bowl,32.50,3.09,35.59,N
+CHK-107071,08/16/2026 06:57 PM,T1,Delivery,DP-3618C3,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-107072,08/16/2026 07:03 PM,T1,delivery ,DP-C5CF51,Chana Masala Bowl,12.00,1.14,13.14,N
+CHK-107074,08/16/2026 07:04 PM,T1,Dine In,,Chana Masala Bowl; Mango Lassi; Garlic Naan,20.50,1.95,22.45,N
+CHK-107076,08/16/2026 07:06 PM,T1,Dine In,,Garlic Naan; Garlic Naan,7.00,0.67,7.67,N
+CHK-107078,08/16/2026 07:08 PM,T1,Takeout,,Paneer Wrap; Chicken Tikka Bowl; Chicken Tikka Bowl; Paneer Wrap,52.00,4.94,$56.94,N
+CHK-107079,08/16/2026 07:09 PM,T1,Dine In,,Samosa (2); Garlic Naan; Samosa (2); Paneer Wrap,27.00,2.56,29.56,N
+CHK-107080,08/16/2026 07:16 PM,T1,DELIVERY,DP-7071CE,Samosa (2); Butter Chicken Plate; Dal Makhani; Samosa (2); Dal Makhani,48.00,4.56,52.56,N
+CHK-107083,08/16/2026 07:16 PM,T1,delivery ,DP-AF32D9,Chicken Tikka Bowl; Samosa (2),20.50,1.95,22.45,N
+CHK-107086,08/16/2026 07:17 PM,T1,Takeout,,Mango Lassi; Chana Masala Bowl; Butter Chicken Plate; Garlic Naan; Chana Masala Bowl,48.50,$4.61,53.11,N
+CHK-107088,2026-08-16 19:21:02,T2,Delivery,DP-4BBDA6,Mango Lassi; Mango Lassi,10.00,0.95,10.95,N
+CHK-107090,08/16/2026 07:25 PM,T1,delivery ,,Samosa (2),$6.00,0.57,6.57,N
+CHK-107091,08/16/2026 07:28 PM,T1,Dine In,,Paneer Wrap; Mango Lassi; Samosa (2); Dal Makhani; Paneer Wrap,44.00,4.18,48.18,N
+CHK-107094,2026-08-16 19:30:29,T2,delivery ,DP-FCE7F4,Butter Chicken Plate; Garlic Naan,$19.50,1.85,21.35,N
+CHK-107096,2026-08-16 19:32:28,T2,DELIVERY,DP-70F83E,Garlic Naan; Samosa (2); Dal Makhani; Garlic Naan; Garlic Naan,26.50,$2.52,29.02,N
+CHK-107097,08/16/2026 07:32 PM,T1,delivery ,,Mango Lassi; Butter Chicken Plate; Chana Masala Bowl,33.00,3.14,36.14,N
+CHK-107099,08/16/2026 07:37 PM,T1,Dine In,,Samosa (2); Dal Makhani; Garlic Naan,19.50,1.85,21.35,N
+CHK-107101,08/16/2026 07:42 PM,T1,delivery ,DP-2DCD13,Paneer Wrap; Chana Masala Bowl; Mango Lassi; Dal Makhani,38.50,3.66,42.16,N
+CHK-107103,08/16/2026 07:45 PM,T1,DELIVERY,,Dal Makhani; Chana Masala Bowl; Dal Makhani,32.00,3.04,$35.04,N
+CHK-107106,08/16/2026 07:46 PM,T1,Takeout,,Samosa (2); Chana Masala Bowl; Chana Masala Bowl,30.00,2.85,32.85,N
+CHK-107108,08/16/2026 08:10 PM,T1,delivery ,DP 314CC3,Butter Chicken Plate; Paneer Wrap; Garlic Naan; Chicken Tikka Bowl; Garlic Naan,49.00,4.66,53.66,N
+CHK-107111,08/16/2026 08:23 PM,T1,delivery ,DP-49FD69,Chicken Tikka Bowl,14.50,1.38,15.88,N
+CHK-107114,08/16/2026 08:42 PM,T1,Dine In,,Samosa (2); Mango Lassi; Chicken Tikka Bowl,25.50,2.42,27.92,N
+CHK-107116,08/16/2026 08:43 PM,T1,DELIVERY,DP-275A3E,Chicken Tikka Bowl; Dal Makhani; Dal Makhani; Mango Lassi,39.50,3.75,43.25,N
+CHK-107118,2026-08-16 20:43:45,T2,Takeout,,Paneer Wrap; Butter Chicken Plate,27.50,2.61,30.11,N
+CHK-107121,08/16/2026 08:48 PM,T1,DELIVERY,DP-638BC8,Chana Masala Bowl; Chana Masala Bowl,24.00,2.28,26.28,N
+CHK-107124,08/16/2026 08:50 PM,T1,DELIVERY,,Dal Makhani; Butter Chicken Plate,26.00,2.47,28.47,N
+CHK-107127,08/16/2026 09:11 PM,T1,Dine In,,Paneer Wrap; Samosa (2); Chicken Tikka Bowl,32.00,3.04,35.04,N
+CHK-107129,08/16/2026 09:22 PM,T1,Takeout,,Garlic Naan; Mango Lassi; Dal Makhani; Paneer Wrap,30.00,2.85,32.85,N
+CHK-107131,08/16/2026 09:28 PM,T1,DELIVERY,DP-1BFC72,Chicken Tikka Bowl; Butter Chicken Plate; Chicken Tikka Bowl,$45.00,4.28,49.28,N
+CHK-107133,08/16/2026 09:51 PM,T1,Dine In,,Garlic Naan; Garlic Naan; Butter Chicken Plate,$23.00,2.19,25.19,N
