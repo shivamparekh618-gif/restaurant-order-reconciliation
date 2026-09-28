@@ -1,5 +1,10 @@
 # Restaurant Order Reconciliation
 
+[![tests](https://github.com/shivamparekh618-gif/restaurant-order-reconciliation/actions/workflows/tests.yml/badge.svg)](https://github.com/shivamparekh618-gif/restaurant-order-reconciliation/actions/workflows/tests.yml)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+
 **Which delivery orders didn't make it into the POS, which ones cost money, and what should the manager fix first?**
 
 A restaurant that takes delivery-app orders has two records of every sale: the delivery platform's export and its own POS. They are supposed to agree, but they don't. Orders get dropped between the tablet and the kitchen, cancelled orders stay on the books, and menu prices drift apart. Usually nobody catches it, because comparing two spreadsheets with different IDs, timezones and formats by hand takes hours.
@@ -8,7 +13,19 @@ This project is a small Python + SQL workflow that does the comparison and turns
 
 > **Portfolio prototype.** The idea comes from the restaurant-operations problems ServiQ works on, but this is not a deployed ServiQ feature and it uses no real ServiQ or customer data. All orders, prices and IDs are synthetic. The generator is in [`recon/generate.py`](recon/generate.py).
 
-![Manager view](docs/manager_view.png)
+**[Open the live manager view →](https://shivamparekh618-gif.github.io/restaurant-order-reconciliation/)**
+
+[![Manager view](docs/manager_view.png)](https://shivamparekh618-gif.github.io/restaurant-order-reconciliation/)
+
+### At a glance
+
+| | |
+|---|---|
+| **Problem** | Delivery-app orders and POS records disagree, and nobody has time to compare them by hand |
+| **Data** | 2 weeks, 772 platform orders, 1,528 POS checks (synthetic, with realistic mess) |
+| **Built** | Two-pass matching in SQL, 5 exception rules, a scoring model, root-cause checks, one-page HTML view |
+| **Accuracy** | 100% match precision, 99.7% recall against the planted answer key |
+| **Key finding** | One stale menu price explains 141 of 143 price mismatches, about $6,150/year |
 
 ---
 
@@ -71,7 +88,7 @@ The other two cards in the manager view work the same way:
 
 ## Run it
 
-Requires Python 3.9+. Standard library only (`sqlite3`, `csv`, `zoneinfo`), nothing to install.
+Requires Python 3.10+. Standard library only (`sqlite3`, `csv`, `zoneinfo`), nothing to install.
 
 ```bash
 git clone https://github.com/shivamparekh618-gif/restaurant-order-reconciliation.git
@@ -79,7 +96,7 @@ cd restaurant-order-reconciliation
 
 python run.py                 # uses the CSVs in data/
 python run.py --regenerate    # rebuild the synthetic data first (seeded, so it's reproducible)
-python -m unittest -v         # 10 tests
+python -m unittest -v         # 10 tests (also run on every push by GitHub Actions)
 ```
 
 Outputs, all in `output/`:
@@ -90,6 +107,8 @@ Outputs, all in `output/`:
 | `exception_queue.csv` | Every exception, ranked, with the score broken into its parts and a next step |
 | `matched_orders.csv` | Every platform-to-POS pair and *how* it was matched, so the fuzzy ones can be spot-checked |
 | `run_summary.json` | Data-quality counts, match counts, evaluation scores |
+
+`docs/index.html` is a copy of the manager view, served by GitHub Pages as the live demo.
 
 To run it on other exports, replace the two files in `data/` with the same columns (see [`sql/01_schema.sql`](sql/01_schema.sql)) and delete `data/_synthetic_truth.csv`.
 
