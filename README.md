@@ -11,7 +11,9 @@ A restaurant that takes delivery-app orders has two records of every sale: the d
 
 This project is a small Python + SQL workflow that does the comparison and turns the gaps into a ranked to-do list and a one-page manager view.
 
-> **Portfolio prototype.** The idea comes from the restaurant-operations problems ServiQ works on, but this is not a deployed ServiQ feature and it uses no real ServiQ or customer data. All orders, prices and IDs are synthetic. The generator is in [`recon/generate.py`](recon/generate.py).
+> **Why I built this.** I co-founded ServiQ, a startup building an operations platform that connects restaurant POS, digital ordering, finance and labor data. Before that I ran daily operations as a general manager at a fast-casual restaurant. Delivery orders that don't line up with the POS are one of the everyday problems in that world.
+>
+> This repo is a **personal portfolio prototype**. It is not a ServiQ product feature and uses no ServiQ or customer data. All orders, prices and IDs are synthetic; the generator is in [`recon/generate.py`](recon/generate.py).
 
 **[Open the live manager view →](https://shivamparekh618-gif.github.io/restaurant-order-reconciliation/)**
 
